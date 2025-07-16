@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Career Navigator</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <style>
+    :root {
+      --primary-color: #895129;
+      --secondary-color: #0056b3;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-image: url("/static/bg1.jpg");
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+    }
+
+    .navbar-brand {
+      color: var(--primary-color) !important;
+    }
+
+    .btn-primary {
+      background-color: var(--primary-color);
+      border: none;
+      padding: 12px 30px;
+      border-radius: 25px;
+    }
+
+    .btn-primary:hover {
+      background-color: var(--secondary-color);
+    }
+
+    .upload-section {
+      margin-top: 160px;
+      margin-bottom: 60px;
+    }
+
+    .upload-box {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px;
+      background-color: #ffffff;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+    }
+
+    footer {
+      margin-top: 89px;
+      background-color: rgba(79, 41, 24, 0.85);
+      font-size: 0.9rem;
+      color: #fff;
+      padding: 5px 0;
+    }
+  </style>
+</head>
+
+<body>
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+  <div class="container">
+    <a class="navbar-brand fw-bold text-primary d-flex align-items-center" href= "{{ url_for('home')}}">
+      <img src="{{ url_for('static', filename='nav-logo.png') }}" alt="Logo" style="height: 50px; margin-right: 10px;">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="btn btn-primary ms-3" href="{{ url_for('upload') }}">Job Role</a>
+        </li>
+        <li class="nav-item">
+          <a class="btn btn-primary ms-3" href="{{ url_for('salary') }}">Predict your Salary</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Upload Resume Section -->
+<section class="upload-section">
+  <div class="upload-box">
+    <h2 class="text-center">Estimate Your Salary</h2>
+    <p class="text-center text-muted mb-4">Enter your details to get an accurate salary prediction.</p>
+
+    <form method="POST" action="{{ url_for('salary') }}">
+  <div class="row g-3">
+    <!-- Job Title -->
+    <div class="col-md-6">
+      <label for="job_title" class="form-label">Job Title</label>
+      <select id="job_title" name="job_title" class="form-select" required>
+        <option>AI Architect</option>
+        <option>AI Consultant</option>
+        <option>AI Product Manager</option>
+        <option>AI Research Scientist</option>
+        <option>AI Software Engineer</option>
+        <option>AI Specialist</option>
+        <option>Autonomous Systems Engineer</option>
+        <option>Computer Vision Engineer</option>
+        <option>Data Analyst</option>
+        <option>Data Engineer</option>
+        <option>Data Scientist</option>
+        <option>Deep Learning Engineer</option>
+        <option>Head of AI</option>
+        <option>ML Ops Engineer</option>
+        <option>Machine Learning Engineer</option>
+        <option>Machine Learning Researcher</option>
+        <option>NLP Engineer</option>
+        <option>Principal Data Scientist</option>
+        <option>Research Scientist</option>
+        <option>Robotics Engineer</option>
+      </select>
+    </div>
+
+    <!-- Experience Level -->
+    <div class="col-md-6">
+      <label for="experience_level" class="form-label">Experience Level</label>
+      <select id="experience_level" name="experience_level" class="form-select" required>
+        <option value="EN">EN (Entry)</option>
+        <option value="MI">MI (Mid)</option>
+        <option value="SE">SE (Senior)</option>
+        <option value="EX">EX (Executive)</option>
+      </select>
+    </div>
+
+    <!-- Employment Type -->
+    <div class="col-md-6">
+      <label for="employment_type" class="form-label">Employment Type</label>
+      <select id="employment_type" name="employment_type" class="form-select" required>
+        <option value="ft">Full-time</option>
+        <option value="pt">Part-time</option>
+        <option value="ct">Contract</option>
+        <option value="fl">Freelance</option>
+      </select>
+    </div>
+
+    <!-- Company Location -->
+    <div class="col-md-6">
+      <label for="company_location" class="form-label">Company Location</label>
+      <select id="company_location" name="company_location" class="form-select" required>
+        {% for country in [
+          'Australia', 'Austria', 'Canada', 'China', 'Denmark', 'Finland', 'France', 'Germany',
+          'India', 'Ireland', 'Israel', 'Japan', 'Netherlands', 'Norway', 'Singapore',
+          'South Korea', 'Sweden', 'Switzerland', 'United Kingdom', 'United States'
+        ] %}
+        <option value="{{ country }}">{{ country }}</option>
+        {% endfor %}
+      </select>
+    </div>
+
+    <!-- Company Size -->
+    <div class="col-md-6">
+      <label for="company_size" class="form-label">Company Size</label>
+      <select id="company_size" name="company_size" class="form-select" required>
+        <option value="S">Small (1–50)</option>
+        <option value="M">Medium (51–250)</option>
+        <option value="L">Large (251+)</option>
+      </select>
+    </div>
+
+    <!-- Education Required -->
+    <div class="col-md-6">
+      <label for="education_required" class="form-label">Education Level</label>
+      <select id="education_required" name="education_required" class="form-select" required>
+        <option value = "Associate">Associate</option>
+        <option value = "Bachelor">Bachelor</option>
+        <option value = "Master">Master</option>
+        <option value = "Phd">PhD</option>
+      </select>
+    </div>
+
+    <!-- Years of Experience -->
+    <div class="col-md-6">
+      <label for="years_experience" class="form-label">Years of Experience</label>
+      <input type="number" id="years_experience" name="years_experience" min="0" max="50" step="1" class="form-control" required>
+    </div>
+
+    <!-- Industry -->
+    <div class="col-md-6">
+      <label for="industry" class="form-label">Industry</label>
+      <select id="industry" name="industry" class="form-select" required>
+        <option>Automotive</option>
+        <option>Consulting</option>
+        <option>Education</option>
+        <option>Energy</option>
+        <option>Finance</option>
+        <option>Gaming</option>
+        <option>Government</option>
+        <option>Healthcare</option>
+        <option>Manufacturing</option>
+        <option>Media</option>
+        <option>Real Estate</option>
+        <option>Retail</option>
+        <option>Technology</option>
+        <option>Telecommunications</option>
+        <option>Transportation</option>
+      </select>
+    </div>
+
+    <!-- Benefits Score -->
+    <div class="col-md-6">
+      <label for="benefits_score" class="form-label">Benefits Score (5.0 to 10.0)</label>
+      <input type="number" id="benefits_score" name="benefits_score" min="5" max="10" step="0.1" class="form-control" required>
+    </div>
+  </div>
+
+  <!-- Submit Button -->
+  <div class="text-center mt-4">
+    <button type="submit" class="btn btn-primary px-5">Predict Salary</button>
+  </div>
+</form>
+
+<!-- Prediction Result -->
+{% if prediction %}
+<div class="alert alert-success text-center mt-4" role="alert">
+  <strong>Predicted Salary: ${{ prediction }}</strong>
+</div>
+{% endif %}
+
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="text-white">
+  <div class="container py-2">
+    <div class="row text-center text-md-start">
+      <div class="col-md-6 mb-2">
+        <h5 class="fw-bold mb-1">Career Navigator</h5>
+        <p class="mb-0">Helping you land where you belong</p>
+      </div>
+      <div class="col-md-6 mb-2">
+        <h5 class="fw-bold mb-1">Contact Us</h5>
+        <p class="mb-0"><i class="fas fa-envelope me-2"></i>support@careernavigator.com</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

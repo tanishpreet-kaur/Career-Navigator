@@ -1,0 +1,2001 @@
+Name,Category,Education,Skills,Experience
+Rhonda Richards,Python Developer,MTECH,"pandas, python, django",3.1
+Anthony Sanchez MD,Tableau Developer,MBA,"sql, dashboards, data visualization, tableau, bi tools",3.2
+Angela Mejia,Hadoop,MTECH,"pig, mapreduce, hive, ,",0.5
+Anne Park DDS,HR,MBA,"interviewing, ms excel, communication, employee relations, recruitment",7.7
+Lori Murray,SAP Developer,BTECH,"erp, sap hana, sap, fiori",13.2
+Natalie Aguirre,Tableau Developer,BTECH,"sql, dashboards, data visualization",3.3
+Melanie Vazquez,Hadoop,BTECH,"cam, solidworks, thermodynamics",0.5
+George West,Automation Testing,BE,"pytest, automation, python",3.5
+James Wiley,Network Security Engineer,BTECH,,2.5
+Douglas Meyer,Operations Manager,MBA,"strategy, logistics, operations, supply chain",7.7
+Kevin White,Automation Testing,BE,"pytest, python, selenium",10.9
+Christina Brown,Operations Manager,MBA,"supply chain, operations, team management",5.6
+Jill Martin,Operations Manager,MBA,,11.8
+Jason Anderson,Hadoop,BTECH,"embedded systems, c, matlab, c++",1.6
+Tiffany Guerrero,,BTECH,", solidity, ethereum, smart contracts",2.8
+George Martin,,BA,"sculpting, psychology, sociology,    , history",0.8
+Kyle Dean,Java Developer,BE,"spring, java, hibernate",13.6
+Melissa Reynolds,Health and fitness,BSC,"fitness coaching, nutrition, yoga, training",10.5
+Veronica Cohen,Web Designing,BA,"javascript, bootstrap, html, figma, css",8.9
+Larry Schneider,Hadoop,BTECH,"spark, mapreduce, pig, ,",12.5
+Joel Haney,DotNet Developer,BTECH,"mvc, .net, asp.net, c#, entity framework",6.8
+Nicole Nelson,PMO,MBA,"jira, project management, ms project",8.4
+Christine Chavez,Health and fitness,BSC,"nutrition, yoga, fitness coaching",7.0
+Stacey Moore,Tableau Developer,BTECH,"spark, mapreduce, hive, ,",1.0
+Kyle Taylor,Hadoop,BTECH,"spark, hive, ,",7.4
+Danny Bradley,Business Analyst,BTECH,"sql, power bi, analytics, excel, requirement gathering",8.4
+Brent Wright,Java Developer,BE,"java, microservices, hibernate, spring, rest api",1.9
+Mrs. Alexandra Weaver,Python Developer,BE,"python, django, flask",5.1
+Jonathan Lawrence,Sales,MBA,"lead generation, crm, negotiation, ",0.6
+Kathy Williams,DotNet Developer,BTECH,"asp.net, entity framework, c#, .net, mvc",7.7
+Anthony Chang,Engineer,BE,"matlab, c, embedded systems, control systems",12.4
+Brent White,Network Security Engineer,BTECH,"vpn, security, cybersecurity, networking",6.1
+Scott Dean,Python Developer,MTECH,"python, fastapi, flask",14.8
+Randy Ho,Blockchain,MTECH,", ethereum, web3.js, smart contracts",2.5
+Nathaniel Hoffman,DevOps,BE,"ci/cd, jenkins, docker",3.9
+Ryan Burns,HR,MBA,"interviewing, ms excel, communication, employee relations, recruitment",5.3
+Justin Beard,Operations Manager,BTECH,"strategy, supply chain, logistics, operations, team management",0.5
+Matthew Hogan,Python Developer,BTECH,"django, pandas, python",0.7
+Linda Jones,Blockchain,MTECH,"web3.js, , solidity, ethereum",12.5
+Susan Edwards,Mechanical Engineer,BE,"autocad, cam, mechanics, solidworks, thermodynamics",12.4
+David Vazquez,Python Developer,BTECH,"flask, fastapi, django, pandas",6.1
+Anna Butler MD,Python Developer,BTECH,"pandas, flask, fastapi, python, django",14.0
+Kevin Welch,Java Developer,MTECH,"hibernate, spring, rest api, java, microservices",11.1
+Lisa Yang,Hadoop,BE,"pig, spark, mapreduce, ,, hive",5.0
+Eric Fowler,Database,BTECH,"mongodb, oracle, sql",14.4
+Danielle Tran,Java Developer,BE,"spring, microservices, hibernate, rest api",5.3
+William Rowland,Database,BE,"mongodb, sql, dbms",2.4
+Emily Jensen,DotNet Developer,BE,"mvc, entity framework, .net, asp.net, c#",6.1
+Jeffrey Rivera,Business Analyst,BTECH,"analytics, requirement gathering, excel",6.3
+Mr. Kevin Lloyd,Civil Engineer,BTECH,"estimation, staad pro, autocad, structural analysis, construction",2.4
+Randall Potter,ETL Developer,BE,"sql, etl, informatica, ssrs, data warehousing",9.7
+Steven Myers,Sales,BTECH,"signal processing, matlab, circuit design, electronics, vlsi",6.3
+Amanda Torres,Business Analyst,BTECH,"sql, power bi, requirement gathering",11.0
+Abigail Pierce,PMO,BTECH,"agile, ms project, scrum, project management",0.1
+Ryan Mooney,Python Developer,MTECH,"mapreduce, hive, spark, pig",11.9
+Christine Haney,Mechanical Engineer,BTECH,"thermodynamics, solidworks, mechanics, autocad, cam",13.5
+Natasha Carey,Database,MTECH,"mongodb, postgresql, sql",0.3
+Russell Long,Hadoop,BE,",, spark, pig, hive",0.8
+Jason Wilson,Electrical Engineer,BTECH,"matlab, vlsi, signal processing, circuit design, electronics",4.6
+Amber Cox,HR,BA,"employee relations, interviewing, communication, ms excel",14.2
+Shawn Wallace,Data Scientist,MTECH,"deep learning, statistics, data mining, ml, python",0.0
+Andrea Patel,Arts,MTECH,"ethereum, , web3.js, smart contracts",3.3
+Veronica Perry,Engineer,BE,"embedded systems, c++, control systems",14.6
+Robert Hartman,Electrical Engineer,BE,"vlsi, signal processing, circuit design",3.3
+Erin Moore,HR,BA,"communication, ms excel, interviewing, recruitment",7.9
+Dawn Wise,DevOps,BTECH,"project management, jira, agile",13.6
+Mrs. Lisa Oliver,Blockchain,MTECH,"web3.js, , smart contracts, solidity",9.5
+Thomas Schmidt,Database,MTECH,"sql, mongodb, postgresql, oracle",14.3
+Amanda Jones,Business Analyst,MBA,"power bi, sql, excel",14.3
+Angela Wallace,,BA,,0.5
+Cynthia Vazquez,DevOps,MTECH,"ansible, docker, kubernetes, ci/cd, jenkins",3.6
+Jack Powell,Operations Manager,MBA,"strategy, supply chain, team management",6.8
+Jason Parker,Sales,MBA,"cold calling, lead generation, negotiation, ",10.4
+Melvin Ferguson,Operations Manager,BTECH,"logistics, operations, supply chain",9.5
+Eric Holmes,Mechanical Engineer,BE,"solidworks, cam, mechanics, thermodynamics",10.0
+Benjamin White DVM,ETL Developer,BTECH,"data warehousing, informatica, etl, sql",9.8
+Kenneth Fox,ETL Developer,MTECH,"ssrs, etl, sql, data warehousing",12.4
+Sandra Simmons MD,Health and fitness,BA,"nutrition, yoga, fitness coaching, training, anatomy",12.8
+Amy Ruiz,Web Designing,BTECH,"javascript, html, css, bootstrap",4.0
+Laura Sellers,Arts,BA,"sculpting,    , painting, psychology",14.2
+Ian Fields,Tableau Developer,BTECH,"bi tools, dashboards, sql",4.1
+Michael Ruiz,DevOps,MTECH,"ansible, docker, jenkins, ci/cd, kubernetes",2.5
+Sarah Gray,HR,BA,"recruitment, ms excel, communication",11.0
+Jon Reyes,Arts,BA,"psychology, drawing, sociology, sculpting, history",7.2
+Eduardo Taylor,Operations Manager,BTECH,"team management, strategy, supply chain, operations",5.6
+Donna Torres,Automation Testing,BTECH,"pytest, selenium, junit, automation, python",14.4
+Mandy Calderon,Python Developer,MTECH,"python, django, flask, fastapi",12.8
+Bianca Burns,Automation Testing,BE,"junit, pytest, automation",7.0
+Tyler White,Engineer,BE,"rest api, microservices, java",2.8
+Daniel Martin,Electrical Engineer,BTECH,"matlab, circuit design, electronics, signal processing",10.7
+David Valencia,Sales,BA,"crm, negotiation, lead generation, , cold calling",11.7
+Anthony Clark,Mechanical Engineer,BE,"autocad, thermodynamics, mechanics, solidworks, cam",0.8
+Amy Shea,ETL Developer,BTECH,"informatica, sql, data warehousing, ssrs",12.0
+Emily Johnson,Electrical Engineer,BTECH,"team management, operations, logistics, supply chain",14.5
+Tom Elliott,Python Developer,BE,"fastapi, django, pandas, python",13.5
+Benjamin Williams,Advocate,BA,"law, contracts, legal research",8.4
+Tara Gonzales,Engineer,BSC,"fitness coaching, training, yoga, nutrition, anatomy",0.8
+John Wilson,Hadoop,BTECH,"pig, mapreduce, hive",11.2
+Michael Simmons II,Arts,BA,"drawing, sociology, history",0.4
+Peter Randall,Tableau Developer,BTECH,"data visualization, bi tools, tableau, sql",0.2
+Angela Peterson,Hadoop,BTECH,"mapreduce, pig, hive, ,",7.1
+Diamond Carey,Tableau Developer,MBA,"bi tools, tableau, sql",13.0
+Dana Murray,DevOps,BE,"kubernetes, ansible, docker",13.0
+Zachary Rogers,Electrical Engineer,BTECH,"vlsi, signal processing, circuit design, matlab",2.4
+Ronald Bishop,ETL Developer,BE,"informatica, data warehousing, sql, ssrs, etl",3.4
+Joshua Ballard,Tableau Developer,BTECH,,0.2
+Shari Adams,ETL Developer,BTECH,"etl, informatica, ssrs, sql",1.1
+David Stephens,Advocate,BA,"drafting, legal research, litigation, law",7.4
+Dr. Lynn Alvarado,SAP Developer,BTECH,"sap, sap hana, erp, abap",1.9
+Ronald Alexander,Tableau Developer,MBA,"bi tools, tableau, data visualization",4.1
+Trevor Silva,Network Security Engineer,BE,"firewall, vpn, networking, cybersecurity, security",2.9
+Carol Adams,Civil Engineer,BE,"construction, staad pro, autocad, structural analysis",3.5
+Danielle Guerra,Operations Manager,MBA,"team management, logistics, supply chain, strategy, operations",12.1
+Mckenzie Keller,Python Developer,BTECH,"django, pandas, flask, python, fastapi",14.5
+James Hayes,Health and fitness,BTECH,"pytest, automation, selenium",4.8
+Tracy Vargas,Operations Manager,BTECH,"supply chain, strategy, team management",1.4
+Deborah Cardenas,Data Scientist,BTECH,"statistics, python, deep learning",3.8
+Nicholas Burton,Health and fitness,BA,"yoga, anatomy, fitness coaching",3.6
+Todd Vasquez,Health and fitness,BA,,6.5
+Sandra Pearson,ETL Developer,BTECH,"ssrs, etl, sql, data warehousing",3.5
+Samantha Johnson,PMO,MBA,"jira, scrum, project management, ms project",0.9
+Ann Patel,Advocate,BA,"contracts, litigation, drafting, law, legal research",13.2
+Dawn Fuentes,Engineer,BE,"control systems, c++, c",0.8
+Norma Sherman,Web Designing,BSC,"bootstrap, javascript, figma, html, css",1.0
+John Shepard,Operations Manager,BTECH,"strategy, team management, supply chain",14.9
+Anthony Barnes,Tableau Developer,BTECH,"data visualization, dashboards, sql",5.6
+Michelle Serrano,Operations Manager,BTECH,"supply chain, strategy, team management",8.0
+Wayne Reyes,Database,BE,"dbms, oracle, postgresql, sql",8.7
+Anthony Gibson,ETL Developer,BE,"data warehousing, etl, sql, informatica, ssrs",5.5
+Raymond Shannon,Engineer,BTECH,"control systems, embedded systems, c++, c, matlab",11.0
+Pamela Berger,,MTECH,"mapreduce, ,, pig, spark, hive",4.9
+Debbie Green,Civil Engineer,BTECH,"estimation, autocad, construction, structural analysis",10.8
+Travis Davis,PMO,MBA,"project management, scrum, ms project",12.3
+Priscilla Adkins,PMO,BTECH,"scrum, ms project, agile, jira, project management",4.9
+Dan Goodman,PMO,BTECH,"ms project, agile, project management, jira",3.1
+Adam Young,PMO,BE,"postgresql, mongodb, dbms, oracle",13.9
+Timothy Washington,Civil Engineer,BE,"estimation, staad pro, autocad, structural analysis, construction",8.3
+Chris Carpenter,Advocate,BA,"legal research, law, litigation, drafting",14.4
+Alfred Ramos,Web Designing,BSC,"html, bootstrap, css",13.9
+Michael Romero,HR,BA,"interviewing, recruitment, communication",2.5
+Vanessa Hernandez,PMO,BTECH,"scrum, ms project, agile",3.9
+Zachary Murphy,Python Developer,BTECH,"flask, pandas, fastapi, django",10.3
+Jeffrey Miller,Hadoop,BTECH,"sap hana, fiori, erp, sap, abap",10.2
+Amber Key,Health and fitness,BA,"training, yoga, nutrition, fitness coaching, anatomy",0.9
+Benjamin Taylor,Business Analyst,MBA,"sql, analytics, requirement gathering, excel",2.2
+Matthew Yu,PMO,MBA,"jira, scrum, project management",13.6
+Travis Mcintyre,Advocate,MBA,"interviewing, ms excel, employee relations",14.4
+Sean Hart,Database,MTECH,"mongodb, oracle, postgresql, sql",7.6
+Samantha Edwards,Civil Engineer,BE,"estimation, staad pro, structural analysis",3.3
+Gregory Frederick,PMO,BTECH,"ms project, project management, agile, scrum, jira",12.9
+Tyler Johnson,PMO,BTECH,"jira, scrum, agile, project management, ms project",5.4
+John Gillespie,HR,BA,"communication, interviewing, recruitment, employee relations, ms excel",5.6
+Kevin Weber,Web Designing,BA,"javascript, css, bootstrap, figma, html",9.6
+Charles Foster,Blockchain,MTECH,", smart contracts, ethereum, solidity, web3.js",3.6
+Jonathan Mercado,Mechanical Engineer,BE,"solidworks, cam, mechanics, autocad",12.5
+Brianna Page,Advocate,PHD,"litigation, legal research, contracts",10.5
+Edward Phillips,SAP Developer,MBA,"sap, abap, sap hana, erp, fiori",14.1
+Jacqueline Owen,Java Developer,BTECH,"microservices, spring, rest api, hibernate",2.7
+Ian Romero,,BE,"dbms, oracle, sql",3.1
+Madeline Davis,Mechanical Engineer,BE,"cam, autocad, thermodynamics, solidworks",9.4
+Timothy Foster,Advocate,BA,"law, legal research, drafting",12.9
+Cody Estes,HR,BTECH,"statistics, data mining, python, deep learning",9.8
+Troy Williams,Automation Testing,BTECH,"junit, selenium, automation, pytest",13.0
+Sarah Wright,Tableau Developer,BE,"vpn, firewall, networking, cybersecurity, security",10.7
+Stephen Fry,Python Developer,BTECH,"python, fastapi, flask, django, pandas",0.2
+Thomas Lozano,Python Developer,MTECH,"python, pandas, flask, fastapi, django",10.3
+Annette Gallagher,Operations Manager,MBA,"strategy, logistics, operations",11.2
+Kevin Parker,Advocate,PHD,"law, legal research, drafting",4.3
+Andrew Shields,Data Scientist,BTECH,"deep learning, python, ml",4.4
+Stacy Hudson,HR,MBA,"ms excel, employee relations, recruitment, interviewing",14.4
+Betty Pierce,ETL Developer,BE,"data warehousing, ssrs, informatica, etl",1.4
+Nichole Snow,Engineer,BE,"c++, matlab, c, control systems",4.0
+Cindy Haney,Mechanical Engineer,BE,"autocad, cam, solidworks, thermodynamics, mechanics",2.0
+William Jones,SAP Developer,MBA,"sap hana, fiori, abap, sap",14.5
+Eric Hicks,Health and fitness,BSC,"nutrition, fitness coaching, anatomy, training, yoga",4.9
+Brett Armstrong,ETL Developer,BE,"data warehousing, ssrs, etl",8.8
+Michael Griffin,Business Analyst,BA,"requirement gathering, excel, power bi, sql, analytics",10.6
+Emily Acevedo,HR,BA,"ms excel, interviewing, recruitment, communication, employee relations",7.9
+Jacob Hudson,Health and fitness,BE,"entity framework, .net, asp.net",10.7
+Amy Calhoun,Operations Manager,MBA,"operations, strategy, team management, logistics",3.9
+Natalie Keller,Health and fitness,BSC,"nutrition, fitness coaching, anatomy, yoga",9.3
+Darren Murray,Automation Testing,BTECH,"automation, python, pytest",1.1
+Richard Smith,Sales,BA,"negotiation, lead generation, , crm",0.1
+William Moss,Operations Manager,BTECH,"team management, logistics, strategy, supply chain, operations",14.8
+Alexander Mcdonald,DevOps,BE,"kubernetes, jenkins, ansible, docker, ci/cd",9.1
+Donald Brennan,Advocate,BA,"legal research, drafting, contracts, law, litigation",8.0
+Louis Hudson,Advocate,BE,"signal processing, matlab, electronics, vlsi, circuit design",8.4
+David Wilson,Business Analyst,BA,"excel, power bi, analytics",0.8
+Brenda Mann,Network Security Engineer,BE,"networking, security, firewall",3.9
+Joseph Strickland,Database,BE,"cam, autocad, mechanics",10.9
+Christopher Schroeder,Operations Manager,MBA,"supply chain, strategy, team management, logistics, operations",8.8
+Angela Taylor,Blockchain,MBA,", negotiation, crm, lead generation",5.8
+Jason Holland,Java Developer,BE,"spring, rest api, hibernate",9.3
+Anthony Harrison,Database,BE,"sql, postgresql, oracle, dbms, mongodb",2.3
+Eric Khan,Java Developer,BE,"spring, rest api, hibernate, java",2.4
+James Ruiz,Tableau Developer,BTECH,"data visualization, dashboards, tableau, sql",13.3
+Natalie Morales,Blockchain,BTECH,", web3.js, smart contracts",4.1
+Jennifer Acevedo,Automation Testing,BE,"junit, selenium, pytest, python",12.1
+Catherine Freeman,Automation Testing,BA,"psychology, history, sculpting,    ",10.3
+Tami Jackson,,BTECH,"pytest, automation, selenium, python",6.6
+Jesse Welch,Operations Manager,MBA,"strategy, supply chain, operations, logistics",4.7
+Derek Skinner,Sales,MBA,"negotiation, crm, , lead generation, cold calling",5.7
+Cheryl Schneider,Sales,MBA,"negotiation, cold calling, crm",1.9
+Nicholas Adams,Operations Manager,MBA,"team management, operations, logistics, supply chain",7.4
+Dr. Darryl Schmidt,Network Security Engineer,BTECH,"firewall, networking, cybersecurity, vpn",4.0
+Shawn Morales,Network Security Engineer,BE,"networking, vpn, security, cybersecurity, firewall",4.1
+Michael Moore,Blockchain,BA,"communication, recruitment, employee relations",0.4
+Lacey Hayden,Java Developer,BTECH,"spring, microservices, hibernate, rest api",3.5
+Rodney Barker,DotNet Developer,BTECH,"entity framework, asp.net, mvc, c#",3.2
+Victoria Maldonado,Database,BA,"painting,    , sociology, history, drawing",5.9
+Jeff Compton,Engineer,BTECH,"control systems, matlab, c++",10.4
+Kathryn Bender,Python Developer,BE,"pandas, django, flask",8.6
+Rodney Pittman,Advocate,PHD,"legal research, contracts, law, litigation, drafting",0.5
+Erin Larsen,Network Security Engineer,BTECH,"cybersecurity, networking, firewall",11.7
+Michael Barrett,PMO,MBA,"scrum, jira, project management, agile",0.8
+Chase Mitchell,ETL Developer,BTECH,"sql, informatica, etl, ssrs, data warehousing",8.1
+Jennifer Nelson,Network Security Engineer,BE,"security, firewall, cybersecurity, networking, vpn",3.2
+Andrew Haney,Arts,BA,"history,    , drawing, sculpting",2.2
+Jeffrey Grant,Mechanical Engineer,BTECH,"thermodynamics, cam, mechanics, solidworks",9.4
+Victor Tucker,DevOps,BE,"ci/cd, docker, kubernetes",7.9
+Rachel Robles,Arts,BA,"painting, sociology, psychology,    ",12.5
+Sally Haas,SAP Developer,BTECH,"abap, sap, erp, fiori",7.1
+Todd Olson,Civil Engineer,BTECH,"estimation, autocad, construction, structural analysis, staad pro",12.5
+Kelly Wright,ETL Developer,BTECH,"ssrs, data warehousing, sql",0.0
+Danny Bradley,Electrical Engineer,BA,"negotiation, cold calling, lead generation, , crm",14.6
+Cheyenne Russell,SAP Developer,BTECH,"erp, fiori, sap hana, sap",0.9
+Deborah Lopez,SAP Developer,MBA,"erp, sap, sap hana",7.5
+Juan Morales,SAP Developer,MBA,"sap, fiori, erp",9.8
+Denise Moreno,Engineer,BTECH,"security, cybersecurity, firewall, networking, vpn",11.4
+Brenda Miller,Tableau Developer,MBA,"data visualization, tableau, dashboards, bi tools, sql",14.7
+Gary Collins,Network Security Engineer,BE,"cybersecurity, security, firewall, vpn, networking",9.9
+Joel Chambers,DevOps,MTECH,"docker, jenkins, ci/cd",5.5
+Michelle Gray,Python Developer,BTECH,"flask, python, fastapi, django",2.8
+Ashley Mclean,PMO,MBA,"ms project, scrum, agile, project management",8.9
+Gabriel Paul,Mechanical Engineer,BTECH,"microservices, hibernate, rest api",10.3
+Cynthia Crawford,Operations Manager,BTECH,"operations, strategy, team management, logistics, supply chain",0.2
+Joan Roy,HR,BA,"recruitment, ms excel, employee relations",1.8
+Kendra Cooley,Network Security Engineer,BTECH,"networking, cybersecurity, firewall, security",0.6
+Peter Palmer,DotNet Developer,BTECH,"c#, asp.net, entity framework, mvc",6.9
+Stephanie Thomas,Mechanical Engineer,BE,"solidworks, autocad, cam, mechanics",6.7
+Andrea Williams,Hadoop,MTECH,",, spark, mapreduce",7.2
+Annette Ho,SAP Developer,BTECH,"erp, abap, sap hana, fiori, sap",5.7
+Daniel Mueller,Python Developer,BE,"fastapi, pandas, python",2.0
+Jessica Wagner,Business Analyst,BTECH,"power bi, analytics, sql",7.2
+Eric Howard,Operations Manager,MBA,"supply chain, logistics, strategy, team management",3.9
+Monica Lee,Data Scientist,MTECH,"statistics, deep learning, ml",2.7
+Vanessa Guerrero,Web Designing,BSC,"javascript, css, bootstrap",7.8
+Michael Gardner,Electrical Engineer,BE,"signal processing, vlsi, matlab",12.9
+Megan Johnson,Operations Manager,MBA,"logistics, team management, supply chain, operations, strategy",13.4
+Johnny Davis,DotNet Developer,BE,".net, mvc, asp.net, c#",5.8
+Crystal Davis,Data Scientist,BTECH,"deep learning, python, statistics, ml, data mining",11.6
+John Garcia,Automation Testing,BE,"python, automation, junit, selenium",1.8
+Gina Bishop,,BA,"lead generation, crm, ",5.0
+Patrick Cooper MD,Web Designing,BSC,"bootstrap, figma, javascript, css, html",5.5
+Amanda Green,ETL Developer,BE,"ssrs, etl, informatica, sql, data warehousing",3.2
+Joy Dunn,Web Designing,BTECH,"pig, ,, hive",8.0
+Rachael Cruz,Web Designing,BTECH,"bootstrap, html, javascript, css, figma",0.6
+Felicia Sutton,Business Analyst,MBA,"excel, requirement gathering, analytics, power bi",12.1
+Christopher Cook,DevOps,MTECH,"jenkins, ci/cd, docker, ansible, kubernetes",2.1
+Tina Nash,Hadoop,BTECH,"spark, mapreduce, ,, pig",14.7
+Joshua Duncan,SAP Developer,MBA,"erp, sap hana, fiori, sap, abap",11.0
+Christina Johnson DVM,Database,MTECH,"oracle, postgresql, dbms, mongodb",8.5
+Michael Green,Electrical Engineer,BTECH,"vlsi, signal processing, matlab, electronics, circuit design",12.1
+Raymond Best,Civil Engineer,BE,"estimation, autocad, staad pro, construction, structural analysis",6.0
+Kristin Macdonald,Arts,BA,"   , sociology, drawing",14.6
+Amanda Lozano,Hadoop,MTECH,"hive, pig, spark, mapreduce, ,",9.4
+Renee Mitchell,DevOps,BE,"jenkins, ansible, kubernetes, docker, ci/cd",13.9
+William Taylor,Database,BE,"mongodb, sql, oracle",7.3
+Eric Chavez,Blockchain,BTECH,", smart contracts, ethereum, web3.js",2.5
+James Yoder,Sales,BA,"cold calling, negotiation, crm, , lead generation",12.7
+Gary Richardson,Hadoop,BTECH,"hive, mapreduce, pig, spark",8.0
+Michelle Hanna,DevOps,BE,"jenkins, ansible, kubernetes, ci/cd",4.5
+Cody George,Database,BTECH,"postgresql, dbms, mongodb, sql, oracle",8.2
+James Avery,Engineer,BTECH,"matlab, control systems, c, c++",9.4
+Kevin Cox,Arts,BA,"sociology, drawing, psychology",13.8
+William Rowe MD,Java Developer,BTECH,"spring, rest api, microservices, hibernate, java",3.3
+Mr. Curtis Price,Arts,BA,"drawing, sculpting,    , painting",3.9
+Danielle Walters,Arts,BA,"drawing, sociology, sculpting, history,    ",13.2
+William Owen,Health and fitness,BA,"nutrition, training, fitness coaching, anatomy",10.4
+Connie Pierce,Engineer,BTECH,"embedded systems, control systems, matlab",2.1
+Joshua Smith,Sales,MBA,"cold calling, negotiation, , crm",0.5
+Katelyn Hanson,Engineer,BE,"embedded systems, control systems, c++, c",6.5
+Jennifer Day,Business Analyst,MBA,"analytics, sql, excel, power bi",6.6
+Patricia Lee,DotNet Developer,BTECH,"selenium, pytest, python, automation",15.0
+Henry Green,PMO,MBA,"ms project, jira, scrum, agile",4.9
+Robert Mcdonald,Civil Engineer,BTECH,"hive, ,, mapreduce",1.7
+Robert Martinez,Civil Engineer,BTECH,"structural analysis, autocad, staad pro",2.2
+Robert Curtis,Blockchain,MTECH,"web3.js, smart contracts, ethereum",12.0
+Hector Rocha,DotNet Developer,BE,"entity framework, .net, asp.net, c#",8.3
+Robert Young,Engineer,BTECH,"c, matlab, control systems, embedded systems, c++",8.0
+Douglas Johnson,SAP Developer,MBA,"abap, fiori, erp, sap hana",8.2
+Beth Carney,Sales,MBA,", cold calling, lead generation",8.2
+Sean Tran,HR,MTECH,"pig, ,, hive",2.8
+Ashley Watts,Engineer,BTECH,"c, control systems, c++, embedded systems, matlab",4.2
+Brittany Nguyen,Data Scientist,MTECH,"ml, data mining, statistics, deep learning",1.3
+Shelby Doyle,Web Designing,BSC,"javascript, bootstrap, css, html",11.2
+Sarah Villegas,ETL Developer,MTECH,"data warehousing, etl, ssrs, sql, informatica",4.6
+Martin Stone,Hadoop,BTECH,"pig, mapreduce, spark",4.3
+Michael Walker,Arts,BA,"   , history, sociology",4.6
+Melinda Roman,Hadoop,MTECH,"pig, mapreduce, ,, spark, hive",4.7
+Jeffrey Reynolds,Database,BTECH,"dbms, postgresql, mongodb, oracle",8.7
+James Houston,Hadoop,BE,"hive, spark, ,, mapreduce, pig",3.5
+Luke Hunt,Health and fitness,BA,"fitness coaching, training, anatomy, yoga",5.1
+Whitney Vargas,Operations Manager,BTECH,"logistics, supply chain, strategy",7.0
+Christopher Tucker,Engineer,BTECH,"c++, c, control systems, matlab, embedded systems",1.5
+Edwin Adams,SAP Developer,MBA,"erp, abap, fiori, sap hana, sap",3.9
+Amanda Harper,Data Scientist,BTECH,"statistics, deep learning, data mining",9.1
+Gabriel Duncan,Blockchain,BTECH,"ethereum, solidity, ",1.3
+Sarah Bowen,Network Security Engineer,BTECH,"firewall, networking, security",10.9
+Michael Carrillo,Database,BTECH,"postgresql, mongodb, oracle, sql",7.4
+Crystal Garrison,ETL Developer,MTECH,"sql, etl, data warehousing, informatica, ssrs",5.7
+Raymond Duncan,Advocate,PHD,"law, drafting, contracts, litigation",0.7
+John Herrera,Blockchain,MTECH,"ethereum, solidity, web3.js, smart contracts, ",0.3
+Robert Jones,Data Scientist,BTECH,"dashboards, tableau, data visualization, sql, bi tools",6.5
+Joseph Gregory,PMO,BTECH,"project management, agile, ms project",11.2
+Dr. David Gonzalez,Database,MTECH,"oracle, dbms, mongodb, postgresql, sql",4.5
+David Williams,Business Analyst,BTECH,"requirement gathering, sql, analytics",9.4
+Jennifer Holmes,PMO,BTECH,"scrum, ms project, project management, agile, jira",14.5
+Natalie Jones,Sales,BTECH,"entity framework, c#, .net, asp.net, mvc",5.8
+Shannon Benton,Tableau Developer,MBA,"dashboards, bi tools, sql, tableau",0.0
+Erica Hartman,Web Designing,BTECH,"html, bootstrap, css, figma, javascript",6.2
+Mario Thomas,Database,BE,"mongodb, postgresql, sql, dbms",4.1
+James Jacobson,Web Designing,BSC,"bootstrap, javascript, html",14.4
+Anthony Price,Hadoop,BTECH,"web3.js, ethereum, smart contracts, ",4.2
+Rachel Lewis,Sales,BA,"cold calling, , crm, negotiation, lead generation",6.7
+Jean Larson,Arts,BA,"drawing, sociology, sculpting, painting",2.9
+James Bowen,Arts,BSC,"anatomy, fitness coaching, training",6.6
+Christopher Lopez,DevOps,BE,"c, embedded systems, c++",0.9
+Christina Bell,Mechanical Engineer,BE,"solidworks, thermodynamics, cam, mechanics, autocad",3.9
+Margaret Coleman,Advocate,BA,"law, litigation, contracts",8.3
+Mary Cox,Tableau Developer,MBA,"data visualization, bi tools, dashboards, tableau",3.8
+Laura Matthews,Advocate,PHD,"contracts, legal research, law, drafting",6.0
+Mr. Cory Lopez,Electrical Engineer,BTECH,"vlsi, circuit design, signal processing, electronics",11.9
+Ricky Mason,Network Security Engineer,MBA,"sap hana, fiori, sap, erp",11.2
+Alicia Glass,PMO,BSC,"training, yoga, nutrition",1.9
+Christopher Walker,PMO,BTECH,"agile, project management, jira, ms project, scrum",5.6
+Barbara Miller,PMO,MBA,"jira, ms project, scrum, agile, project management",0.1
+Dr. Jonathan Ortega DDS,Python Developer,BE,"flask, fastapi, python",8.9
+Christopher Wilkerson,Blockchain,BTECH,"solidity, ethereum, web3.js, smart contracts",13.0
+Rachel Rose,Python Developer,BTECH,"fastapi, pandas, flask, python, django",2.5
+David Walsh,Automation Testing,BE,"python, pytest, automation, selenium",3.4
+David Serrano,Electrical Engineer,BE,"signal processing, electronics, matlab, circuit design, vlsi",11.4
+Daniel Bell,ETL Developer,BTECH,"data warehousing, informatica, sql",9.8
+Kimberly Knight,SAP Developer,MBA,"fiori, abap, sap",8.9
+Wanda Browning,DevOps,BE,"ansible, jenkins, docker",14.6
+Jonathan Bailey,Blockchain,BTECH,"solidity, , web3.js",11.0
+Sylvia Santana,Database,MTECH,"mongodb, sql, oracle, postgresql",10.4
+Brian Norris,SAP Developer,MBA,"erp, abap, sap hana, sap",1.2
+Nicole Montgomery,Tableau Developer,MBA,"tableau, sql, bi tools, data visualization",8.1
+Roy Huerta,Electrical Engineer,BE,"signal processing, matlab, electronics",14.7
+Kimberly Avila,HR,PHD,"litigation, legal research, contracts, drafting, law",5.5
+Eddie Ashley,Electrical Engineer,BE,"circuit design, matlab, electronics, vlsi",5.5
+Richard Leonard PhD,SAP Developer,BTECH,"abap, sap hana, fiori, sap, erp",5.3
+Darren Beck,Network Security Engineer,BTECH,"firewall, vpn, networking, security, cybersecurity",8.0
+Timothy Gentry,Automation Testing,BTECH,"pytest, automation, junit, selenium",5.9
+Shelley Thomas,Operations Manager,BTECH,"strategy, operations, logistics, supply chain",5.4
+Jesus Leonard,PMO,BTECH,"project management, jira, agile, ms project, scrum",0.6
+Joshua Nichols,Blockchain,BTECH,"ethereum, web3.js, smart contracts, solidity",8.7
+Ronald Pierce,Civil Engineer,BE,"autocad, estimation, structural analysis, construction",8.3
+Amanda Rogers,Business Analyst,BTECH,"sql, requirement gathering, analytics, power bi, excel",5.1
+Justin Mcintyre,Python Developer,MTECH,"fastapi, python, flask, pandas",7.4
+Valerie Rodriguez,Operations Manager,MBA,"strategy, operations, supply chain, team management",6.0
+Richard Lee,Arts,BA,"sociology, drawing, psychology, history",15.0
+Amanda Howard,Arts,BA,"sociology, psychology, sculpting, history",6.0
+Kristen White,DotNet Developer,BTECH,"c#, asp.net, mvc, entity framework, .net",10.6
+Daniel Watson,Sales,BA,"lead generation, crm, negotiation, cold calling",11.9
+Anthony Wheeler,Automation Testing,BTECH,"selenium, automation, python, pytest",8.1
+Amber Pruitt,Health and fitness,BSC,"fitness coaching, yoga, anatomy",3.8
+Jasmine Robertson,Operations Manager,MBA,"team management, supply chain, logistics",8.7
+Julian Harrison,Java Developer,BE,"rest api, microservices, java, spring",10.3
+Chris Newman,Health and fitness,BA,,13.4
+Julie Wilson,Database,BTECH,"oracle, dbms, mongodb, postgresql",9.8
+Kristen Webb,Sales,BA,"lead generation, , cold calling, negotiation, crm",1.8
+Sandra Gates,Business Analyst,MBA,"power bi, sql, requirement gathering, excel",4.4
+Kayla Young,Blockchain,MTECH,", smart contracts, web3.js, ethereum, solidity",7.4
+Julia Watson,Automation Testing,BTECH,"pytest, python, automation, selenium",6.4
+Jill Mitchell,ETL Developer,BE,"sql, data warehousing, etl, ssrs, informatica",8.0
+Stephanie Washington,Database,BTECH,"sql, postgresql, mongodb, oracle, dbms",6.1
+Anne Shepard,Hadoop,BTECH,"spark, ,, mapreduce, hive, pig",11.4
+Jeff Kelley,Tableau Developer,MBA,"bi tools, dashboards, data visualization, tableau",12.8
+Amanda Williams,Web Designing,BA,"bootstrap, css, figma, javascript",14.6
+Joshua Smith,Network Security Engineer,BTECH,"vpn, networking, cybersecurity, security",8.0
+Dylan Dickerson,Sales,MBA,"lead generation, , crm",10.2
+Stephen Smith,Java Developer,BTECH,"hibernate, microservices, spring, java, rest api",10.2
+Kelsey Moran,SAP Developer,BTECH,"sap hana, sap, abap",10.6
+Deborah Johnson,Network Security Engineer,BE,"vpn, firewall, security, networking, cybersecurity",14.2
+Rebecca Cole,Python Developer,MTECH,"flask, python, fastapi, pandas",4.9
+Steven Padilla,SAP Developer,BTECH,"abap, fiori, sap, sap hana",11.0
+Sherry Reynolds,Business Analyst,BTECH,"analytics, requirement gathering, sql",11.7
+James Barrett,Sales,MBA,"crm, , negotiation",5.7
+Maria Smith,Web Designing,BSC,"javascript, html, figma",10.9
+Belinda Robinson,Mechanical Engineer,BTECH,"autocad, thermodynamics, mechanics, solidworks, cam",3.2
+Barbara Burns,Electrical Engineer,BTECH,"matlab, circuit design, signal processing, electronics",3.5
+Alicia Spence,Operations Manager,BE,"automation, junit, pytest, selenium",13.2
+Mark Graham,Database,BE,"dbms, postgresql, mongodb, sql",6.0
+Jeffrey Nichols,Health and fitness,BA,"nutrition, anatomy, training",1.9
+Michael Long,Network Security Engineer,BE,"vpn, firewall, networking",1.8
+Billy Morrison,DevOps,BE,"docker, jenkins, kubernetes, ansible",9.5
+Ronald Hanson,ETL Developer,MTECH,"data warehousing, ssrs, etl, sql, informatica",2.1
+Bonnie Hall,HR,MBA,"interviewing, ms excel, recruitment, employee relations",1.5
+Nicolas Brown,HR,BA,"interviewing, recruitment, communication, employee relations, ms excel",1.8
+Ashley Woodard,HR,BA,"communication, employee relations, recruitment, ms excel",5.5
+Jennifer Wilson,DotNet Developer,BE,".net, asp.net, entity framework, mvc, c#",7.6
+Kevin Moore,Java Developer,BTECH,"java, spring, microservices, hibernate, rest api",9.5
+Deborah Whitehead,Operations Manager,MBA,"strategy, supply chain, operations, team management, logistics",0.7
+Greg Murphy,Operations Manager,MBA,"team management, operations, logistics",10.4
+Michele Mendoza,SAP Developer,BTECH,"fiori, sap, sap hana, erp, abap",11.2
+Susan Fitzgerald,Web Designing,BSC,"training, fitness coaching, yoga, anatomy",6.6
+Michael Thompson,DevOps,BTECH,"docker, ci/cd, kubernetes, ansible",12.8
+Nicholas Savage,Health and fitness,BSC,"training, yoga, anatomy, fitness coaching",14.0
+Barbara Bruce,DevOps,BE,"jenkins, docker, kubernetes",6.3
+Benjamin Orozco,Operations Manager,MBA,"team management, logistics, strategy, operations",5.7
+Kathryn Fox,DotNet Developer,BE,".net, entity framework, c#, asp.net, mvc",10.7
+Brittany Preston,Automation Testing,BTECH,"automation, python, pytest, junit, selenium",10.0
+Sarah Paul,Automation Testing,BTECH,"selenium, automation, python, pytest, junit",13.1
+Caleb Guerrero,Arts,BA,"drawing, psychology, history, sociology,    ",4.6
+Cynthia Ruiz,Health and fitness,BA,"anatomy, fitness coaching, nutrition",11.9
+Laura Randall,Database,MTECH,"postgresql, sql, mongodb, oracle",11.5
+Sharon Rodriguez,Hadoop,BTECH,"hive, spark, pig, mapreduce",12.2
+Danielle Holland,SAP Developer,BTECH,"sap, fiori, erp, abap",8.3
+Margaret Brown,Network Security Engineer,BE,"cybersecurity, security, vpn, firewall, networking",10.5
+Cody Davis,Blockchain,BTECH,", smart contracts, ethereum",13.7
+Adrienne Espinoza,Sales,BA,"cold calling, crm, lead generation, ",2.1
+Mr. Perry Alvarez,DotNet Developer,BE,"entity framework, c#, mvc",6.6
+Penny Torres,Mechanical Engineer,BE,"solidworks, thermodynamics, mechanics, autocad, cam",12.2
+Sharon Warren,Arts,BA,"psychology,    , painting",7.5
+Rebecca Butler,Python Developer,BE,"fastapi, django, python",11.8
+Alyssa Stephens,Java Developer,BTECH,"spring, hibernate, rest api, microservices, java",5.2
+Joshua Johnson,Mechanical Engineer,BE,"cam, mechanics, thermodynamics, autocad",0.9
+Peter Wise,Data Scientist,BTECH,"solidworks, autocad, mechanics, cam",8.8
+Shane Martin,Network Security Engineer,BTECH,"networking, security, firewall, cybersecurity, vpn",12.6
+Christopher Rose,Java Developer,BE,"microservices, java, spring, hibernate, rest api",8.4
+Jose Cameron,SAP Developer,MBA,"ms project, agile, jira, scrum",6.5
+Antonio Cole,Web Designing,BA,"figma, html, css",9.6
+Ashley Myers,DotNet Developer,BE,"mvc, entity framework, c#, asp.net",11.1
+Matthew Ford,PMO,BTECH,"solidity, ethereum, web3.js",4.9
+Justin Smith,Web Designing,BSC,"figma, css, javascript",11.4
+Chad Lane,SAP Developer,BTECH,"sap hana, fiori, erp",9.0
+Matthew Rodriguez,Business Analyst,MBA,"analytics, power bi, excel, requirement gathering",0.7
+David Mueller,Engineer,BTECH,"embedded systems, control systems, c, matlab",0.7
+Charles Golden Jr.,Blockchain,MTECH,"jenkins, ansible, docker",8.3
+Patricia Rogers DVM,Hadoop,BE," , hive, pig, spark, mapreduce",15.0
+Judy Wilkerson MD,Operations Manager,MBA,"logistics, team management, supply chain, operations",6.5
+Luis Jones,Business Analyst,BA,"analytics, power bi, sql",13.8
+Tiffany Turner,Civil Engineer,BTECH,"construction, autocad, estimation, structural analysis",0.2
+Christina Thomas,ETL Developer,MTECH,"data warehousing, etl, ssrs",10.4
+Megan Taylor,Hadoop,MTECH,"spark, hive, mapreduce, pig,  ",2.4
+James Williams,Python Developer,MBA,"tableau, bi tools, sql, data visualization, dashboards",8.0
+David Smith,Web Designing,BSC,"bootstrap, javascript, figma, html, css",8.6
+Donna Garcia,Civil Engineer,BA,"communication, employee relations, ms excel",13.5
+Corey Mercado,ETL Developer,BE,"etl, ssrs, data warehousing, sql",7.4
+Derek Franklin,Operations Manager,BTECH,"firewall, networking, cybersecurity, vpn",1.2
+Krista Hudson,Electrical Engineer,BTECH,"matlab, electronics, signal processing, circuit design",0.9
+David Miller,Network Security Engineer,BE,"security, vpn, networking",11.8
+Anthony Mckee,Business Analyst,BA,"analytics, excel, requirement gathering, sql",4.5
+Sean Weeks,Advocate,BA,"drafting, litigation, law, legal research, contracts",3.7
+Susan Baldwin,SAP Developer,MBA,"abap, erp, fiori, sap, sap hana",5.1
+Anna Bauer,HR,PHD,"law, legal research, contracts",14.0
+Regina Walsh,Advocate,PHD,"contracts, law, drafting",9.5
+Bobby Gomez,Engineer,BTECH,"matlab, embedded systems, c++, c, control systems",10.5
+Susan Wallace,Hadoop,MTECH,"mapreduce, pig,  , spark, hive",2.9
+Ryan Jackson,Business Analyst,BTECH,"analytics, sql, power bi, requirement gathering, excel",1.6
+Jennifer Bradshaw,Database,BE,"dbms, postgresql, oracle, mongodb",5.7
+Jennifer White,Automation Testing,BTECH,"junit, automation, selenium, pytest",2.6
+Eddie Valdez,Operations Manager,BTECH,"logistics, supply chain, team management",14.7
+Renee Austin DVM,Civil Engineer,BE,"autocad, construction, estimation, structural analysis",14.6
+Nicole Harrington,Tableau Developer,BE,"cybersecurity, vpn, networking",6.7
+William Edwards,Advocate,BA,"legal research, litigation, contracts, drafting, law",7.0
+Marisa Lopez,Java Developer,BTECH,"hibernate, spring, rest api, java",11.3
+David Fitzgerald,Advocate,BTECH,"sql, analytics, power bi",2.1
+Melissa Mack,Operations Manager,BTECH,"supply chain, strategy, operations, logistics",4.3
+Christopher Barber,Hadoop,MTECH,"mapreduce, spark, pig, hive,  ",12.4
+Suzanne Dunn,Mechanical Engineer,BE,"solidworks, cam, autocad",6.5
+Christina Bowers,Mechanical Engineer,BE,"cam, autocad, thermodynamics, mechanics, solidworks",6.6
+Stephanie Gutierrez,Data Scientist,MTECH,"deep learning, statistics, ml, python, data mining",13.3
+Jeffery Thomas,DotNet Developer,BTECH,"mvc, entity framework, .net, c#",1.4
+Nicole Koch,Database,MTECH,"microservices, spring, hibernate",12.5
+Anthony Flores,Operations Manager,MBA,"supply chain, logistics, operations",2.7
+Linda Brooks,HR,MBA,"interviewing, employee relations, recruitment",4.1
+Christopher Howard,Sales,BA,"cold calling, negotiation, lead generation, ",6.6
+Sean Clark,Business Analyst,BA,"sql, requirement gathering, analytics",0.8
+Taylor Moody,DevOps,BE,"kubernetes, ansible, jenkins, ci/cd, docker",1.2
+Brittney Johnson,Health and fitness,BA,"training, anatomy, yoga",13.3
+Timothy Williams,HR,MBA,"recruitment, interviewing, communication, ms excel",14.9
+Jennifer Morse,Tableau Developer,MBA,"tableau, sql, dashboards, data visualization, bi tools",9.5
+Michael Waters,Database,BE,"dbms, sql, postgresql, mongodb, oracle",8.5
+Tiffany Turner,Business Analyst,MBA,"requirement gathering, analytics, excel",10.9
+Michael Johnson,Automation Testing,BTECH,"python, pytest, selenium, junit, automation",6.2
+Donna Kelly,PMO,MBA,"agile, scrum, project management, ms project",11.0
+Shannon Carlson,HR,BA,"recruitment, ms excel, interviewing, communication",2.3
+Jamie Brown,Hadoop,MTECH,"spark, pig, mapreduce,  ",0.0
+Cassandra Mitchell,Database,MTECH,"oracle, sql, dbms",3.6
+Jessica Roach,Arts,BA,"drawing, psychology, sculpting, painting",9.2
+Monica Wallace,Mechanical Engineer,BTECH,"autocad, thermodynamics, solidworks, mechanics",1.5
+John Miller,ETL Developer,BTECH,"sql, data warehousing, ssrs",11.9
+Rachael Cantu,DotNet Developer,BE,"entity framework, asp.net, mvc, c#",0.9
+Karen Simpson,Arts,BA,"history, sociology,    , sculpting, psychology",15.0
+Timothy Martin,Business Analyst,MBA,"sql, requirement gathering, power bi, analytics",14.8
+Heather Anderson,Python Developer,MTECH,"pandas, python, fastapi, flask, django",3.7
+Michael Benson,Automation Testing,BE,"python, pytest, selenium, junit, automation",7.6
+Mandy Newton,Health and fitness,BSC,"nutrition, yoga, training",9.0
+Krista Ryan,Blockchain,MTECH,"mapreduce,  , spark, hive, pig",7.0
+Christopher Richardson,Arts,BA,"drawing, sociology, history, painting",3.7
+Matthew Lawson,Tableau Developer,MBA,"tableau, sql, data visualization, dashboards, bi tools",5.3
+Dr. Kristin Romero,Business Analyst,MBA,"excel, sql, analytics, requirement gathering, power bi",4.6
+Brenda Harris,Network Security Engineer,BTECH,"dbms, oracle, postgresql",4.4
+Richard Johnston,Electrical Engineer,BE,"electronics, circuit design, matlab, vlsi",14.8
+Charles Cunningham,ETL Developer,BE,"data warehousing, informatica, etl",11.7
+Amber Banks,Business Analyst,BA,"requirement gathering, sql, excel",6.5
+Susan Mitchell,Blockchain,BTECH,"web3.js, ethereum, solidity, , smart contracts",4.2
+Michael Noble PhD,Database,BTECH,,4.7
+Amy Guzman,Python Developer,MTECH,"fastapi, flask, pandas, django",12.7
+Marilyn Cohen,HR,MBA,"ms excel, communication, employee relations, interviewing",4.1
+Crystal Miller,Sales,MBA,"crm, , lead generation",3.1
+Arthur Kennedy,Data Scientist,MTECH,"docker, kubernetes, jenkins",3.0
+Tricia Rangel,Java Developer,MTECH,"hibernate, java, spring, rest api, microservices",3.4
+Kimberly Moss,Network Security Engineer,BE,"cybersecurity, firewall, networking, security",12.1
+Kenneth Williams DVM,PMO,BTECH,"ms project, scrum, project management",12.0
+Aaron Cherry,Automation Testing,BE,"python, pytest, junit, selenium, automation",4.9
+Cassie Dunlap,Arts,BA,"drawing, sculpting, painting,    , psychology",4.5
+Theresa Smith,HR,MBA,"ms excel, interviewing, recruitment",12.3
+Heather Waters,SAP Developer,BTECH,"erp, fiori, abap, sap hana, sap",13.7
+Kelly Larson,Electrical Engineer,BE,"vlsi, electronics, circuit design",3.4
+John Burns,PMO,MBA,"scrum, project management, agile, jira, ms project",3.2
+Robert Barrett,Automation Testing,BTECH,"selenium, junit, python",3.4
+Joseph Blake,SAP Developer,BTECH,"sap, sap hana, erp, abap, fiori",11.2
+Bradley Young,Blockchain,BTECH,"web3.js, solidity, smart contracts, ethereum",3.5
+Bridget Allen,SAP Developer,MBA,"sap, erp, sap hana, fiori, abap",8.4
+Christina Mcclure PhD,HR,BA,"recruitment, employee relations, communication",11.6
+Helen Pham,Health and fitness,BSC,"nutrition, anatomy, training, fitness coaching",14.9
+John Williams,Blockchain,BTECH,", smart contracts, ethereum, solidity",1.7
+Scott Green,Sales,MBA,"cold calling, lead generation, crm, , negotiation",12.6
+Christopher Henderson,Business Analyst,MBA,"analytics, sql, power bi, excel, requirement gathering",2.5
+Lisa Wilson,Electrical Engineer,BE,"electronics, vlsi, signal processing, matlab",4.4
+Erin Swanson,Hadoop,BE,"pig,  , spark, mapreduce, hive",5.1
+Cameron Donovan,Arts,BA,"sculpting, history, painting, psychology, drawing",8.1
+Timothy Ross,Mechanical Engineer,BTECH,"cam, thermodynamics, autocad",14.4
+Christopher Sampson,Health and fitness,BSC,"fitness coaching, training, nutrition, yoga",0.8
+Crystal Griffin,Business Analyst,MBA,"negotiation, lead generation, crm",14.3
+Justin Woodward,Civil Engineer,BE,"staad pro, estimation, autocad, construction, structural analysis",10.8
+Rebecca Miller,Python Developer,MTECH,"pandas, django, python, fastapi",2.0
+Michael Davis,Automation Testing,MBA,"excel, sql, analytics, requirement gathering, power bi",0.9
+Sandy Chavez,Arts,MBA,"project management, jira, scrum, agile, ms project",7.7
+Corey Woods Jr.,Sales,BA,", negotiation, lead generation, cold calling",8.4
+Anthony Miller,Java Developer,MTECH,"microservices, rest api, hibernate, java, spring",9.2
+Karla Turner,Hadoop,MTECH," , pig, mapreduce",4.6
+Maria Holmes,Mechanical Engineer,BE,"c#, .net, mvc, asp.net, entity framework",3.9
+Christopher Hester,Business Analyst,BA,"power bi, sql, analytics",7.8
+Patricia Jones,Blockchain,MTECH,"jenkins, ansible, docker",10.3
+Paul Davis,Operations Manager,MBA,"operations, supply chain, team management",14.9
+Alicia Mitchell,Database,BE,"oracle, postgresql, mongodb",14.8
+Stephanie Holmes,Civil Engineer,BTECH,"staad pro, autocad, estimation",13.1
+Karen Torres,DotNet Developer,BE,"informatica, sql, data warehousing, ssrs, etl",5.6
+Dawn Pineda,Data Scientist,BTECH,"python, deep learning, statistics",4.3
+Alec Holt,Mechanical Engineer,BE,"autocad, cam, thermodynamics",8.1
+Vanessa Sloan,SAP Developer,BTECH,"abap, fiori, sap",2.4
+Loretta Bailey DDS,DevOps,BE,"ansible, kubernetes, jenkins, ci/cd",8.7
+Jeffrey Velez,DevOps,BE,"docker, ci/cd, ansible",0.9
+Stacy Hernandez,Database,MTECH,"dbms, sql, oracle, mongodb",14.9
+Stephanie Morton,Mechanical Engineer,BTECH,"solidworks, thermodynamics, autocad, cam",10.5
+Amanda Case,Electrical Engineer,BTECH,"electronics, circuit design, vlsi, matlab, signal processing",12.2
+Shannon Bailey,Python Developer,MTECH,"python, flask, pandas, fastapi, django",2.1
+Mary Vincent,Mechanical Engineer,BE,"mechanics, autocad, cam, thermodynamics",4.0
+Elijah Cantu,,BE,"mongodb, dbms, sql",13.8
+Benjamin Kidd,Java Developer,BE,"hibernate, microservices, rest api, java, spring",7.9
+Alexis Zavala,SAP Developer,BTECH,"abap, sap hana, fiori, sap",0.1
+Jennifer Conway,Hadoop,BE,"spark, mapreduce,  , hive, pig",0.4
+Amanda Choi,Database,BTECH,"mongodb, dbms, oracle, sql",8.3
+Danielle Woods,Tableau Developer,BTECH,"tableau, bi tools, sql",2.7
+Nicole Friedman,Hadoop,BTECH,"figma, css, javascript, bootstrap",8.4
+Jason Le,DevOps,BE,"ci/cd, docker, kubernetes",1.3
+Randy Hernandez,PMO,BTECH,"project management, agile, ms project, jira",2.2
+Shane Ward,ETL Developer,BE,"etl, sql, informatica",4.7
+Jessica Chandler,SAP Developer,MBA,"fiori, sap hana, erp, abap, sap",10.9
+Jeremy Thomas,DevOps,BTECH,"docker, ci/cd, ansible, kubernetes, jenkins",14.7
+Amy Harris,Database,BE,"postgresql, oracle, sql, mongodb",1.6
+Tara Cardenas,HR,MBA,"communication, employee relations, ms excel, recruitment, interviewing",10.2
+Robert Long,Web Designing,BSC,"css, bootstrap, figma, html",1.7
+Timothy Clay,Network Security Engineer,BE,"vpn, cybersecurity, firewall, networking, security",2.3
+Joshua Evans,Network Security Engineer,BTECH,"vpn, networking, security",12.5
+Virginia Harvey,Tableau Developer,BTECH,"sql, tableau, dashboards, bi tools, data visualization",1.1
+Debra Stewart,Advocate,PHD,"legal research, litigation, contracts, law, drafting",14.1
+Katherine Thomas,Data Scientist,MTECH,"python, deep learning, ml, statistics, data mining",3.8
+Kathleen Becker,Operations Manager,MBA,"team management, operations, strategy, supply chain, logistics",11.6
+Larry George,Database,BE,"oracle, mongodb, dbms, postgresql, sql",13.9
+Peter Ryan DDS,Engineer,BTECH,"embedded systems, c, c++, control systems, matlab",8.1
+Matthew Lee,DotNet Developer,BTECH,"asp.net, entity framework, mvc, .net, c#",7.2
+Jeremy Shannon,Automation Testing,BE,"automation, junit, selenium, pytest, python",10.7
+Briana Johnson,Health and fitness,BA,"training, nutrition, yoga, fitness coaching, anatomy",7.7
+Shawn Swanson,PMO,MBA,"jira, ms project, scrum",6.1
+Kevin Lang,Sales,BA,"cold calling, crm, , negotiation, lead generation",0.7
+Brooke Mcconnell,HR,MBA,"interviewing, communication, recruitment, ms excel, employee relations",8.1
+Karen Brown,Hadoop,MBA,"interviewing, ms excel, employee relations, recruitment",1.5
+Angel Gonzalez,Advocate,BA,"contracts, litigation, legal research, drafting",12.4
+Katie May,Health and fitness,BA,"yoga, nutrition, anatomy, training",10.8
+Gregory Bryant,Java Developer,BE,"hibernate, rest api, microservices, java",11.1
+Patricia Jenkins,Sales,BA,"negotiation, crm, , cold calling, lead generation",13.7
+Jeffrey Reid Jr.,Civil Engineer,BE,"autocad, construction, estimation, staad pro, structural analysis",6.1
+Anna Duffy,Engineer,BTECH,"control systems, embedded systems, c++",13.8
+Latasha Nelson,Business Analyst,BTECH,"requirement gathering, power bi, sql, excel, analytics",14.8
+Matthew Taylor,Network Security Engineer,MTECH,"jenkins, docker, ansible",12.6
+Brandon Clark,Hadoop,BTECH,"junit, selenium, pytest",5.8
+Emma Pierce,Arts,BA,"   , drawing, history, sculpting, painting",14.3
+Ashlee Roy,Operations Manager,BTECH,"supply chain, strategy, operations, logistics, team management",10.5
+Jeanette Osborne,Civil Engineer,BE,"autocad, structural analysis, staad pro",6.6
+Ariel Jenkins,Health and fitness,BSC,"yoga, nutrition, anatomy, training, fitness coaching",6.5
+Lisa Frazier MD,DotNet Developer,BTECH,"entity framework, mvc, asp.net, .net, c#",2.3
+Dr. Darren Torres,Operations Manager,BTECH,"operations, team management, logistics",13.4
+Karen Moreno,Business Analyst,BTECH,"power bi, analytics, requirement gathering",13.9
+Mr. Jaime Boone,DevOps,MTECH,"kubernetes, docker, ci/cd",4.0
+Kelly Wu,Advocate,BA,"contracts, litigation, law, drafting, legal research",7.3
+Jonathan Doyle,Hadoop,BE,"spark, pig, hive,  , mapreduce",8.6
+Jeremy Rubio,Data Scientist,MTECH,"data mining, deep learning, python",3.1
+Jennifer Jones,Advocate,BA,"drafting, contracts, legal research, law, litigation",8.1
+John Holder,Mechanical Engineer,BE,"cam, mechanics, thermodynamics",14.3
+Austin Romero,PMO,MBA,"ms project, jira, agile, scrum, project management",10.9
+Frederick Edwards,Database,MTECH,"sql, mongodb, dbms, oracle",2.0
+Carlos Henry,Database,BE,"dbms, mongodb, oracle, sql",9.1
+Mitchell Griffin,Automation Testing,BE,"pytest, junit, python",2.2
+Christopher Barry,Electrical Engineer,BE,"vlsi, matlab, signal processing",5.7
+Richard Gray,DevOps,MTECH,,5.7
+Renee Cruz,Data Scientist,MTECH,"statistics, deep learning, data mining, python",7.7
+Valerie Nguyen,Business Analyst,BA,"requirement gathering, excel, power bi",8.6
+Michael Conner,Electrical Engineer,BTECH,"electronics, signal processing, circuit design, matlab",0.3
+Curtis Walker Jr.,SAP Developer,BTECH,"erp, fiori, abap, sap hana, sap",12.7
+Paige Peterson,Health and fitness,BSC,"nutrition, training, yoga",11.2
+Shaun Ruiz,Arts,BA,"   , psychology, drawing, painting",0.3
+Nicholas Brown,Tableau Developer,BTECH,"tableau, bi tools, sql",11.7
+Robert Schaefer,SAP Developer,BTECH,"fiori, sap, abap, sap hana",0.9
+Anthony Fuller,Web Designing,BSC,"html, bootstrap, javascript, css, figma",12.1
+Carol Lee,Operations Manager,MBA,"logistics, supply chain, strategy",9.7
+Mark Terry,Advocate,PHD,"drafting, legal research, contracts",12.0
+Wayne Daugherty,Business Analyst,MBA,"excel, analytics, power bi, requirement gathering, sql",14.2
+Tiffany Bush,Tableau Developer,MBA,"sql, bi tools, dashboards",9.9
+Jeff Cruz,Business Analyst,BTECH,"requirement gathering, analytics, power bi, sql, excel",14.3
+Danielle Barton,Mechanical Engineer,BTECH,"cam, autocad, thermodynamics",6.8
+Mary Barber,PMO,MBA,"agile, scrum, jira",9.5
+Lisa Rodriguez,Data Scientist,PHD,"statistics, deep learning, ml, python, data mining",11.5
+Michael Thomas,Civil Engineer,BTECH,"structural analysis, staad pro, construction, autocad",3.4
+Scott Arnold,Business Analyst,BTECH,"analytics, requirement gathering, sql, power bi",12.6
+Samantha Morrison,PMO,MBA,"jira, scrum, project management, ms project, agile",8.4
+Beverly Bauer,HR,BA,"interviewing, employee relations, communication",2.7
+Mrs. Linda Wilson,DevOps,MTECH,"ci/cd, jenkins, kubernetes, ansible, docker",5.3
+Elizabeth Li,Engineer,BE,"matlab, control systems, embedded systems",0.0
+Anthony Harris,Hadoop,BE,"jenkins, ansible, ci/cd, kubernetes",12.2
+Stephanie Martinez,Automation Testing,BE,"selenium, automation, pytest, python, junit",5.2
+Molly Becker,Automation Testing,BE,"data warehousing, informatica, etl, ssrs",11.9
+Kimberly Davis,Automation Testing,BTECH,"junit, python, automation, pytest, selenium",0.6
+Adam Larson,Blockchain,BTECH,"solidity, smart contracts, ethereum, web3.js, ",1.8
+Ms. Denise Cannon,Sales,MBA,"negotiation, crm, , lead generation",0.8
+Mario Alvarez,DotNet Developer,BE,"c#, .net, entity framework",1.2
+Edward Nguyen,Electrical Engineer,BTECH,"electronics, signal processing, circuit design",7.7
+Joshua Reynolds,Health and fitness,BA,"nutrition, fitness coaching, training, anatomy",11.5
+Jessica Wilson,Web Designing,BA,"bootstrap, figma, html, css",8.3
+Ricardo Zuniga,PMO,BTECH,"jira, ms project, project management, scrum, agile",12.4
+Mary Scott,Advocate,PHD,"contracts, drafting, legal research",0.2
+Perry Santos,Advocate,PHD,"litigation, contracts, law, drafting, legal research",12.9
+Melanie Nichols,Health and fitness,BA,"yoga, fitness coaching, nutrition, anatomy",0.4
+Melissa Price,Arts,BA,"psychology, sculpting, history,    , sociology",0.3
+Yolanda Lyons,Civil Engineer,BE,"construction, structural analysis, autocad",7.7
+Heather Williams,SAP Developer,MBA,"abap, fiori, sap hana",3.3
+Jacob Wiley,Advocate,BA,"law, contracts, litigation, legal research",3.5
+Robin Herring,Arts,BA,"drawing, history,    , sociology",0.6
+Michael Lyons,Web Designing,BTECH,"javascript, figma, bootstrap",5.6
+Kelsey Baker,SAP Developer,BE,"spark,  , mapreduce, hive, pig",5.0
+Mr. Dennis Scott,DotNet Developer,BTECH,"entity framework, asp.net, c#, mvc, .net",0.5
+Todd Poole,Hadoop,BE,"mapreduce,  , hive, pig, spark",8.9
+Frederick Pruitt,Database,MTECH,"sql, oracle, postgresql, mongodb, dbms",13.6
+William West,Tableau Developer,BTECH,"bi tools, data visualization, dashboards, tableau, sql",1.9
+Kathryn Turner,Business Analyst,BA,"excel, power bi, analytics, sql",3.6
+Richard Middleton,Electrical Engineer,BE,"matlab, electronics, circuit design",14.0
+Fernando Johnson,Health and fitness,BA,"nutrition, anatomy, yoga, fitness coaching",12.5
+Caitlin Doyle,Civil Engineer,BE,"structural analysis, staad pro, construction",1.6
+Danielle Mendoza,Advocate,BA,"contracts, law, drafting",6.9
+Mikayla Obrien,Web Designing,BSC,"figma, html, bootstrap",10.3
+Melissa Burke,PMO,BTECH,"project management, ms project, jira",14.6
+Lisa Wilkerson,Advocate,PHD,"contracts, litigation, drafting, legal research, law",9.3
+Patrick Robles,Blockchain,MTECH,", smart contracts, web3.js, ethereum, solidity",2.1
+Jeremy Pitts,PMO,BTECH,"agile, project management, scrum",6.8
+Jordan Duarte,Automation Testing,BTECH,"pytest, python, selenium",9.1
+Kevin Peters,Web Designing,BTECH,"javascript, figma, bootstrap, css",12.2
+Christopher Williams,Sales,MBA,"lead generation, , cold calling, crm",8.0
+Cheyenne Page,DotNet Developer,BTECH,"c#, .net, asp.net",11.4
+Danny Wilson,Sales,BA,", lead generation, crm, cold calling, negotiation",3.5
+James Stevens,Electrical Engineer,BTECH,"matlab, circuit design, vlsi, signal processing",6.9
+Melissa Harrell,Hadoop,BE,"pig, spark,  , hive, mapreduce",10.4
+Andrew Williams,Web Designing,BA,"bootstrap, css, javascript",9.4
+Jennifer Wilson,Sales,BA,"lead generation, negotiation, ",14.5
+Jessica Lowery,Business Analyst,BTECH,"power bi, requirement gathering, sql, excel, analytics",9.4
+Dr. Dan Grimes,Blockchain,BTECH,"cybersecurity, vpn, firewall, security",7.3
+Lisa White,ETL Developer,BE,"informatica, data warehousing, sql, ssrs",2.5
+Sarah Allen,Java Developer,BE,"java, microservices, rest api, hibernate, spring",11.8
+Kenneth Dunn,Engineer,BE,"embedded systems, control systems, matlab, c, c++",11.9
+Amy Oconnell,Data Scientist,PHD,"ml, data mining, python, deep learning",8.3
+Brian Pham,Civil Engineer,BTECH,"staad pro, structural analysis, estimation",7.9
+Raymond Smith,Web Designing,BSC,"figma, javascript, html, bootstrap",9.1
+Ralph Pierce,ETL Developer,BTECH,"control systems, embedded systems, c, matlab, c++",0.1
+Cindy Barnes,Electrical Engineer,BE,"electronics, signal processing, circuit design, vlsi",6.1
+Lisa Garcia,SAP Developer,MBA,"sap, erp, fiori, abap",6.8
+David Wright,Blockchain,BTECH,"smart contracts, , web3.js, solidity",2.0
+Stephen Hooper,HR,MBA,"interviewing, employee relations, ms excel, communication",13.9
+Melissa Chapman,Tableau Developer,BTECH,"data visualization, dashboards, sql, tableau",11.9
+Cindy Edwards,Python Developer,MTECH,"fastapi, flask, python",13.8
+Brent West,PMO,MBA,"project management, jira, agile, ms project, scrum",10.1
+Kimberly Ramsey,Data Scientist,BA,"power bi, excel, sql",5.9
+Eric Perez,DevOps,MTECH,"docker, ci/cd, kubernetes, ansible",1.1
+Tracy Cox,Hadoop,MTECH,"mapreduce, pig, spark,  , hive",12.4
+Ethan Hernandez,Tableau Developer,BTECH,"tableau, dashboards, bi tools, data visualization",11.8
+Scott Weber,Arts,BA,"   , sculpting, painting",12.0
+Adriana Martin,Database,BE,"dbms, oracle, sql, mongodb",6.2
+Sharon Warner,Data Scientist,MTECH,"statistics, data mining, python",4.3
+Sean Knight,Operations Manager,MBA,"strategy, logistics, operations",10.4
+Heather Franklin,Automation Testing,BE,"junit, automation, selenium, pytest, python",9.1
+Robert Chandler,Business Analyst,BA,"sql, power bi, excel, requirement gathering, analytics",13.5
+Alicia Miller,Engineer,BE,,14.8
+Jeffrey Owens,DevOps,BE,"ansible, ci/cd, jenkins",0.7
+Wendy Ortiz,Tableau Developer,BTECH,"tableau, bi tools, sql",1.9
+Monica Ward,Automation Testing,BTECH,"python, automation, junit, selenium, pytest",10.5
+Gwendolyn Miller MD,Web Designing,BTECH,"html, javascript, bootstrap, css, figma",13.2
+Mrs. Sarah Walker,Web Designing,BSC,"html, figma, bootstrap, javascript, css",8.5
+Pamela Graham,Blockchain,MTECH,"ethereum, smart contracts, web3.js, , solidity",11.7
+Ashley Stone,Civil Engineer,BTECH,"autocad, staad pro, structural analysis",5.9
+Sierra Dickerson,Python Developer,BTECH,"pandas, django, fastapi, python, flask",0.5
+Gregory Spencer,Operations Manager,MBA,"supply chain, operations, logistics, team management, strategy",11.4
+Daniel Williams,Python Developer,BE,"flask, pandas, python, django",7.8
+Mary Williams,Operations Manager,BTECH,"strategy, operations, supply chain, team management, logistics",2.7
+Courtney Moreno,Mechanical Engineer,BE,"cam, mechanics, autocad, solidworks, thermodynamics",3.8
+Dominic Wolfe,SAP Developer,BTECH,"logistics, strategy, operations, supply chain, team management",10.9
+Rebekah Schneider,Sales,MBA,"lead generation, , crm",0.9
+Emily Jones,Electrical Engineer,BE,"vlsi, signal processing, matlab, electronics",5.1
+John Allen,Health and fitness,BSC,"anatomy, yoga, fitness coaching",2.8
+Jacqueline Hodges,PMO,MBA,"scrum, jira, agile, ms project, project management",4.6
+David Thompson,Network Security Engineer,BE,"firewall, vpn, cybersecurity, networking",13.7
+Lacey Roberts,DotNet Developer,BTECH,"mvc, asp.net, .net, entity framework, c#",11.0
+Jeffrey Sims,DevOps,MTECH,"ci/cd, kubernetes, ansible, docker",11.4
+Susan Mata,Blockchain,BA,"   , sociology, history, drawing",2.7
+Jonathon Thomas,Data Scientist,PHD,"data mining, deep learning, ml",14.4
+Jacob Harris,SAP Developer,MBA,"fiori, sap hana, sap",13.5
+Stephanie Wright,ETL Developer,BE,"data warehousing, informatica, etl, sql",6.4
+Jenna Molina,Java Developer,BTECH,"hibernate, microservices, spring, rest api, java",8.8
+Gregory Williams,Network Security Engineer,BTECH,"kubernetes, ci/cd, jenkins, docker",9.6
+Adam Parsons,Python Developer,MBA,"logistics, operations, team management",9.4
+Rebecca Murray,Network Security Engineer,BE,"networking, cybersecurity, firewall, vpn",11.7
+Susan Wolfe,PMO,MBA,"scrum, jira, project management, ms project",3.4
+Maxwell Adams MD,Advocate,PHD,"legal research, drafting, law, contracts",4.8
+Brad Reed II,Java Developer,MTECH,"rest api, microservices, spring, hibernate",9.7
+Amanda Curry,Automation Testing,BE,"pytest, python, automation, junit",1.6
+Joseph Simmons,Business Analyst,BE,"autocad, structural analysis, construction",11.2
+Andrew Boyd,Database,BE,"sql, mongodb, dbms, oracle",5.4
+James Long,DevOps,MTECH,"jenkins, ci/cd, kubernetes, docker, ansible",12.5
+Nicholas Ross,Data Scientist,PHD,"ml, data mining, python",1.7
+Stacy Fisher,DotNet Developer,BTECH,".net, c#, entity framework",9.4
+Ronald Johnson,Web Designing,BTECH,"css, bootstrap, javascript, html, figma",7.6
+Kathy Holden,Advocate,PHD,"contracts, legal research, drafting",13.5
+Noah Harris,PMO,MBA,"ms project, scrum, project management, agile",12.8
+Gabriel Miller,DotNet Developer,BTECH,"c#, mvc, entity framework, .net",14.0
+Jim Brooks,Advocate,BA,"litigation, legal research, contracts",10.0
+Monique Lyons,Advocate,PHD,"law, litigation, drafting, legal research, contracts",4.8
+Joe Webb,DevOps,BTECH,"excel, power bi, requirement gathering, analytics, sql",12.2
+Jennifer Nelson,Blockchain,BTECH,"solidity, web3.js, ",14.7
+Betty Swanson,HR,BA,"employee relations, interviewing, ms excel, communication",10.2
+Patty Warren,Engineer,BTECH,"matlab, c++, control systems, embedded systems, c",6.9
+Kristen Curtis,Business Analyst,BTECH,"analytics, power bi, sql, excel, requirement gathering",8.5
+Kimberly Hickman,Blockchain,BTECH,", ethereum, smart contracts",9.5
+Alejandro Lambert,HR,BA,"interviewing, ms excel, employee relations",0.8
+Jordan Hartman,Health and fitness,BSC,"fitness coaching, nutrition, yoga, training, anatomy",12.7
+Jonathan Cunningham,Operations Manager,BTECH,"logistics, operations, strategy, supply chain",10.5
+Gerald Harrison,Python Developer,MTECH,"fastapi, pandas, flask, django",14.0
+Dr. Steven Harris,DevOps,BTECH,"jenkins, docker, ansible, kubernetes, ci/cd",15.0
+Stephen Hill,Advocate,PHD,"contracts, legal research, litigation, drafting",9.2
+Sharon Mccoy,Tableau Developer,MBA,"dashboards, bi tools, sql, tableau",6.5
+Tonya Ward,Mechanical Engineer,BTECH,"autocad, solidworks, cam",8.0
+Olivia Baker,Electrical Engineer,BE,"electronics, circuit design, signal processing, matlab",12.5
+Shaun Nguyen,Business Analyst,BA,"requirement gathering, sql, analytics",4.0
+Mrs. Stephanie Williams,ETL Developer,MTECH,"sql, ssrs, informatica, etl, data warehousing",7.9
+Lisa Oliver,PMO,BTECH,"structural analysis, construction, staad pro",7.2
+Andrew Baldwin,Blockchain,BTECH,"ethereum, solidity, smart contracts, , web3.js",11.7
+Bryan Anderson,PMO,BE,"embedded systems, matlab, c",6.3
+Nancy Gibbs,PMO,BE,"entity framework, mvc, .net",10.1
+Megan Barron,Business Analyst,BA,"excel, power bi, sql",7.9
+Mark Johnson,PMO,BTECH,"project management, scrum, jira, ms project, agile",5.9
+Jessica Mcneil,Java Developer,BTECH,"vpn, firewall, security, networking, cybersecurity",11.3
+Christopher Bailey DDS,PMO,MBA,"ms project, agile, jira, project management, scrum",4.6
+Karen Glenn,Tableau Developer,MBA,"tableau, bi tools, dashboards, data visualization, sql",0.9
+Rhonda Ponce,DotNet Developer,BTECH,"asp.net, mvc, .net, entity framework, c#",5.9
+Laura Davenport,Electrical Engineer,BE,"circuit design, signal processing, vlsi, electronics, matlab",6.9
+Nathaniel Ferguson,Electrical Engineer,BTECH,"matlab, signal processing, vlsi, circuit design",1.3
+Joseph Morgan,ETL Developer,BE,"sql, ssrs, data warehousing",5.7
+Donna Williams,Automation Testing,BE,"thermodynamics, autocad, solidworks, mechanics, cam",1.7
+Ronald Stevenson,Java Developer,BTECH,"hibernate, spring, java, microservices, rest api",12.6
+Amy Warren,Sales,MBA,"cold calling, , negotiation",14.8
+Jennifer Blair,ETL Developer,MTECH,"data warehousing, etl, informatica, sql, ssrs",10.7
+Christina Smith,Automation Testing,BE,"junit, pytest, selenium",11.5
+Jennifer Ramirez,SAP Developer,BTECH,"fiori, sap hana, erp, sap",5.0
+John Chang,SAP Developer,MBA,"sap, abap, sap hana, erp, fiori",12.3
+Hunter Leach,Electrical Engineer,BE,"matlab, vlsi, electronics, signal processing",7.0
+Melissa Nash,Data Scientist,MTECH,"statistics, python, data mining, ml, deep learning",10.2
+James Beltran,Data Scientist,BTECH,"python, statistics, deep learning",13.1
+Samantha Perkins,Business Analyst,MBA,"analytics, sql, requirement gathering, power bi",5.8
+Michael Daniel,PMO,BTECH,"agile, ms project, jira",10.8
+Joshua Richard,Civil Engineer,BTECH,"staad pro, autocad, construction",7.5
+Jennifer Potts,Health and fitness,BA,"training, nutrition, yoga, anatomy",2.3
+Todd Rodriguez,Tableau Developer,MBA,"data visualization, bi tools, tableau, sql, dashboards",3.6
+Martin Woods,Engineer,BE,"c, matlab, control systems, c++",3.9
+Melissa Keith,HR,BA,"interviewing, communication, ms excel",0.1
+Amber Horton,Arts,BA,"drawing, history, sociology, sculpting",4.6
+Zachary Dickerson,DotNet Developer,BTECH,"asp.net, mvc, .net, entity framework, c#",5.1
+Holly Wilson,SAP Developer,BTECH,"sap hana, sap, fiori, erp",8.6
+Joseph Bell,SAP Developer,MBA,"sap, abap, fiori, erp, sap hana",0.6
+Tracy Preston,PMO,MBA,"scrum, ms project, agile, project management",10.0
+Joseph Thomas,HR,BA,"drawing, sociology,    , history",3.8
+Gregory Townsend,Advocate,PHD,"drafting, law, contracts, litigation, legal research",12.5
+James Hodges,SAP Developer,MBA,"fiori, erp, sap hana",7.4
+Michael Smith,HR,MBA,"interviewing, ms excel, communication, employee relations, recruitment",0.0
+Samantha Goodwin,ETL Developer,BE,,2.0
+David Andrade,Automation Testing,BTECH,"selenium, automation, python, pytest, junit",14.8
+Charles Fox,Electrical Engineer,BE,"circuit design, vlsi, matlab, electronics, signal processing",2.0
+Nathaniel Brown,Web Designing,BE,".net, entity framework, c#",10.5
+Terry Rivera,DevOps,BE,"kubernetes, ci/cd, ansible, jenkins, docker",7.5
+Sherry Parsons,Mechanical Engineer,BE,"autocad, solidworks, mechanics, cam",2.5
+Charles Jensen,DotNet Developer,BTECH,"c#, asp.net, mvc",3.3
+Ryan Hampton,Network Security Engineer,BTECH,"automation, junit, selenium, python",1.7
+Alejandra Henry,Advocate,PHD,"contracts, litigation, law",12.8
+Margaret Crane,Business Analyst,BA,"excel, power bi, analytics, requirement gathering",9.3
+Amy Castillo,Data Scientist,MTECH,"ml, python, deep learning",14.8
+Lori Hall,Automation Testing,BTECH,"python, pytest, junit, automation",2.5
+Adam Davidson,Civil Engineer,BE,"staad pro, estimation, structural analysis, autocad, construction",1.0
+Emily Davila,Database,BE,"dbms, mongodb, oracle, postgresql, sql",7.2
+Teresa Sims,Sales,MBA,"crm, cold calling, lead generation, ",9.6
+Erin Rhodes,Network Security Engineer,BE,"firewall, vpn, security, cybersecurity",0.2
+Erin Bartlett,Hadoop,BE,"mapreduce, spark, pig, hive,  ",13.7
+Michael Green,PMO,BTECH,"ms project, jira, agile",2.1
+Angie Caldwell,DevOps,BTECH,"docker, ci/cd, ansible, kubernetes, jenkins",10.4
+Jamie Rodgers,Civil Engineer,BE,"estimation, staad pro, construction, structural analysis",3.6
+Christine Gonzales,Arts,BA,"sociology, sculpting,    ",0.4
+Taylor Jones,HR,MBA,"ms excel, communication, interviewing",2.5
+Christopher Obrien,SAP Developer,MBA,"erp, fiori, sap, abap, sap hana",12.0
+Shelia Jones,Automation Testing,BE,"python, selenium, pytest, automation",13.7
+James Munoz,Sales,MBA,"cold calling, lead generation, ",4.5
+Richard Tran,Python Developer,MTECH,"python, fastapi, flask, pandas, django",0.4
+Stephanie Hernandez,Java Developer,MTECH,"spring, hibernate, microservices, java, rest api",0.6
+Anna Coleman,Python Developer,BTECH,"python, flask, fastapi",6.8
+Kathleen Fox,PMO,MBA,"project management, jira, ms project",8.1
+Ashley Marshall,Network Security Engineer,BE,"vpn, networking, security",4.3
+Mary Carter,Mechanical Engineer,BTECH,"mechanics, cam, thermodynamics, autocad, solidworks",9.0
+Tina White,DevOps,BTECH,"jenkins, ansible, ci/cd, docker",3.7
+Elizabeth Garza,Data Scientist,MTECH,"statistics, data mining, deep learning, python",13.7
+Howard Rodriguez,Operations Manager,MBA,"operations, supply chain, team management, strategy",13.0
+Michael Ramirez,Electrical Engineer,BTECH,"vlsi, signal processing, matlab",6.8
+Sandra Hernandez,Hadoop,BTECH,"hive, pig, spark",11.4
+Hannah Johnson,Arts,BA,"psychology,    , history, sociology, painting",12.9
+Laura Williams MD,Tableau Developer,BTECH,"dashboards, tableau, sql, data visualization, bi tools",5.8
+David Castro,Electrical Engineer,BE,"electronics, signal processing, vlsi, circuit design",11.1
+Cynthia Kane,HR,BA,"interviewing, ms excel, employee relations, communication, recruitment",4.7
+Deborah Steele,Sales,MBA,"cold calling, , lead generation",5.2
+Kenneth Anderson,DevOps,MTECH,"docker, jenkins, ci/cd, kubernetes, ansible",5.6
+Joshua Marsh,PMO,BTECH,"jira, ms project, scrum, agile, project management",6.9
+Charles Miller,PMO,MBA,"jira, ms project, scrum",9.9
+Christine Moore,Hadoop,MTECH," , mapreduce, hive",5.9
+Dr. Sophia Thomas MD,Tableau Developer,BA,"recruitment, interviewing, ms excel, communication",2.9
+Mitchell Richardson,ETL Developer,BE,"informatica, ssrs, data warehousing",3.5
+Cynthia Brooks DDS,DotNet Developer,BTECH,"asp.net, .net, c#",7.4
+Scott Taylor,Engineer,BTECH,"matlab, embedded systems, c",13.5
+Bradley Rhodes,DevOps,BE,"jenkins, kubernetes, docker, ci/cd",12.5
+Tammy Anderson,,BTECH,"hibernate, rest api, spring, microservices",10.1
+Brian Castillo,SAP Developer,BE,"thermodynamics, cam, solidworks, autocad",8.2
+Emily Casey,Engineer,BTECH,"control systems, c, c++, matlab, embedded systems",12.2
+Christopher Ramos,Engineer,BE,"matlab, c, control systems",8.7
+Vanessa Thompson,PMO,MBA,"project management, ms project, scrum",7.7
+Michael Harris,DotNet Developer,BTECH,"c#, .net, entity framework, asp.net",3.1
+Austin Crawford,Automation Testing,BE,"junit, pytest, selenium",0.1
+Barbara Blanchard,Automation Testing,BTECH,"automation, selenium, python, pytest, junit",3.3
+Kim Stout,Business Analyst,BA,"excel, sql, power bi, requirement gathering, analytics",1.7
+Jackie Russell,Mechanical Engineer,BTECH,"mechanics, cam, solidworks, autocad, thermodynamics",13.3
+Pam Lynch,Database,MTECH,"postgresql, dbms, oracle",0.4
+Julia Higgins,Health and fitness,BA,"fitness coaching, anatomy, yoga",11.9
+Tina Smith,Engineer,BTECH,"embedded systems, matlab, control systems",12.6
+Margaret Taylor,Web Designing,BA,"legal research, law, litigation",5.5
+Gina Taylor,Data Scientist,MTECH,"data mining, statistics, python",4.9
+Nicholas Flores,Automation Testing,BTECH,"python, automation, selenium, pytest",14.7
+Tracy Dunn,ETL Developer,BTECH,"ssrs, informatica, etl",7.7
+Diane Lowe,Hadoop,MTECH,"hive, spark, pig",1.6
+Jose Smith,Hadoop,BE,"mapreduce,  , pig, spark, hive",8.4
+Peter Bell,DevOps,MTECH,"ansible, ci/cd, jenkins, kubernetes, docker",9.9
+William Hernandez,Network Security Engineer,BTECH,"cybersecurity, vpn, firewall",12.0
+Debbie Gregory,PMO,BTECH,"scrum, jira, agile, ms project",10.9
+Jose Maxwell,Advocate,PHD,"drafting, law, litigation, legal research, contracts",8.3
+Jason Stone,DevOps,BTECH,"ci/cd, ansible, jenkins",3.9
+James Wilson,Web Designing,BA,"css, figma, javascript, bootstrap",9.6
+Leslie Ball,DevOps,BE,"kubernetes, jenkins, ci/cd, docker, ansible",4.4
+Susan Frazier,Automation Testing,BE,"fastapi, python, pandas, flask",1.5
+Kevin Sloan,Civil Engineer,BTECH,"structural analysis, construction, autocad",14.1
+Sarah Reed,Electrical Engineer,BTECH,"vlsi, signal processing, matlab",7.5
+Melissa Brown,Java Developer,MTECH,"java, hibernate, microservices",7.4
+Phillip Wright,Tableau Developer,BTECH,"data visualization, sql, bi tools",1.0
+Robert Perry,Tableau Developer,BTECH,"data visualization, bi tools, sql, tableau, dashboards",4.0
+Jennifer Lawrence,PMO,BTECH,"agile, scrum, ms project, project management, jira",8.9
+Lisa Vaughn,Tableau Developer,BTECH,"bi tools, tableau, data visualization",4.3
+Raymond Jones,Python Developer,BE,"python, django, fastapi, flask, pandas",14.1
+Ana Fowler,Health and fitness,BA,"training, yoga, fitness coaching",2.5
+Matthew Jones,Engineer,BTECH,"matlab, embedded systems, c++, c, control systems",11.2
+Andrew Smith,Health and fitness,BA,"yoga, nutrition, anatomy, fitness coaching",6.0
+Nancy Abbott,Automation Testing,BE,"python, automation, selenium, pytest",3.3
+Kathryn Nguyen,Python Developer,BTECH,"pandas, flask, python, fastapi, django",9.0
+Debbie Powell,PMO,MBA,"jira, ms project, project management, scrum, agile",1.1
+Kelsey Holt,DevOps,BE,"ci/cd, docker, kubernetes",7.5
+Michael Hunter,PMO,MBA,"scrum, agile, project management, ms project, jira",10.7
+Terry Chase,ETL Developer,BE,"informatica, ssrs, data warehousing",8.3
+Carolyn Chapman,Arts,BA,"painting,    , psychology, history, drawing",13.8
+Tyler Cook,Python Developer,MTECH,"pandas, django, fastapi",4.2
+Harry Walker,DevOps,MTECH,"ansible, ci/cd, docker, jenkins",3.2
+David Reynolds,Data Scientist,BTECH,"statistics, ml, python, data mining, deep learning",4.7
+Nathan Holland,ETL Developer,BTECH,"ssrs, sql, informatica",12.4
+Terry Jennings,Civil Engineer,BTECH,"structural analysis, estimation, construction, staad pro, autocad",4.5
+Lisa Williams,Blockchain,MTECH,"ethereum, solidity, smart contracts, web3.js, ",2.8
+Daniel Rice,Python Developer,MTECH,"fastapi, flask, django, pandas",9.5
+Deborah Rowe,Mechanical Engineer,BTECH,"cam, solidworks, autocad, mechanics",4.2
+Derek Gutierrez,PMO,BTECH,"agile, project management, scrum, jira, ms project",4.0
+Vanessa Mayo,Business Analyst,BTECH,"excel, requirement gathering, analytics, sql",5.8
+Richard Deleon,Mechanical Engineer,BTECH,"matlab, control systems, embedded systems, c++, c",6.0
+Joshua Jordan,PMO,MBA,"agile, project management, scrum",5.5
+Rachel Stephens,PMO,MBA,"jira, scrum, ms project, project management, agile",1.6
+Dawn Williams,Network Security Engineer,BE,"vpn, networking, cybersecurity, firewall, security",2.3
+Clifford Hopkins,Hadoop,BE,"hive, spark, pig, mapreduce,  ",3.6
+William Keller,Engineer,BTECH,"c++, matlab, embedded systems, c, control systems",13.9
+Ronald Bowen,ETL Developer,MTECH,"informatica, etl, sql, ssrs",14.0
+Paul Davis,Engineer,BTECH,"c, embedded systems, control systems, matlab, c++",0.7
+Thomas Miller,Mechanical Engineer,BTECH,"mechanics, autocad, solidworks, cam",8.7
+Amanda Levine,Network Security Engineer,BA,"sql, requirement gathering, excel, analytics, power bi",13.2
+Amy Taylor,Mechanical Engineer,BE,"ssrs, data warehousing, etl, informatica, sql",14.8
+William Davis,Health and fitness,BA,"fitness coaching, nutrition, training, yoga, anatomy",14.7
+Willie Lewis,PMO,BTECH,"project management, jira, ms project",6.5
+Tanya Mccoy,DotNet Developer,BTECH,"mvc, entity framework, .net",2.0
+Nicole Kelly,Data Scientist,PHD,"statistics, data mining, ml",3.7
+Angel Merritt,Business Analyst,BTECH,"power bi, sql, requirement gathering, excel",11.6
+Matthew Smith,Python Developer,BTECH,"pandas, flask, python, django",9.7
+Emily Davidson,Engineer,BE,"c, matlab, control systems, c++, embedded systems",9.8
+Dustin Barrett,Health and fitness,BA,"nutrition, yoga, training",14.8
+Jeffrey Garcia,Data Scientist,MTECH,"ml, statistics, python, data mining, deep learning",11.1
+Stuart Briggs,Python Developer,BE,"asp.net, .net, mvc, entity framework",6.3
+Ethan Perez,ETL Developer,BE,"entity framework, .net, c#, mvc",11.0
+Timothy Morrison,DotNet Developer,BE,"mvc, asp.net, entity framework, c#",2.3
+Jennifer Harris,Electrical Engineer,BE,,10.3
+Abigail Armstrong,Civil Engineer,BTECH,,7.9
+Amanda Carter,Web Designing,BA,"javascript, bootstrap, css, figma",7.2
+Ariana Garcia,Business Analyst,BA,"requirement gathering, excel, sql",14.4
+Christopher Klein,Health and fitness,PHD,"law, litigation, contracts",12.8
+Derrick Rice,Database,MTECH,"oracle, mongodb, dbms",0.1
+Matthew Gregory,SAP Developer,BTECH,"erp, fiori, abap, sap hana, sap",1.8
+Ethan Ford,PMO,BTECH,"project management, jira, scrum",2.3
+Laura Hodges,Sales,MBA,"lead generation, negotiation, cold calling",3.7
+Rachel Rodriguez MD,Java Developer,BE,"hibernate, microservices, spring, java, rest api",1.6
+Willie Butler,Network Security Engineer,BE,"cybersecurity, firewall, vpn",12.0
+Kathryn Gonzalez,PMO,MBA,"project management, jira, agile, scrum",0.1
+Amber Norris,Java Developer,MTECH,"microservices, spring, java",14.0
+Robin James,Java Developer,BTECH,"hibernate, java, rest api",3.0
+Brandon Holden,SAP Developer,MBA,"sap hana, sap, abap, erp, fiori",8.2
+Jessica Knight,Business Analyst,BA,"sql, requirement gathering, power bi, analytics",7.4
+Timothy Rogers,Tableau Developer,BA,"law, contracts, legal research",14.6
+Tammy Collins,Data Scientist,MTECH,"python, statistics, deep learning, data mining, ml",3.5
+Nancy Baker,Advocate,PHD,"litigation, contracts, legal research, drafting",1.6
+Christina Williams,Business Analyst,BTECH,"power bi, sql, excel, analytics, requirement gathering",14.8
+Megan Kim,Electrical Engineer,BE,"circuit design, vlsi, matlab, electronics, signal processing",5.0
+Frank Roman,HR,BA,"employee relations, communication, ms excel, recruitment",12.1
+Michelle Daniel,Tableau Developer,MBA,"dashboards, sql, data visualization, bi tools",14.5
+Carolyn Landry,Java Developer,MTECH,"microservices, rest api, java",10.9
+Ashley Bird,Health and fitness,BA,"training, nutrition, yoga, fitness coaching",0.2
+Alan Jackson,Network Security Engineer,BE,"security, firewall, vpn, cybersecurity, networking",3.0
+Jennifer Curry,Sales,BA,", lead generation, crm, negotiation",4.4
+Laura Collins,Java Developer,BTECH,"hibernate, rest api, microservices, spring",11.2
+Candace Smith,Hadoop,BE,"mapreduce, hive, spark,  , pig",9.6
+Kristen Cole,Health and fitness,BA,"training, fitness coaching, anatomy",12.7
+Paul Herrera,HR,BA,"interviewing, employee relations, communication",1.6
+Kayla Harris DVM,Engineer,BTECH,"embedded systems, matlab, control systems, c, c++",11.0
+Isabel Johnson,Automation Testing,BE,"junit, pytest, selenium, python",2.9
+Richard Vasquez,DevOps,MTECH,"docker, jenkins, ansible, ci/cd, kubernetes",8.8
+Megan Valdez,SAP Developer,MBA,"erp, sap hana, abap",14.9
+Brandon Maxwell,DotNet Developer,BTECH,"entity framework, .net, c#, asp.net, mvc",11.1
+Benjamin Owen,Python Developer,MTECH,"flask, fastapi, django, pandas, python",0.4
+Brian Evans,ETL Developer,MTECH,"data warehousing, etl, informatica, ssrs, sql",0.8
+David Barr,Tableau Developer,BTECH,"tableau, sql, data visualization",1.2
+David Williams,Engineer,BE,"control systems, embedded systems, c, matlab, c++",11.4
+Samuel May IV,Data Scientist,PHD,"ml, python, deep learning",7.7
+Laura Taylor,Web Designing,BTECH,"css, bootstrap, figma, html",2.2
+Megan Garcia,Tableau Developer,BTECH,"bi tools, tableau, dashboards",13.6
+Annette Dunn,Business Analyst,BA,"power bi, sql, excel, requirement gathering",11.9
+Jason Hernandez,Electrical Engineer,BTECH,"circuit design, vlsi, electronics",13.6
+Joshua Rogers,Electrical Engineer,BE,"signal processing, vlsi, circuit design, electronics, matlab",9.3
+Jesse Clark,Network Security Engineer,BE,"security, networking, firewall",1.9
+Amy Jackson,Business Analyst,BTECH,"excel, requirement gathering, sql, power bi, analytics",9.6
+Francisco Cunningham,Operations Manager,BTECH,"operations, team management, logistics, strategy, supply chain",12.5
+Ricky Gonzalez,Hadoop,BE," , spark, pig, mapreduce, hive",14.2
+Tony Mayo,Business Analyst,BA,"power bi, analytics, excel, sql",15.0
+Sherry Bell,Web Designing,BA,"bootstrap, css, html, figma",4.7
+Ryan Lyons,DotNet Developer,BTECH,".net, entity framework, asp.net, c#",6.1
+Gabrielle Walker,Advocate,PHD,"drafting, litigation, legal research, law",9.6
+Danielle Fletcher,ETL Developer,MTECH,"sql, etl, ssrs",3.2
+Rachel Hughes,Health and fitness,BSC,"nutrition, anatomy, fitness coaching",3.8
+Derek Lyons,Business Analyst,BTECH,"sql, power bi, excel, requirement gathering",3.7
+Joseph Price,Python Developer,BTECH,"pandas, flask, fastapi, python",3.4
+Alex Williams,ETL Developer,BE,"data warehousing, etl, sql",1.4
+Katherine Hamilton,Mechanical Engineer,BTECH,"solidworks, autocad, mechanics, cam, thermodynamics",6.9
+Sheri Montgomery,Mechanical Engineer,BE,"thermodynamics, solidworks, autocad, mechanics",9.7
+Mallory Morrow,SAP Developer,MBA,"abap, erp, sap, fiori, sap hana",11.4
+Casey Moyer,Data Scientist,BTECH,"python, data mining, deep learning, statistics",4.3
+Vanessa Bailey,HR,BA,"employee relations, recruitment, interviewing, ms excel, communication",1.5
+Dennis May,Mechanical Engineer,BTECH,"autocad, solidworks, thermodynamics",5.5
+Carla Roth,Advocate,PHD,"drafting, law, litigation, legal research",4.4
+Kathleen Stevens,ETL Developer,BTECH,"etl, ssrs, informatica, sql, data warehousing",0.3
+Lauren Ferguson,Data Scientist,BTECH,"deep learning, ml, python, statistics, data mining",14.1
+Shawn Robertson,Advocate,BTECH,"sql, power bi, requirement gathering",7.9
+Michelle Reeves,Engineer,BTECH,"control systems, c++, embedded systems",12.2
+Jasmine Knight,Health and fitness,BSC,"yoga, fitness coaching, anatomy",2.9
+Melvin Walker,Arts,BA,"sociology, sculpting, painting, psychology",5.0
+Melissa Holmes,Civil Engineer,BE,"staad pro, autocad, structural analysis, estimation",14.1
+Christopher Garcia,Hadoop,BTECH,"spark, hive,  ",7.2
+Abigail Neal,Automation Testing,BTECH,"pytest, python, automation, junit",7.7
+Christopher Vang,Blockchain,MTECH,"web3.js, ethereum, solidity, ",14.8
+Courtney Duran,Advocate,BA,"litigation, legal research, contracts, law, drafting",10.6
+Latasha Finley,Business Analyst,BTECH,"sql, analytics, requirement gathering",9.1
+Victoria Scott,ETL Developer,BE,,11.7
+Kimberly Adams,Sales,MBA,"negotiation, lead generation, cold calling, crm",5.3
+Jonathan Horne,Blockchain,BE,"kubernetes, ansible, jenkins, docker",13.6
+Mr. Lucas Huang,Electrical Engineer,BTECH,"electronics, matlab, vlsi",3.8
+Taylor Jones,Sales,MBA,"negotiation, crm, cold calling",10.2
+Bernard Nelson,Network Security Engineer,BTECH,"cybersecurity, security, networking, vpn",3.5
+Kevin Mendoza,Hadoop,BTECH,"hive, spark, pig, mapreduce",8.2
+Angel Alexander,Civil Engineer,BE,"estimation, structural analysis, autocad, construction",11.1
+Brian Harrison,Business Analyst,BTECH,"analytics, sql, requirement gathering, power bi, excel",8.6
+Erica Daniels,SAP Developer,BTECH,"fiori, sap hana, erp",9.6
+Jill Jones,DotNet Developer,BTECH,".net, entity framework, c#",14.1
+Bryan Diaz,Arts,BA,"sociology, painting, psychology, history",14.7
+Christopher Michael,Network Security Engineer,BE,"cybersecurity, firewall, vpn, networking, security",0.2
+Harold Brown,Engineer,BE,"c, matlab, control systems",9.2
+Brandon Hughes,Health and fitness,BE,"microservices, spring, java, rest api",3.3
+Heidi Lutz,HR,BA,"communication, ms excel, interviewing, recruitment, employee relations",5.5
+Eduardo Miller,Web Designing,BTECH,"bootstrap, css, javascript, html, figma",
+Erica Cox,Java Developer,BTECH,"rest api, java, hibernate, microservices",6.8
+Adam Mason,HR,MBA,"interviewing, employee relations, recruitment, ms excel, communication",7.6
+Thomas Ramsey,Engineer,BTECH,"embedded systems, matlab, c++, c",10.8
+Diane Hernandez,Network Security Engineer,BTECH,"vpn, firewall, security",4.1
+Elizabeth Baker,Engineer,BE,"c, c++, embedded systems, control systems, matlab",7.0
+Nathan Duran,Engineer,BTECH,"c++, matlab, control systems, c",12.3
+Dr. Jeffrey Franklin,Operations Manager,BA,"training, fitness coaching, anatomy",5.1
+Sara Sparks,PMO,MBA,"agile, scrum, ms project, jira, project management",7.0
+Martha Chavez,Electrical Engineer,BTECH,"vlsi, signal processing, matlab",11.0
+Steven Rodriguez,DotNet Developer,BE,".net, entity framework, asp.net",8.5
+Alison Espinoza,Blockchain,BTECH,", smart contracts, web3.js",6.7
+Alison Terry,Data Scientist,BTECH,"data mining, ml, deep learning, statistics, python",9.9
+Richard Rivera,Database,BE,"sql, mongodb, dbms, oracle, postgresql",11.0
+Yvonne Gould,Civil Engineer,BE,"structural analysis, staad pro, autocad, construction, estimation",2.0
+Anthony Hoffman,Business Analyst,BTECH,"excel, requirement gathering, power bi",6.2
+Tammy Jarvis,Advocate,PHD,"litigation, contracts, drafting, law",3.3
+Pamela Glass,Blockchain,BTECH,"smart contracts, solidity, ",3.2
+Dawn Wells,DotNet Developer,BE,".net, c#, asp.net, entity framework",6.1
+Michelle Russo,Advocate,BA,"legal research, drafting, litigation, contracts, law",13.1
+Tammy Sanchez,Data Scientist,PHD,"data mining, ml, statistics, python",0.7
+William Villa,PMO,MBA,"scrum, project management, jira, ms project",6.3
+Madison Knapp,Network Security Engineer,BE,"security, firewall, vpn, cybersecurity",7.1
+Benjamin Cannon,Java Developer,BTECH,"rest api, java, spring, hibernate",9.0
+Cheryl May,Business Analyst,MBA,"power bi, analytics, sql, excel, requirement gathering",14.1
+Alyssa Smith,Data Scientist,BTECH,"ml, statistics, data mining, python",8.2
+Donald White,DevOps,BTECH,"jenkins, ansible, docker, ci/cd, kubernetes",12.1
+Nicholas Cantrell,Operations Manager,MBA,"logistics, supply chain, strategy, operations, team management",5.4
+Rhonda Barton,Sales,BA,"lead generation, , negotiation, crm, cold calling",2.5
+Stephen Andrews,Operations Manager,MBA,"supply chain, operations, logistics, strategy",0.4
+David Thompson,DotNet Developer,BE,"asp.net, mvc, .net, entity framework, c#",2.6
+Jason Scott,Data Scientist,BTECH,"statistics, data mining, deep learning",3.4
+Amy Carter,Business Analyst,BA,"sql, requirement gathering, analytics, excel, power bi",2.9
+Melissa White,Advocate,PHD,"contracts, litigation, legal research, law, drafting",14.5
+Ashley Hernandez,Web Designing,BSC,"figma, bootstrap, javascript, css",7.3
+Matthew Morgan,Sales,MBA,"negotiation, lead generation, crm, ",0.1
+Tara Martin,Civil Engineer,BTECH,"autocad, construction, structural analysis, estimation, staad pro",1.0
+Stephanie Martinez,Advocate,BA,"drafting, legal research, law, litigation",0.7
+Hector Reynolds,Engineer,BE,"c++, c, matlab",0.8
+Mary Hood,Sales,MBA,"cold calling, lead generation, crm, negotiation",5.5
+Dawn Barron,DotNet Developer,BTECH,"c#, mvc, .net, entity framework, asp.net",9.9
+Jennifer Gomez,Hadoop,BE,"spark, pig,  , mapreduce",4.3
+Anthony Brown,PMO,BTECH,"ms project, project management, scrum, jira",11.3
+Brandy Johnson,PMO,BTECH,"ms project, agile, project management, jira, scrum",
+Colleen Delgado,Tableau Developer,MBA,"bi tools, dashboards, data visualization, sql, tableau",1.7
+Gabrielle Webb,Sales,BA,"cold calling, , negotiation",0.8
+Alexis Kelley,Civil Engineer,BTECH,"construction, autocad, structural analysis",13.1
+Anita Moran,DevOps,BA,"law, contracts, legal research",8.8
+Elizabeth Brooks,Web Designing,BTECH,"css, html, bootstrap",3.6
+Dr. Rebecca Pearson,Network Security Engineer,BTECH,,4.3
+Michael Thomas,Engineer,BE,"matlab, embedded systems, c, control systems",7.5
+Sally Thompson,Electrical Engineer,BTECH,"vlsi, electronics, matlab",12.0
+Paul Davis,PMO,MBA,"ms project, project management, agile, scrum",11.3
+Diane Wood,Sales,MBA,"cold calling, negotiation, , lead generation",8.8
+Kelli Stewart,Business Analyst,BA,"power bi, analytics, requirement gathering, excel",12.3
+Jennifer Kim,Blockchain,BTECH,"smart contracts, , ethereum, web3.js, solidity",4.4
+Anthony Jones,Mechanical Engineer,BE,"solidworks, autocad, cam, thermodynamics, mechanics",9.2
+Mrs. Donna Henry MD,HR,BE,"thermodynamics, solidworks, mechanics, autocad, cam",1.5
+Susan Johnson,Advocate,BA,"contracts, legal research, law, drafting",14.7
+James Boone,Advocate,BA,"litigation, contracts, law, drafting",1.9
+John Sheppard Jr.,Automation Testing,BTECH,"automation, python, selenium, junit, pytest",0.5
+Erin Keith,HR,MBA,"interviewing, recruitment, employee relations, communication",1.4
+Ernest Stevens,Civil Engineer,BE,"hibernate, java, spring, microservices, rest api",14.8
+Mark Wright,Sales,BTECH,"mongodb, oracle, postgresql",6.4
+Deborah Rollins,SAP Developer,BTECH,"erp, sap, sap hana",7.2
+Kevin Long,Hadoop,BE,"mapreduce, hive,  , spark",2.8
+Jill White,SAP Developer,MBA,"sap, fiori, sap hana, abap",6.8
+Paula Kennedy,PMO,BSC,"training, nutrition, fitness coaching, anatomy, yoga",13.0
+Aaron Johnson,Arts,BA,"sociology, sculpting, drawing",7.4
+Ruben Livingston,SAP Developer,MBA,"fiori, erp, sap, abap, sap hana",3.4
+Jessica Scott,DotNet Developer,BTECH,"c#, entity framework, .net, mvc",14.2
+Marcia Cunningham,Hadoop,BE,"spark, mapreduce, hive",6.4
+Miranda Mcintyre,Blockchain,MTECH,"solidity, ethereum, smart contracts",1.7
+Tony Roach,Tableau Developer,BTECH,"data visualization, bi tools, tableau, dashboards",3.9
+Jason Perez,Arts,BA,"painting, history, sculpting",10.8
+Stanley Davenport,DotNet Developer,BTECH,"mvc, entity framework, asp.net, .net, c#",10.3
+Breanna Pineda,Network Security Engineer,BTECH,"vpn, firewall, networking",5.1
+David Castaneda,Java Developer,MTECH,"rest api, spring, java, microservices",1.1
+Kayla Jimenez MD,Network Security Engineer,BE,"vpn, firewall, security, cybersecurity",0.1
+Brian Ruiz,Mechanical Engineer,BE,"cam, thermodynamics, solidworks, mechanics, autocad",0.1
+Kimberly Martinez,,MBA,"abap, erp, sap hana, sap",3.9
+Michael Davis,Web Designing,BA,"bootstrap, figma, html",13.5
+Christopher Wilson,Electrical Engineer,BE,"vlsi, electronics, circuit design, signal processing",13.5
+Jared Jones,DevOps,MTECH,"ansible, jenkins, ci/cd, docker, kubernetes",5.0
+Brandy Miranda,Arts,BA,"sculpting, sociology,    , history",1.7
+Eric Aguilar,Engineer,BTECH,"embedded systems, c, matlab, control systems, c++",13.6
+Seth Taylor,DotNet Developer,BE,"entity framework, mvc, c#, asp.net, .net",5.2
+Richard Miller,Network Security Engineer,BE,"firewall, networking, security, cybersecurity, vpn",0.8
+Edward Kelley,HR,BA,"ms excel, communication, recruitment, interviewing",10.1
+David Thomas,PMO,BTECH,"agile, scrum, project management, jira",13.8
+Mrs. Stacey Davis MD,Hadoop,BTECH," , spark, hive, pig, mapreduce",2.0
+Ian Carter,Automation Testing,BTECH,"automation, selenium, pytest, junit, python",12.5
+Cathy Neal,Civil Engineer,BE,"structural analysis, autocad, staad pro",14.6
+Courtney Mckenzie,ETL Developer,BE,"ssrs, data warehousing, etl, sql",13.8
+Jeremy Smith,Network Security Engineer,BE,"embedded systems, control systems, c++, matlab, c",9.8
+Michael Lewis,Data Scientist,BTECH,"data mining, deep learning, ml",7.7
+Eileen Brown,Civil Engineer,BE,"estimation, autocad, staad pro",14.1
+James Cox,Tableau Developer,BTECH,"supply chain, operations, strategy",1.3
+Anthony Carter,DotNet Developer,BE,"asp.net, entity framework, c#, mvc, .net",
+Michael Rodriguez,Network Security Engineer,BE,"security, networking, cybersecurity, vpn, firewall",11.6
+Amy Manning,Advocate,PHD,"contracts, litigation, drafting, law, legal research",14.9
+Anthony Thompson,Mechanical Engineer,BTECH,"cam, solidworks, mechanics, autocad",12.2
+Gabriella Frazier,Hadoop,MTECH," , pig, spark",7.1
+Ashley Whitney,Engineer,BTECH,"control systems, matlab, embedded systems, c",0.7
+Nancy Lang,ETL Developer,BE,"autocad, staad pro, structural analysis, construction",8.4
+Andrea Garcia,PMO,BTECH,"agile, scrum, ms project",10.0
+Lisa Nichols,Blockchain,BTECH,"solidity, web3.js, smart contracts",10.5
+Christine Vincent,Blockchain,MTECH,"smart contracts, solidity, , ethereum",9.1
+Mr. Michael Rodriguez,Blockchain,BTECH,"smart contracts, , ethereum, web3.js, solidity",7.2
+Autumn Williams,Python Developer,BTECH,"flask, django, pandas, fastapi, python",8.4
+Samuel Woods,Operations Manager,BTECH,"operations, supply chain, team management, strategy",14.9
+Diana Waller,PMO,MBA,"ms project, scrum, jira, agile",5.4
+Todd Maldonado,Civil Engineer,BTECH,"structural analysis, staad pro, construction, autocad",7.0
+Robin George,HR,BE,"postgresql, dbms, sql, mongodb",10.8
+Julia Cooper,Python Developer,BTECH,"pandas, django, fastapi, python",6.6
+Makayla Smith,SAP Developer,MBA,"fiori, sap hana, abap",8.0
+Kevin Crawford,Web Designing,BA,"figma, bootstrap, html, css, javascript",9.0
+Victoria Anderson,Business Analyst,BA,"analytics, requirement gathering, excel, sql",14.6
+Frank Kramer,ETL Developer,BE,"ssrs, data warehousing, etl, informatica, sql",2.3
+Christopher Smith,DotNet Developer,BE,"c#, mvc, .net, entity framework, asp.net",0.9
+Raymond Hampton,Engineer,BE,"embedded systems, c, control systems",1.5
+Jacob Greer,DevOps,MTECH,"jenkins, ansible, ci/cd",13.0
+Bruce Gallagher,Sales,MBA,"cold calling, crm, lead generation, negotiation",1.9
+Walter Underwood,Operations Manager,MBA,"logistics, operations, team management, strategy, supply chain",10.5
+Ian Wheeler,Python Developer,BTECH,,8.8
+Tyler Walker,Operations Manager,BE,"matlab, embedded systems, c",14.3
+Rose Rodriguez,Business Analyst,BTECH,"analytics, excel, power bi, sql, requirement gathering",10.1
+Beth Campbell,PMO,MBA,"jira, agile, scrum",1.8
+Shannon Perez,DotNet Developer,BE,"asp.net, .net, mvc, entity framework, c#",10.8
+Lisa Aguirre,HR,MBA,"employee relations, interviewing, communication",3.9
+Nicole Powers,Business Analyst,BA,"analytics, power bi, requirement gathering",12.8
+Amanda Johnson,DevOps,MTECH,"kubernetes, ci/cd, docker",11.5
+Bridget Juarez,Engineer,BE,"c++, c, control systems, embedded systems",6.4
+Kevin Riley,Mechanical Engineer,BE,"solidworks, cam, thermodynamics, autocad",8.6
+Trevor Shaw,Electrical Engineer,BTECH,"vlsi, matlab, circuit design",13.3
+Natalie Daniels,Tableau Developer,MBA,"dashboards, tableau, sql",1.0
+David Hunter,DotNet Developer,BTECH,"entity framework, asp.net, c#, mvc",14.8
+David Rodriguez,SAP Developer,BTECH,"erp, sap hana, fiori",2.9
+Wayne Bailey,Electrical Engineer,BTECH,"electronics, circuit design, matlab, vlsi, signal processing",3.1
+Nicholas Murillo,Engineer,BTECH,"control systems, c++, embedded systems",9.3
+Jill Arnold,Data Scientist,BTECH,"ml, deep learning, python, data mining",5.9
+Amanda Parker,Operations Manager,BTECH,"operations, strategy, supply chain",0.5
+Kevin Rodriguez,Java Developer,BE,"microservices, spring, java, hibernate, rest api",13.3
+Stephen Lester,Web Designing,BSC,"bootstrap, css, javascript",14.8
+Kelly Chambers,Data Scientist,PHD,"deep learning, python, statistics",10.6
+Reginald Hamilton,SAP Developer,MBA,"sap hana, fiori, abap, sap",14.0
+Darlene Perez,Mechanical Engineer,BTECH,"automation, python, selenium, junit, pytest",5.8
+Mark Carpenter,Business Analyst,BA,"requirement gathering, power bi, excel, sql",12.6
+Denise Carlson,Hadoop,BE," , mapreduce, hive, pig",12.2
+Samantha Edwards,Business Analyst,MBA,"requirement gathering, power bi, analytics, excel, sql",5.6
+Charles Price,Business Analyst,MBA,"excel, sql, power bi, requirement gathering",8.7
+Isaac Fox,Civil Engineer,BE,"estimation, staad pro, construction, autocad",8.3
+Pamela Wilson,Engineer,BE,"matlab, control systems, c++, embedded systems, c",8.7
+Doris Jones,Sales,BA,"negotiation, lead generation, cold calling, , crm",13.5
+Andrea Miller,Network Security Engineer,BE,"vpn, cybersecurity, networking",3.0
+Anthony Randolph,HR,BA,"employee relations, ms excel, interviewing",10.3
+Robin Romero,Business Analyst,BTECH,"requirement gathering, analytics, excel",10.7
+Monica Schmitt,Advocate,BA,"contracts, legal research, drafting, litigation",3.3
+Andrea Orozco,Data Scientist,BTECH,"ml, python, deep learning, data mining",11.8
+Mark Wagner,Automation Testing,BTECH," , pig, hive, mapreduce, spark",6.0
+Jeremy Hahn,PMO,MBA,"project management, agile, scrum, jira, ms project",5.8
+Deanna Brooks,Network Security Engineer,MBA,"data visualization, bi tools, tableau, dashboards",12.4
+Melinda Patrick,PMO,MBA,"project management, jira, ms project, agile",7.6
+Jessica Lewis,Advocate,BA,"law, litigation, legal research, contracts, drafting",6.0
+Jamie Wallace,Database,BTECH,"mongodb, oracle, dbms",10.9
+Kayla Watson,Electrical Engineer,BTECH,"circuit design, electronics, vlsi, signal processing, matlab",1.6
+Randy Warren,Civil Engineer,BE,"autocad, construction, structural analysis, estimation",
+Jeanette Burch,Python Developer,MTECH,"flask, fastapi, python, django",
+Hunter Garcia,SAP Developer,BTECH,"erp, abap, fiori, sap hana",11.5
+Holly Palmer,Advocate,PHD,"law, contracts, drafting, litigation, legal research",0.1
+Chris Stewart,Hadoop,BA,"fitness coaching, training, anatomy, nutrition",5.0
+Ruben Farley,Civil Engineer,BTECH,"construction, staad pro, autocad, structural analysis, estimation",6.1
+Zachary Hill,SAP Developer,BTECH,"erp, sap hana, abap, sap",4.4
+Robert Caldwell,Arts,MTECH,"django, flask, fastapi, python, pandas",6.6
+Tabitha Smith,Python Developer,BTECH,"django, fastapi, python",8.1
+Julie Jones,Civil Engineer,BE,"autocad, structural analysis, staad pro, estimation, construction",13.3
+Jennifer Woodard,Data Scientist,BTECH,"ml, statistics, deep learning, data mining, python",12.6
+Jennifer Parker,Web Designing,BA,"figma, css, html, javascript",6.2
+Michael Giles,Database,BTECH,"oracle, mongodb, dbms, sql, postgresql",6.8
+Whitney Martin,Engineer,BE,"c++, c, embedded systems, control systems, matlab",7.5
+Natalie Murphy,DotNet Developer,BE,"mvc, entity framework, asp.net, c#",12.3
+John Richards,Operations Manager,BTECH,"supply chain, strategy, operations, team management, logistics",1.9
+Tiffany Atkins,Sales,MBA,"lead generation, , cold calling, negotiation",8.4
+Nancy Hernandez,DotNet Developer,BTECH,"entity framework, .net, mvc, c#",6.8
+Philip Stone,Automation Testing,BE,,5.1
+Martin Montgomery,Sales,BTECH,"operations, team management, supply chain, logistics",14.3
+Brittany Sharp,ETL Developer,BE,"data warehousing, sql, etl",6.0
+Robin Garcia,Tableau Developer,BTECH,"data visualization, tableau, sql, bi tools",8.8
+Joseph Greene,SAP Developer,BTECH,"sap, fiori, sap hana, erp, abap",14.3
+Kevin Romero,HR,BA,"interviewing, communication, recruitment, employee relations",6.2
+Catherine Caldwell,Automation Testing,BE,"junit, pytest, python",6.0
+Patrick Harris,Electrical Engineer,BTECH,"matlab, vlsi, signal processing, circuit design, electronics",10.3
+Michelle Gaines,Sales,MBA,"cold calling, , lead generation, crm",8.3
+Matthew Bernard,Tableau Developer,MBA,"tableau, data visualization, dashboards, bi tools",9.6
+Edward Henson,Tableau Developer,BTECH,"dashboards, bi tools, sql, data visualization",0.9
+Jennifer Miller,Civil Engineer,BE,"structural analysis, estimation, construction, staad pro, autocad",4.7
+Blake Stone,Business Analyst,BTECH,"oracle, sql, dbms, mongodb",13.7
+Jeffery Davis,Mechanical Engineer,BTECH,"thermodynamics, cam, autocad",11.0
+Ashley Fitzgerald,Operations Manager,BTECH,"supply chain, operations, strategy",10.7
+Susan Trujillo,Operations Manager,MBA,"team management, strategy, logistics, supply chain, operations",4.6
+Christy Herrera,Electrical Engineer,BTECH,"automation, pytest, selenium, python, junit",9.3
+Mark Reyes,Sales,BA,"negotiation, cold calling, crm, , lead generation",14.1
+Christopher Odom,HR,MBA,"communication, employee relations, recruitment, ms excel",9.3
+Regina Williams,Mechanical Engineer,BTECH,"mechanics, solidworks, autocad, cam",14.9
+Justin Martinez,Java Developer,BE,"rest api, hibernate, microservices",6.8
+Mathew Medina,Operations Manager,BTECH,"operations, supply chain, strategy, logistics, team management",10.0
+Kathleen Owen,PMO,BTECH,"project management, jira, scrum, agile, ms project",1.8
+Phillip Curtis,Web Designing,BTECH,"bootstrap, html, figma, javascript",
+Shawn Roach,HR,MBA,"communication, interviewing, ms excel, employee relations, recruitment",4.0
+Ronald Reese,Sales,BA,"cold calling, lead generation, crm",7.8
+Taylor Stewart,Network Security Engineer,BTECH,"vpn, security, cybersecurity, networking",13.8
+Danny Cooper,PMO,BTECH,"mvc, c#, .net, asp.net, entity framework",3.7
+Dr. Melanie Soto DDS,Arts,BA,"   , history, drawing, painting",4.1
+Catherine Valdez,Java Developer,BE,"java, spring, hibernate",11.0
+Michael Foster,Advocate,BA,"drafting, litigation, contracts, legal research, law",8.9
+Diana Mccarthy,DotNet Developer,BE,"c#, entity framework, .net",7.5
+Lisa Hall,DevOps,BE,"ansible, kubernetes, docker",9.0
+Zachary Webb,Operations Manager,BTECH,"strategy, team management, operations",5.3
+Misty Burgess,Arts,BA,"   , history, psychology, drawing",14.6
+Pamela Tanner,Sales,MBA,", cold calling, negotiation, crm, lead generation",10.2
+Brittany Braun,Civil Engineer,BE,"structural analysis, estimation, staad pro, autocad, construction",13.0
+Michael Sanchez,Web Designing,BA,"css, html, figma",11.0
+Stephen Lawson,Engineer,BTECH,"matlab, control systems, c++, c",8.3
+Jesse Zimmerman,Electrical Engineer,BTECH,"vlsi, electronics, matlab, circuit design, signal processing",7.9
+Brian Mcintosh,Network Security Engineer,BE,"firewall, vpn, networking",8.0
+Theresa Davis,Advocate,BA,"legal research, contracts, drafting",6.3
+Justin Simmons,PMO,MBA,"scrum, agile, project management",0.0
+James Bennett,Electrical Engineer,BTECH,"circuit design, electronics, matlab",12.5
+Melissa Turner,PMO,MBA,"project management, ms project, scrum",10.4
+Drew Collins,Tableau Developer,MBA,"tableau, data visualization, dashboards",9.1
+Dr. Alice Steele,Tableau Developer,BE,"flask, fastapi, django, pandas",0.2
+Linda Walsh,PMO,MBA,"project management, jira, scrum, agile",3.8
+Lisa Jennings,HR,BA,"communication, ms excel, employee relations, recruitment",0.7
+Laura Young,Network Security Engineer,BE,"networking, firewall, vpn",11.8
+Kelly Sims II,Database,BE,"sql, mongodb, oracle, postgresql",10.6
+Mrs. Alison Wilson,DotNet Developer,BTECH,,2.2
+Gregory Martin,Civil Engineer,BE,"estimation, structural analysis, staad pro, construction, autocad",10.4
+Caleb Rhodes,Database,BTECH,"mongodb, postgresql, sql",14.3
+Michael Bartlett,Tableau Developer,MBA,"bi tools, tableau, sql, data visualization",12.9
+Garrett Proctor,ETL Developer,BE,"etl, data warehousing, ssrs, informatica, sql",6.6
+Edward Norman,Data Scientist,PHD,"statistics, python, deep learning, data mining",7.8
+Grace Jones,Network Security Engineer,BE,"security, networking, firewall, cybersecurity, vpn",8.2
+Mr. Thomas Guerrero DDS,Data Scientist,MTECH,"deep learning, data mining, python, ml, statistics",4.4
+Margaret Rice,Tableau Developer,BTECH,"tableau, dashboards, bi tools, sql, data visualization",8.5
+Daniel Meyer,Mechanical Engineer,BTECH,"mechanics, solidworks, thermodynamics, cam, autocad",7.5
+Paul Holloway,Java Developer,BTECH,"spring, microservices, rest api, java",15.0
+Dr. Charles Galloway,Database,BE,"dbms, postgresql, mongodb, sql",11.5
+Mrs. Melinda Adams PhD,HR,MBA,"employee relations, communication, interviewing, recruitment",14.1
+Anthony Silva,Blockchain,MTECH,", solidity, web3.js, smart contracts",8.7
+Debra Christensen,Advocate,BE,"mechanics, cam, solidworks, autocad, thermodynamics",11.4
+Jessica Jones,Hadoop,BE,"hive, mapreduce, spark,  , pig",12.9
+Norman Douglas,Health and fitness,BTECH,"erp, abap, sap, sap hana",10.2
+Scott Crawford,Civil Engineer,BTECH,"staad pro, structural analysis, construction, estimation, autocad",7.0
+Robert Bell,Python Developer,BTECH,"fastapi, python, django, flask",0.6
+Amy Martinez,Electrical Engineer,BTECH,"circuit design, vlsi, signal processing",11.9
+Miss Valerie Sawyer,DotNet Developer,BTECH,".net, c#, entity framework, asp.net",4.8
+Steven Smith,Database,MTECH,"oracle, sql, mongodb, postgresql, dbms",9.3
+Jamie Howard,ETL Developer,BTECH,"etl, sql, informatica",8.0
+Patricia Lee,Engineer,BE,"matlab, embedded systems, c++, c, control systems",5.3
+Adam Phillips,Electrical Engineer,BTECH,"electronics, circuit design, vlsi, signal processing, matlab",12.0
+Melissa Harrison,Python Developer,MTECH,"django, flask, pandas",14.0
+Jennifer Tran,Business Analyst,MBA,"excel, sql, power bi, requirement gathering",4.8
+Jennifer Morales,DevOps,BTECH,"jenkins, docker, kubernetes",13.4
+Derek Carter,Sales,BA,"cold calling, crm, negotiation, , lead generation",5.9
+William Cervantes DDS,Automation Testing,BTECH,"estimation, construction, autocad, staad pro, structural analysis",10.7
+Andrew Baker,Operations Manager,MBA,"cold calling, crm, negotiation, ",1.8
+Dana Clark,HR,BA,"ms excel, communication, recruitment, interviewing, employee relations",4.6
+Tonya Wagner,SAP Developer,BTECH,"sap hana, fiori, sap",9.2
+Erica Aguilar,PMO,MBA,"ms project, project management, agile",9.5
+Jerry Martin,DotNet Developer,BE,"asp.net, .net, entity framework, mvc, c#",14.9
+Clifford Palmer,Data Scientist,PHD,"ml, python, deep learning, data mining, statistics",5.5
+Seth Gonzalez,Business Analyst,BTECH,"power bi, requirement gathering, excel",1.4
+Nicolas Robles,SAP Developer,MBA,,4.5
+Margaret Hunter,Data Scientist,BE,"structural analysis, construction, estimation, autocad",2.6
+Ashley Mayer,Data Scientist,BE,"flask, pandas, fastapi, django",2.9
+Randy Spencer,Arts,BA,"sculpting, sociology, history, painting",11.9
+Elizabeth Hamilton,Blockchain,BTECH,"rest api, microservices, java, spring",8.2
+Howard Mayo,Mechanical Engineer,BTECH,"cam, solidworks, autocad",
+Dylan Navarro,Web Designing,BSC,"html, javascript, css, bootstrap",9.0
+Dominique Heath,Operations Manager,MBA,"logistics, operations, team management, strategy, supply chain",
+Carolyn Woods,DevOps,BE,"pytest, python, selenium, junit, automation",9.7
+Melissa Meyer,Network Security Engineer,BE,"security, vpn, firewall, cybersecurity, networking",4.3
+Jasmine Nolan,Automation Testing,BE,"python, junit, automation, selenium",11.5
+Erica Santos,Advocate,PHD,"drafting, law, litigation",2.6
+Samuel Thompson,DevOps,BTECH,"jenkins, ci/cd, kubernetes",4.8
+Kevin Phelps,Blockchain,MTECH,", web3.js, smart contracts",12.4
+Keith James,PMO,BTECH,"agile, jira, ms project, project management, scrum",4.6
+April Cain DDS,Automation Testing,BTECH,"automation, junit, pytest, python",13.6
+Patricia Mitchell,Health and fitness,BA,"nutrition, yoga, training",2.5
+Marcus Solis,Engineer,BTECH,"c, embedded systems, c++, matlab",6.3
+Alex Dyer,HR,MBA,"employee relations, ms excel, interviewing, communication",9.2
+Angela Wilson,Sales,BTECH," , hive, mapreduce",7.2
+Holly Freeman,HR,BA,"ms excel, communication, recruitment, employee relations",0.8
+Kelly Newton,PMO,MBA,"scrum, jira, project management, agile",10.1
+Jack Skinner,Engineer,BTECH,"sql, analytics, excel, requirement gathering",8.0
+Elizabeth Miller,HR,MBA,"employee relations, ms excel, communication",12.8
+Robert Cunningham,Network Security Engineer,BE,"firewall, networking, security",4.0
+Eric Smith Jr.,PMO,MBA,"agile, ms project, scrum, jira, project management",0.0
+Melinda Green,PMO,BTECH,"project management, agile, scrum, ms project",11.4
+Lisa Estrada,HR,MBA,"recruitment, ms excel, employee relations, communication, interviewing",4.4
+Tiffany Hurst,Civil Engineer,BE,"estimation, structural analysis, construction, autocad",9.8
+Mrs. Kim Sims,Engineer,BE,"c, embedded systems, matlab",3.2
+Amanda Hill,Sales,MBA,"cold calling, crm, lead generation",2.5
+Justin Mendoza,SAP Developer,BTECH,"erp, sap, sap hana, abap",2.5
+Tabitha Johnson,DotNet Developer,BE,"asp.net, .net, mvc",7.9
+Daniel Hensley,Hadoop,BTECH,"spark, pig, hive, mapreduce",2.1
+Colin Austin,Advocate,BA,"bootstrap, html, javascript, css, figma",1.6
+George Copeland,Java Developer,BTECH,"spring, hibernate, rest api, java",14.9
+Misty Roach,Tableau Developer,BTECH,"bi tools, tableau, data visualization, sql",14.7
+Steven Simon,Sales,MBA,", lead generation, crm",10.7
+Joseph Williams,Web Designing,BA,"bootstrap, javascript, css, html, figma",12.8
+Jeremy Conley,Electrical Engineer,BTECH,"signal processing, vlsi, circuit design, matlab",1.5
+Melissa Wilson,DotNet Developer,BE,"mvc, .net, entity framework",0.3
+Calvin Evans,Java Developer,BE,"microservices, rest api, spring, hibernate",4.9
+Douglas Allen,Hadoop,BE,,4.0
+Peter Anderson,Civil Engineer,BTECH,"staad pro, autocad, estimation",6.2
+Dustin Bradshaw,HR,MBA,"communication, interviewing, ms excel, recruitment, employee relations",0.6
+Meredith Gordon,Engineer,BE,"c, control systems, matlab, embedded systems",5.5
+Sandra Bradley,Database,BE,"etl, sql, data warehousing",13.9
+Steven Johnson,Health and fitness,BSC,"yoga, fitness coaching, training",5.6
+Brooke Rodriguez,Business Analyst,BTECH,"sql, requirement gathering, excel, power bi, analytics",10.1
+Danielle Smith,Network Security Engineer,BE,"security, cybersecurity, firewall, vpn, networking",12.0
+Lawrence Cabrera,Hadoop,MTECH,"spark, pig,  , hive",11.1
+Kimberly Young,Tableau Developer,BTECH,"sql, data visualization, dashboards, tableau, bi tools",6.4
+Allison Hicks,Operations Manager,BTECH,"operations, logistics, team management, supply chain, strategy",2.8
+James Henderson,Advocate,BA,"litigation, law, drafting, legal research, contracts",3.7
+Valerie Mclean,SAP Developer,MBA,"erp, abap, sap, fiori",1.3
+Jorge Walker,Data Scientist,MTECH,"python, data mining, deep learning",2.1
+Carlos Brown,Civil Engineer,BE,"construction, structural analysis, autocad",1.0
+Linda Burke,Sales,BA,"crm, , lead generation, cold calling, negotiation",10.5
+Mercedes Strong,Operations Manager,BTECH,"logistics, team management, supply chain",7.4
+David Johnson,Electrical Engineer,BE,"circuit design, signal processing, electronics, matlab, vlsi",10.1
+Pamela Chandler,Automation Testing,BE,"python, junit, pytest, selenium",4.5
+Renee Rodriguez,HR,MBA,"interviewing, communication, employee relations",3.9
+William White,Health and fitness,BA,"training, yoga, nutrition, anatomy, fitness coaching",13.7
+Ashley Hicks,Operations Manager,MBA,"supply chain, strategy, operations, logistics",12.6
+Nicole Price,Mechanical Engineer,BA,"analytics, excel, sql, requirement gathering",1.5
+Stacey Lewis,HR,BA,"employee relations, communication, ms excel, interviewing",13.8
+Mark Frank,Advocate,PHD,"law, drafting, litigation, legal research, contracts",11.4
+Connor Mason,Sales,BA,", crm, lead generation",14.5
+Brandi Moore,Network Security Engineer,BE,"vpn, security, networking, cybersecurity, firewall",7.7
+Michelle Andrews,Tableau Developer,BTECH,"bi tools, sql, dashboards, data visualization, tableau",11.1
+Renee Davis,Business Analyst,BA,"power bi, sql, requirement gathering, excel, analytics",3.4
+Charles Washington,Health and fitness,BSC,"nutrition, yoga, fitness coaching, anatomy",10.9
+William Cruz,DotNet Developer,BTECH,"mvc, c#, entity framework",4.6
+Kevin Bennett,Automation Testing,BTECH,"python, selenium, automation, junit",0.8
+Jennifer Medina,PMO,MBA,"jira, project management, scrum",1.3
+Manuel Jordan,Automation Testing,BE,"automation, pytest, python, junit",0.8
+Nicholas Rodriguez,ETL Developer,BTECH,"ssrs, informatica, sql, data warehousing",2.1
+Robin Collins,Blockchain,MBA,"negotiation, crm, ",7.8
+Nancy Jackson,Health and fitness,BSC,"anatomy, yoga, training, nutrition, fitness coaching",0.7
+Lindsay Forbes,Automation Testing,BE,"python, junit, selenium, pytest",0.3
+Patricia Wilson,Civil Engineer,BE,"estimation, staad pro, autocad",10.5
+Nicole David,Tableau Developer,BTECH,,7.6
+Richard Moore,Web Designing,BSC,"html, figma, javascript, bootstrap, css",1.6
+Suzanne Garcia,Mechanical Engineer,BTECH,"cam, solidworks, autocad, mechanics, thermodynamics",13.0
+Stephanie Mendoza,Tableau Developer,BTECH,"dashboards, sql, tableau, data visualization, bi tools",4.7
+Leah Long,Electrical Engineer,MBA,", lead generation, negotiation, cold calling",9.6
+Susan White,Python Developer,BTECH,"fastapi, pandas, python, flask, django",
+Amanda Webb,Operations Manager,MBA,"operations, logistics, strategy, team management",7.3
+Valerie Buchanan,Sales,BTECH,"figma, css, bootstrap, html, javascript",4.2
+Matthew Fernandez,Web Designing,BTECH,"html, figma, bootstrap",6.6
+Amber Edwards,Blockchain,BTECH,"ethereum, solidity, web3.js, ",7.0
+John Day,Advocate,BA,"psychology,    , painting, history",7.6
+Shelia Parsons,Network Security Engineer,BTECH,"vpn, security, cybersecurity, firewall, networking",
+Katherine Contreras,Electrical Engineer,BTECH,"matlab, signal processing, circuit design, vlsi, electronics",6.3
+Amanda Davis,Civil Engineer,BA,"javascript, figma, html, bootstrap",12.4
+Allison Torres,Operations Manager,BTECH,"team management, strategy, logistics, operations, supply chain",3.5
+Shannon Miranda,DevOps,MTECH,"kubernetes, docker, ansible, jenkins",
+Spencer Thompson,Engineer,BE,"c, c++, control systems",14.2
+Sergio Torres,Sales,MBA,"cold calling, lead generation, negotiation",9.1
+Brian Herring,Advocate,PHD,"drafting, litigation, contracts",6.5
+Brent Spence,Hadoop,MTECH," , mapreduce, hive, spark, pig",3.4
+Ruben Moore,Tableau Developer,BA,"yoga, fitness coaching, anatomy, training, nutrition",14.4
+Andrew Trujillo,Civil Engineer,BTECH,"structural analysis, autocad, construction",9.1
+Melissa Robinson,DotNet Developer,BTECH,"mvc, entity framework, asp.net, .net",14.9
+Lee Barnes,HR,BA,"interviewing, recruitment, ms excel, communication, employee relations",0.1
+Rebecca Wagner,Advocate,PHD,"contracts, drafting, litigation, law",4.3
+Sarah Holt,Data Scientist,BTECH,"deep learning, python, data mining, statistics",12.7
+Julia Vasquez,Arts,BA,"psychology, history,    , sociology, sculpting",
+Lisa Bailey,Civil Engineer,BE,"construction, staad pro, autocad, estimation, structural analysis",3.1
+Ricky Heath,Mechanical Engineer,BE,"mechanics, thermodynamics, autocad",2.8
+Cody Collins,Web Designing,BTECH,"css, figma, javascript, html",1.2
+Stacey Avila,Arts,BA,"painting, sculpting,    , drawing",0.6
+Alison Harris,ETL Developer,BTECH,,4.0
+Gary Jones,Electrical Engineer,BTECH,"vlsi, matlab, circuit design, signal processing",4.4
+Jeffrey Elliott,Database,BE,"mongodb, postgresql, sql, oracle, dbms",9.6
+Rebecca Burke,Civil Engineer,BE,"construction, structural analysis, autocad",1.0
+Jerry Johnson,Engineer,BE,"c, embedded systems, control systems, c++, matlab",10.6
+Katherine Patton,ETL Developer,BTECH,"data warehousing, informatica, etl",9.5
+Melissa Rodriguez,Python Developer,BE,"flask, python, django",5.6
+Tommy Guzman,Health and fitness,BA,"anatomy, nutrition, yoga, training",14.0
+Christopher Sanchez,HR,MBA,"ms excel, communication, interviewing, employee relations",9.2
+Jeffrey Bell,SAP Developer,MTECH,"dbms, sql, oracle",2.4
+Michael Cantu,Hadoop,BTECH,"hive, pig,  , mapreduce",13.7
+Caitlin Myers,Python Developer,BTECH,"python, django, pandas, fastapi",14.4
+Autumn Randolph,Civil Engineer,BE,"estimation, structural analysis, staad pro",7.4
+Thomas Castaneda,Civil Engineer,BE,"estimation, staad pro, autocad",11.8
+Michelle Scott,Engineer,BTECH,"embedded systems, control systems, matlab, c++, c",10.8
+Lacey Johnson,Web Designing,BTECH,"css, html, bootstrap, javascript, figma",4.0
+Robert Macdonald,Network Security Engineer,BE,"ssrs, sql, etl",3.5
+Jason Todd,Business Analyst,BE,"thermodynamics, cam, autocad, mechanics, solidworks",7.9
+Brenda Reeves,SAP Developer,MBA,"sap, abap, erp",7.6
+Karen Barker,Data Scientist,MTECH,"deep learning, data mining, statistics, python",0.9
+Hannah Byrd,DotNet Developer,BE,".net, mvc, asp.net",
+Andrew Perkins,Advocate,BA,"contracts, litigation, legal research, law",13.8
+Evelyn King,Python Developer,MTECH,"mongodb, dbms, oracle, sql, postgresql",
+William Stafford,Business Analyst,BA,"requirement gathering, power bi, analytics",3.0
+Stephanie Rogers,Tableau Developer,MBA,"tableau, sql, data visualization, dashboards, bi tools",15.0
+Timothy Wyatt,Health and fitness,BSC,"training, anatomy, yoga, fitness coaching",0.8
+Lisa Perez,Operations Manager,MBA,"strategy, team management, logistics, supply chain, operations",5.7
+Mario Chan,Mechanical Engineer,BTECH,"solidworks, cam, autocad, thermodynamics",4.5
+Shawn Williams,Arts,BA,"sculpting, painting, drawing",4.4
+Emma Phillips,HR,MBA,"communication, employee relations, ms excel, interviewing",13.8
+Alexander Meyer,HR,BA,"interviewing, ms excel, recruitment",3.3
+Cheryl Cochran,Python Developer,BE,"flask, django, python",6.1
+Lacey Lawrence,ETL Developer,BE,"informatica, ssrs, etl, data warehousing",1.3
+Olivia Mcmahon,Arts,BA,"history, drawing, psychology, painting",13.6
+Mark Serrano,Web Designing,BTECH,"figma, javascript, bootstrap",9.3
+James Fisher MD,Civil Engineer,BTECH,"staad pro, structural analysis, construction, autocad",4.2
+Melissa Long,Data Scientist,BTECH,"data mining, statistics, ml",0.3
+Jessica Kelly,Java Developer,BTECH,"spring, hibernate, java",7.1
+Dawn Smith,Web Designing,BA,"figma, css, javascript",9.2
+Angela Davenport,Business Analyst,BTECH,"requirement gathering, analytics, excel, sql, power bi",14.0
+Shelby Rich,Python Developer,BTECH,"django, fastapi, flask, python",7.3
+Elizabeth Stark,Blockchain,MTECH,"web3.js, solidity, smart contracts",11.4
+Kathryn Barnes,Database,MTECH,"dbms, postgresql, mongodb",3.2
+Donald James,Arts,BA,"psychology, sculpting,    , sociology",12.5
+Michael Page,Hadoop,BE," , spark, hive, pig, mapreduce",9.7
+Christopher Garrett,SAP Developer,MBA,"erp, abap, sap, fiori",11.4
+Richard Roman,Advocate,BE,"thermodynamics, solidworks, autocad, mechanics",6.6
+Tim Murphy,Network Security Engineer,BE,"networking, cybersecurity, firewall",2.0
+Jonathan George,Web Designing,BA,"html, javascript, bootstrap",7.7
+Robert Brown,Database,BE,"postgresql, oracle, mongodb, dbms, sql",6.6
+Krista Walker,Network Security Engineer,MTECH,"deep learning, data mining, python, statistics, ml",0.1
+Alexander Becker,Database,BE,"mongodb, dbms, postgresql, sql, oracle",1.0
+Benjamin Ellis,Electrical Engineer,BE,"vlsi, circuit design, signal processing",
+Matthew Cruz,Engineer,BE,"matlab, c, embedded systems, control systems",1.1
+Zachary Davis,Civil Engineer,BTECH,"structural analysis, estimation, staad pro, autocad",1.7
+Katrina Kent,Civil Engineer,BE,"structural analysis, construction, staad pro",6.1
+Courtney Martinez,Tableau Developer,BE,"staad pro, structural analysis, construction, estimation, autocad",10.2
+Nathan Meza,DotNet Developer,BE,"c#, .net, asp.net, entity framework, mvc",4.2
+Kelly Cooper,Operations Manager,MTECH,"django, pandas, flask",15.0
+Linda Ramsey,Web Designing,BSC,"javascript, bootstrap, figma, css",13.9
+Molly Long,Automation Testing,BE,"automation, junit, pytest, selenium, python",13.8
+Crystal Peterson,Database,BE,"oracle, sql, dbms",3.8
+Kathryn Lang,Java Developer,MTECH,"rest api, microservices, java, spring",7.7
+Charles Sanders,SAP Developer,BTECH,"sap hana, erp, sap",9.9
+Cheryl Little,Engineer,BE,"c, c++, embedded systems",14.3
+Dr. Scott Wright,Database,MTECH,"sql, dbms, oracle, postgresql, mongodb",3.8
+Trevor Gardner,Health and fitness,BA,"training, anatomy, fitness coaching",7.1
+Michelle Robinson,Engineer,BE,"matlab, c++, embedded systems, control systems, c",13.2
+Rebecca Miller,Engineer,BTECH,"c++, matlab, c, control systems, embedded systems",4.6
+Cody Scott,Database,BTECH,"oracle, postgresql, mongodb, dbms, sql",11.5
+Julia Cook,Web Designing,BA,"figma, css, html",1.8
+Kylie Moore,Electrical Engineer,BE,"matlab, signal processing, vlsi, electronics",4.1
+Sara Fischer,Sales,BA,"lead generation, , crm, negotiation",4.6
+Sydney Haynes,Civil Engineer,BTECH,"informatica, etl, data warehousing, ssrs",8.9
+Tina Gomez,Web Designing,BTECH,"structural analysis, staad pro, autocad",1.2
+James Barrett,PMO,MBA,"ms project, jira, agile",0.5
+Michelle Frye,Operations Manager,BTECH,"logistics, strategy, team management, supply chain, operations",11.2
+Jennifer Crawford,ETL Developer,BE,"etl, sql, data warehousing, ssrs",10.7
+Benjamin Jones,Sales,MBA,"negotiation, , lead generation, crm",8.1
+Justin Gomez,Automation Testing,BTECH,"junit, selenium, python, automation, pytest",7.1
+Thomas Taylor,Blockchain,BTECH,"smart contracts, ethereum, web3.js",9.1
+Alicia Leonard,Operations Manager,MBA,"supply chain, logistics, operations, strategy, team management",2.5
+David Carter,Civil Engineer,BTECH,"estimation, staad pro, autocad, structural analysis, construction",7.9
+Cassandra Young,SAP Developer,BTECH,"abap, sap, erp",14.9
+Amanda Benjamin,Electrical Engineer,BTECH,"vlsi, signal processing, electronics, circuit design",9.3
+Joshua Flores,PMO,MBA,"agile, jira, project management, scrum",9.6
+David Johnson,Hadoop,MTECH,"mapreduce, hive, spark",0.6
+Kathleen Oconnor,Blockchain,MTECH,", solidity, smart contracts, web3.js",8.0
+Randy Arnold,Engineer,PHD,"legal research, drafting, contracts, law",7.4
+Jennifer Rodriguez,Electrical Engineer,BE,"electronics, circuit design, vlsi",0.3
+Kristen Black,Civil Engineer,BTECH,"estimation, staad pro, structural analysis, autocad",9.9
+David Williams,Advocate,PHD,"contracts, litigation, legal research",8.1
+Jim Adams,Business Analyst,MBA,"sql, analytics, excel, requirement gathering, power bi",7.4
+Brian Wilson,Hadoop,MTECH,"spark,  , pig, mapreduce",4.0
+Mr. Mark Landry Jr.,Electrical Engineer,BTECH,"signal processing, vlsi, circuit design",6.7
+Hector Hall,Web Designing,BSC,"figma, javascript, html",9.3
+Kimberly Green,Database,BTECH,"abap, sap hana, sap, erp",12.4
+Monique Peck,Network Security Engineer,BE,"cybersecurity, vpn, firewall, networking",14.5
+Nancy Miller,Arts,BSC,"fitness coaching, training, anatomy, nutrition",9.4
+John Martin,Automation Testing,BTECH,"selenium, pytest, junit, python, automation",5.5
+Felicia Brandt,PMO,BTECH,"jira, ms project, agile, scrum, project management",10.3
+Kevin Forbes,Engineer,BTECH,"control systems, matlab, c++, embedded systems",1.0
+Tammy Dennis,Data Scientist,MTECH,"ml, data mining, statistics, deep learning",
+Charles Graves,HR,MBA,"communication, interviewing, recruitment, ms excel, employee relations",13.1
+Holly Carter,Health and fitness,BA,"fitness coaching, nutrition, yoga, training",4.4
+Amy Preston,,BTECH,"oracle, sql, postgresql, dbms, mongodb",
+Timothy Wells,Tableau Developer,BTECH,"sql, bi tools, data visualization",13.2
+Kristin Smith,SAP Developer,BTECH,"erp, sap, fiori, sap hana, abap",9.0
+Jessica Rodriguez,DotNet Developer,BE,"mvc, .net, c#, asp.net",13.9
+Erica Sanders,Sales,MTECH,"django, python, fastapi",5.4
+Samantha Marks,DevOps,BTECH,"docker, jenkins, ci/cd",5.3
+Michael Carr,Civil Engineer,BE,"staad pro, construction, estimation",12.0
+Erin Pacheco,Python Developer,BTECH,"python, fastapi, pandas, flask",4.7
+Diana Conley,HR,MBA,"employee relations, interviewing, communication",7.9
+Michael Smith,ETL Developer,MTECH,"sql, etl, data warehousing",11.4
+Chad Powers,Hadoop,BTECH,"pig, mapreduce, hive",1.4
+Brandon Lopez,Hadoop,MTECH,"pig, spark, hive",10.8
+Taylor Waters,,BE,"vlsi, circuit design, signal processing",2.4
+Christopher Neal,Database,BE,"mongodb, postgresql, oracle, sql",4.6
+Kelly Lane,Mechanical Engineer,BE,"mechanics, cam, autocad, thermodynamics, solidworks",3.3
+Danny Brown,Mechanical Engineer,BE,"thermodynamics, solidworks, cam",1.1
+Jonathan Wright,HR,MBA,"ms excel, communication, interviewing, recruitment",5.5
+Dennis Bailey,DevOps,BE,"ansible, ci/cd, jenkins, docker, kubernetes",6.2
+Micheal Trujillo,Hadoop,BTECH,"pig, spark, hive,  ",0.7
+Thomas Walker,ETL Developer,BTECH,"etl, sql, informatica, ssrs, data warehousing",1.6
+Stephen Santos,Mechanical Engineer,BTECH,"mechanics, solidworks, thermodynamics, autocad",8.0
+James Sanders,Web Designing,BA,"css, html, figma, bootstrap",7.5
+Geoffrey Dunn,Business Analyst,BTECH,"sap hana, sap, erp, fiori, abap",14.5
+Bryan Greene,HR,BA,"interviewing, communication, employee relations",6.5
+Brandon Wilson,Tableau Developer,MBA,"data visualization, dashboards, bi tools",11.8
+Pamela Carter,Operations Manager,MBA,"operations, logistics, team management, supply chain, strategy",4.5
+Linda Watson,PMO,BTECH,"agile, scrum, ms project, project management",1.3
+Lisa Clark,Automation Testing,BE,"junit, selenium, automation, python",12.2
+Jeffrey Moyer,Data Scientist,MTECH,"deep learning, python, statistics, data mining, ml",11.0
+Patrick Delgado,Arts,MBA,"ms project, agile, scrum, project management, jira",13.3
+Jesus Martinez,Database,BE,"oracle, postgresql, sql",1.2
+Brandon Hughes,Health and fitness,BSC,"training, anatomy, yoga",14.0
+Joseph Alvarez,Arts,BA,"psychology,    , sociology, painting, sculpting",8.0
+Christopher Gibson,SAP Developer,BTECH,"sap hana, abap, erp, sap",12.4
+Bryan Colon,Python Developer,BE,"fastapi, flask, python",7.5
+Steven Wright,Database,BE,"mongodb, sql, dbms, postgresql",12.6
+Brian Jones,Business Analyst,MBA,"excel, analytics, sql, power bi, requirement gathering",11.2
+Donna Perry,SAP Developer,MBA,"fiori, abap, erp, sap",5.9
+Adrian Baird,Engineer,MBA,"supply chain, team management, operations, strategy, logistics",4.7
+Ian Gill,DotNet Developer,BTECH,"asp.net, entity framework, mvc, c#",5.6
+Keith Duncan MD,SAP Developer,BTECH,"erp, sap, sap hana, abap",10.7
+Omar Turner,Hadoop,BTECH,"spark, hive,  ",9.6
+Angel Vaughan,Hadoop,BTECH," , spark, hive, pig, mapreduce",14.5
+Stanley Watson,Data Scientist,BTECH,"deep learning, data mining, ml, statistics",5.5
+Amy Wright,ETL Developer,MTECH,"sql, etl, informatica, ssrs, data warehousing",6.4
+Joseph Kelly,PMO,MBA,"jira, scrum, agile",4.5
+Colton Parker,Operations Manager,MBA,"strategy, team management, logistics",1.7
+John Wade,Operations Manager,BTECH,"logistics, team management, strategy, operations, supply chain",4.0
+Karen Owens,Web Designing,BA,"sociology, painting, history, drawing, sculpting",13.6
+Randall Herrera,Hadoop,BTECH,"data visualization, sql, tableau, dashboards",12.6
+Sandy Watts,Arts,BA,"   , sociology, history, psychology",7.2
+Stephen Ramos,Engineer,BE,"embedded systems, control systems, matlab, c",2.2
+Amanda Hooper,Mechanical Engineer,BE,"mechanics, autocad, cam, solidworks, thermodynamics",7.4
+Zachary Lin,Mechanical Engineer,BTECH,"solidworks, cam, mechanics, autocad, thermodynamics",5.3
+Brittany King,Arts,BA,"painting, drawing, sculpting, sociology",14.5
+Jasmine Walker,Database,BE,"dbms, oracle, sql, mongodb",13.5
+Riley Davis,Health and fitness,BSC,"nutrition, fitness coaching, training, anatomy, yoga",9.5
+Joshua Rice,Data Scientist,BTECH,"ml, python, data mining",4.6
+Ralph Gilbert,Network Security Engineer,BA,"history, sculpting, painting,    , drawing",9.1
+Donna Davis,Python Developer,BTECH,"flask, pandas, django, fastapi",10.7
+Stephanie Robinson,Database,BE,"oracle, mongodb, postgresql, dbms",7.7
+Christina Cabrera,Blockchain,MTECH,"smart contracts, , web3.js",12.7
+Tonya Harper,Java Developer,BTECH,"spring, hibernate, rest api, microservices, java",0.1
+Hannah Haynes,Python Developer,BTECH,"flask, python, fastapi, pandas, django",6.1
+Andrew Curtis,Data Scientist,BTECH,"mapreduce, pig,  , hive, spark",12.2
+Eduardo Melton,Advocate,PHD,"law, contracts, legal research, drafting",6.1
+Roger Moore,Arts,BA,"psychology, painting, sociology,    , drawing",11.1
+Laura Grant,ETL Developer,BE,"etl, informatica, ssrs, sql, data warehousing",11.8
+Carlos Lee,Blockchain,BTECH,"smart contracts, web3.js, , ethereum, solidity",1.9
+Amy Pena,Electrical Engineer,BE,"vlsi, electronics, signal processing, matlab",1.0
+Emily Santiago,Civil Engineer,BTECH,"staad pro, estimation, construction, autocad, structural analysis",0.8
+Peter Little,Engineer,BE,"embedded systems, matlab, c",5.7
+Paul Jones,HR,BA,"recruitment, communication, ms excel",1.4
+Denise Schneider,DotNet Developer,BTECH,"c#, mvc, asp.net, .net",1.1
+Kristen Brewer,Sales,MBA,"crm, cold calling, , negotiation",9.6
+Matthew Rodriguez,Sales,BA,"crm, negotiation, lead generation",3.5
+Jennifer Wilson,Hadoop,BE,"spark,  , hive, mapreduce, pig",12.8
+Michael Leon,Automation Testing,BE,"pytest, automation, selenium, junit",4.0
+Elizabeth Miller,Operations Manager,BTECH,"strategy, supply chain, team management, logistics, operations",4.5
+Heather Park,Java Developer,MTECH,"rest api, microservices, spring, hibernate",9.0
+Richard Smith,Blockchain,MTECH,"web3.js, , solidity, ethereum",5.6
+Michael Dixon,Electrical Engineer,BTECH,"electronics, circuit design, vlsi, matlab, signal processing",6.2
+Caitlin Floyd,ETL Developer,BTECH,"etl, ssrs, informatica",1.8
+Carmen Martin,DotNet Developer,BTECH,"entity framework, asp.net, c#, .net",7.2
+Kevin Hanna,Tableau Developer,BTECH,"data visualization, dashboards, tableau",2.8
+Nicole Cunningham,Engineer,BTECH,"c, c++, embedded systems, control systems, matlab",0.3
+Gary Forbes,DotNet Developer,BTECH,"mvc, asp.net, entity framework",11.7
+Carol Cox,Operations Manager,MBA,"operations, logistics, team management, strategy",10.0
+Paula Thomas,ETL Developer,BTECH,"etl, sql, informatica, ssrs",7.1
+Jason Fitzgerald,Engineer,BTECH,"c, c++, embedded systems",10.0
+Julia Chandler,Python Developer,MTECH,"pandas, python, django, flask, fastapi",0.3
+Kenneth Kelly,Engineer,BE,"matlab, c, c++, embedded systems, control systems",14.8
+Daisy Rivera,HR,MBA,"employee relations, communication, recruitment, interviewing",11.7
+Kari Williams,Hadoop,BTECH," , mapreduce, hive, pig",
+Matthew Glover,Web Designing,BSC,"javascript, html, css, bootstrap, figma",0.8
+Calvin Mullen,Database,BE,"dbms, postgresql, mongodb, sql",11.4
+Gina Jackson,DotNet Developer,BE,"entity framework, mvc, c#, asp.net",7.3
+Micheal Petty,ETL Developer,MTECH,"mapreduce, hive,  ",4.9
+William Ortiz,DevOps,BE,"ci/cd, docker, jenkins, kubernetes, ansible",4.5
+Chad Pollard,Advocate,BA,"contracts, legal research, litigation, drafting, law",11.2
+Sharon Boyle,DevOps,MTECH,"ci/cd, ansible, docker, jenkins, kubernetes",4.6
+Candace Mcclure,Web Designing,BA,"css, bootstrap, figma",12.5
+Michael Thompson,Data Scientist,MTECH,"python, data mining, deep learning, statistics",9.5
+Michael Matthews,Python Developer,BE,"pandas, flask, django",2.2
+Laura Flores,Blockchain,BTECH,"smart contracts, solidity, web3.js, ",10.8
+Anna Mcclain,Network Security Engineer,BE,"security, cybersecurity, networking",
+Aaron Dunn,Automation Testing,BTECH,"python, automation, pytest",10.9
+Maureen Holland,HR,BA,"employee relations, interviewing, ms excel, recruitment, communication",6.7
+Cathy Spencer,SAP Developer,BTECH,"erp, abap, sap, fiori",8.5
+Sandra Sosa,Java Developer,BE,"java, rest api, spring, hibernate, microservices",3.3
+Alexis Fitzgerald,Hadoop,BTECH,"pig, hive,  , mapreduce",2.2
+Brandon Carpenter,SAP Developer,BTECH,"fiori, abap, erp, sap, sap hana",2.1
+Lauren Joseph,SAP Developer,MBA,"sap, sap hana, erp, abap",1.0
+Joel Howard,Blockchain,BTECH,"web3.js, smart contracts, solidity, ethereum, ",14.6
+Hannah Glover,DotNet Developer,BTECH,".net, entity framework, c#",2.2
+Jacqueline Davis,Tableau Developer,MBA,"sql, dashboards, bi tools, data visualization, tableau",0.0
+Crystal White,Business Analyst,MBA,"excel, analytics, power bi, sql",8.0
+Jon Villarreal,Engineer,BE,"c, c++, control systems, embedded systems, matlab",4.3
+Steven Lewis,Engineer,BE,"c, matlab, embedded systems",14.6
+Lori Vasquez,Health and fitness,BA,"training, anatomy, nutrition",4.2
+Michael Williamson,Operations Manager,BTECH,"strategy, supply chain, logistics, team management, operations",7.8
+Jessica Jones DDS,Business Analyst,BTECH,"sql, requirement gathering, excel",4.3
+Dana Hutchinson,Blockchain,MTECH,"solidity, smart contracts, web3.js, ethereum",12.3
+Patrick Martinez,Network Security Engineer,BSC,"figma, css, html",13.0
+Tara Barrett,Hadoop,BE,"pig, spark, mapreduce, hive,  ",6.1
+Andrew Alvarado,DevOps,BSC,"nutrition, anatomy, training",12.3
+Erin Pollard,DevOps,BTECH,"ansible, docker, kubernetes",0.5
+Justin Patel,ETL Developer,BA,"painting, history, drawing, psychology, sociology",11.6
+Raymond Parks,Web Designing,BA,"bootstrap, html, css",12.7
+Carol Fowler,Automation Testing,BE,"automation, pytest, python",1.3
+William Blake,ETL Developer,MTECH,"sql, informatica, etl",11.8
+Taylor Ross,Network Security Engineer,BTECH,"cybersecurity, networking, vpn, security",8.9
+Barbara Bartlett,Electrical Engineer,BA,"psychology,    , drawing",13.9
+Stephanie Miles,Java Developer,BE,"java, hibernate, microservices, rest api, spring",3.4
+Diana Doyle,Civil Engineer,BE,"estimation, structural analysis, staad pro",4.2
+Nicole Martinez,Java Developer,BE,"spring, rest api, java, microservices, hibernate",2.8
+Andre Lawson,ETL Developer,BE,"data warehousing, etl, ssrs, sql, informatica",0.9
+Jane Cowan,Automation Testing,BTECH,"python, junit, selenium, automation, pytest",13.5
+Cynthia Aguilar,Mechanical Engineer,BE,"autocad, thermodynamics, mechanics, cam, solidworks",10.7
+Alex Pena,ETL Developer,MTECH,"ssrs, data warehousing, sql, informatica",4.3
+Stephanie Shaw,Civil Engineer,BTECH,"autocad, structural analysis, staad pro",13.4
+Krista Nelson,DevOps,BE,"ci/cd, ansible, kubernetes, jenkins, docker",3.8
+Amy Stevens,Automation Testing,BE,"selenium, junit, pytest, python",12.9
+Kelli Vargas,Civil Engineer,BE,"construction, autocad, staad pro",3.2
+Ashlee Cruz,Electrical Engineer,BTECH,"electronics, circuit design, vlsi, matlab, signal processing",13.2
+Andrew Long,Engineer,BE,"matlab, embedded systems, c, c++, control systems",10.2
+Lauren Marsh,HR,BA,"ms excel, communication, interviewing",6.1
+Matthew Lynch,PMO,MBA,"jira, scrum, ms project, project management, agile",13.3
+Traci Pearson,Mechanical Engineer,BE,"cam, thermodynamics, solidworks, mechanics",0.3
+Leslie Moore,Mechanical Engineer,BTECH,"solidworks, autocad, thermodynamics, cam, mechanics",6.2
+Catherine Pearson,Data Scientist,MTECH,"statistics, ml, deep learning, python",0.6
+Virginia Schmidt,Operations Manager,MBA,"strategy, team management, supply chain, logistics, operations",11.7
+Dana Long,Engineer,BE,"embedded systems, c++, matlab",3.5
+Emily Garza,Civil Engineer,BE,"construction, structural analysis, staad pro, autocad, estimation",1.0
+Kathy Mcguire,Business Analyst,MBA,"sql, power bi, analytics, requirement gathering, excel",8.1
+Shannon Franklin,Advocate,PHD,"contracts, drafting, law, litigation, legal research",7.9
+Kristy Harrison,Sales,BA,"lead generation, , crm, negotiation, cold calling",1.3
+Jeffrey Henry,Sales,BA,"negotiation, crm, cold calling",7.8
+Michael Nguyen,SAP Developer,MBA,"sql, dashboards, tableau",12.0
+Chad King,SAP Developer,MBA,"sap hana, fiori, erp, sap, abap",4.2
+Sharon Anderson,Business Analyst,MBA,"excel, power bi, sql, requirement gathering",4.2
+Lisa Brown,Data Scientist,PHD,"ml, python, data mining, statistics, deep learning",7.3
+Angel Jones,Mechanical Engineer,BE,"thermodynamics, solidworks, autocad, cam",0.1
+Stephen Cline,Arts,BA,"painting,    , sociology, sculpting",8.7
+Nathaniel Moyer,Java Developer,MTECH,"hibernate, spring, microservices",7.8
+Phillip Robbins,Sales,BA,"lead generation, , cold calling, crm, negotiation",2.3
+Abigail Hahn,Operations Manager,BTECH,"operations, logistics, team management, supply chain, strategy",3.2
+Nicholas Mann,Operations Manager,BTECH,"strategy, logistics, team management",9.7
+Alicia Hopkins,DevOps,MTECH,"docker, ansible, ci/cd, kubernetes, jenkins",8.5
+Robert Guerra,Automation Testing,BE,"selenium, pytest, python",8.3
+Jeremy Parker,ETL Developer,BTECH,"data warehousing, informatica, etl, sql",10.7
+Dawn Lang,Network Security Engineer,BTECH,"vpn, networking, security, cybersecurity",6.2
+Jordan George,SAP Developer,BTECH,"sap, fiori, sap hana, erp",7.2
+Randy Vasquez,Hadoop,BE,"postgresql, sql, oracle, mongodb, dbms",11.2
+Roy Bryant,Automation Testing,BE,"automation, selenium, python",0.2
+James Rogers,Web Designing,BTECH,"bootstrap, figma, html",1.5
+Sarah Morgan,PMO,BTECH,"project management, jira, agile",2.5
+Christopher Dyer,Automation Testing,BE,"junit, pytest, automation, python, selenium",10.7
+Kimberly Miller,Business Analyst,BA,"sql, power bi, analytics",6.6
+Mary Romero,Operations Manager,BTECH,"supply chain, logistics, team management",12.7
+Robert Woods,SAP Developer,MBA,"abap, fiori, sap hana, erp",12.8
+Lisa Hamilton,Hadoop,BE,"hive, mapreduce, pig, spark,  ",5.4
+Jesus Miller,Engineer,BE,"c++, control systems, matlab",3.6
+Alexandra Barajas,ETL Developer,BTECH,"java, rest api, spring, microservices",4.5
+Victor Mills,Database,BE,"postgresql, mongodb, oracle, dbms",13.1
+Shane Fox,Network Security Engineer,BTECH,"firewall, networking, vpn, security",3.2
+Teresa Frye MD,HR,MBA,"recruitment, interviewing, communication, employee relations, ms excel",1.4
+Michael Cochran,DevOps,BTECH,"kubernetes, docker, ansible, ci/cd",13.6
+David Bautista,Electrical Engineer,BE,"circuit design, electronics, vlsi",1.3
+James Carson,Data Scientist,MTECH,"ml, statistics, data mining",5.7
+Hailey Johnson,DotNet Developer,BTECH,"asp.net, mvc, .net, c#, entity framework",4.5
+Lisa Williams,Blockchain,MTECH,"ethereum, , web3.js, smart contracts, solidity",14.5
+Samantha Welch,DevOps,MTECH,"ansible, jenkins, docker, kubernetes, ci/cd",7.1
+Kara Vega,Advocate,PHD,"legal research, drafting, law, litigation",10.2
+Bryan Mendoza,Business Analyst,MBA,"requirement gathering, sql, power bi, excel",0.0
+Elizabeth Flores,Data Scientist,MTECH,"statistics, ml, python",6.4
+Alicia Graham,Civil Engineer,BTECH,"autocad, staad pro, construction",1.4
+Hannah Coffey,Advocate,BA,"drafting, law, legal research, litigation",5.5
+Lisa Roberts,Mechanical Engineer,BE,"cam, solidworks, mechanics",0.7
+Lauren Simmons,SAP Developer,MBA,"sap hana, sap, erp",11.2
+Michael Coleman,Automation Testing,BTECH,"automation, python, junit, selenium",5.9
+Jeffrey Sanchez,Tableau Developer,BTECH,"fiori, abap, erp",10.5
+Becky Terry,Engineer,BE,"c, embedded systems, c++",7.3
+Thomas Butler Jr.,Arts,BA,"drawing,    , psychology",2.6
+Gerald Carson,DotNet Developer,BE,"c#, .net, entity framework",11.6
+Danielle Petty,Data Scientist,PHD,"data mining, python, statistics",8.1
+Michael Mcneil,Civil Engineer,BE,"construction, autocad, estimation",7.7
+Rebecca Frank,Operations Manager,MBA,"supply chain, team management, operations, strategy, logistics",14.9
+Jennifer Santiago,Operations Manager,MBA,"team management, supply chain, logistics, strategy",11.2
+Peter Valenzuela,DotNet Developer,BTECH,"entity framework, mvc, asp.net",4.6
+Dillon Collier,Arts,BE,"firewall, cybersecurity, vpn, networking, security",2.3
+Susan Boyle,Database,BTECH,"sql, postgresql, oracle, mongodb",5.2
+Gary Jordan,Sales,BA,"negotiation, crm, cold calling",14.1
+Curtis Barnes,Tableau Developer,MBA,"sql, data visualization, tableau, dashboards",8.2
+Charles Clark,Mechanical Engineer,BTECH,"thermodynamics, autocad, mechanics, cam, solidworks",7.3
+Jerry Zamora,Hadoop,BTECH," , mapreduce, spark, pig",4.3
+Joseph Roberts,Web Designing,BA,"figma, css, html, javascript",2.1
+Amber Garza,Blockchain,BTECH,"ethereum, solidity, web3.js, smart contracts, ",1.8
+Nicole Jackson,Automation Testing,BTECH,"pytest, python, selenium, junit, automation",12.3
+Mr. David Green,Electrical Engineer,BTECH,"matlab, circuit design, electronics, signal processing",2.7
+Glenn Perez,HR,BA,"interviewing, recruitment, employee relations, ms excel",14.4
+Jasmine Cooper,Tableau Developer,MBA,"dashboards, bi tools, data visualization, tableau, sql",3.7
+Marissa Martin,SAP Developer,MBA,"erp, fiori, sap",14.9
+Deborah Torres,Blockchain,MTECH,", ethereum, web3.js, solidity",2.6
+Michael Jones,Database,MTECH,"postgresql, sql, dbms, oracle",12.7
+Angelica Rivera,Sales,BA,"negotiation, crm, cold calling, , lead generation",10.2
+Clayton Buckley,Java Developer,BTECH,"sql, requirement gathering, excel, power bi, analytics",9.7
+David Lane,Mechanical Engineer,BE,"solidworks, mechanics, thermodynamics, cam",6.3
+Linda Moss,Mechanical Engineer,BE,"cam, thermodynamics, mechanics",1.6
+Amy Turner,Hadoop,MTECH,"pig,  , spark, mapreduce",14.1
+Cassandra Johnson,PMO,MBA,"agile, ms project, project management, jira",3.6
+Bobby Nash,Mechanical Engineer,BTECH,"autocad, solidworks, thermodynamics, mechanics, cam",
+Scott Kelley,Sales,MBA,"lead generation, , crm, negotiation",1.6
+Dr. David Santana PhD,HR,MBA,"ms excel, employee relations, interviewing",10.1
+Erin Fleming,DotNet Developer,BTECH,".net, c#, entity framework, asp.net",7.0
+Amanda Mcintosh,Sales,MBA,", crm, cold calling, negotiation, lead generation",9.0
+April Jefferson,Sales,MBA,"cold calling, , negotiation, crm",4.2
+Jason Walsh,Data Scientist,BTECH,"sql, data warehousing, informatica, etl",3.7
+Billy Wilson,DotNet Developer,MBA,"analytics, power bi, sql",5.5
+Carla Jones,Blockchain,MTECH,"oracle, sql, dbms",8.5
+Beverly Knapp,Network Security Engineer,BTECH,"vpn, security, firewall, cybersecurity",9.1
+Nicholas Ramos,Advocate,PHD,"drafting, law, contracts, legal research, litigation",11.4
+James Russell,Engineer,BE,"matlab, c, control systems, embedded systems",6.6
+Joshua Thompson,Advocate,PHD,"litigation, legal research, drafting, contracts, law",2.1
+Christopher Pacheco,PMO,MBA,"jira, project management, scrum",6.5
+Ann Nichols,Blockchain,BTECH,", solidity, web3.js",6.8
+Alejandra Wells,Automation Testing,BTECH,"selenium, automation, junit",5.8
+Corey Ford,Network Security Engineer,BTECH,"vpn, networking, cybersecurity",7.2
+Stephen Wood,DotNet Developer,BTECH,"c#, entity framework, mvc, .net",3.6
+Sean Foley,Hadoop,BTECH,"strategy, team management, logistics",8.7
+Holly Morgan,Engineer,BE,"control systems, c++, embedded systems, c",3.4
+Robin Franklin,Arts,BA,"psychology, sculpting, history, sociology,    ",13.3
+John Hall,Automation Testing,BE,"pytest, junit, selenium, python",
+Nicole Webb,Blockchain,BTECH,"ethereum, solidity, , web3.js, smart contracts",9.7
+Alyssa Johnson,DevOps,BTECH,"ansible, jenkins, kubernetes",11.8
+Jose Hughes,Business Analyst,BTECH,"cam, mechanics, solidworks",5.3
+Tara Pennington,HR,BA,"ms excel, employee relations, communication, interviewing",11.5
+Robert Parrish,Tableau Developer,MBA,"tableau, dashboards, sql, data visualization",14.8
+Debra West,Engineer,BTECH,"c, matlab, embedded systems, control systems",7.7
+Heather Benitez,DevOps,MTECH,"kubernetes, jenkins, ansible, ci/cd",3.8
+Ann Erickson,Mechanical Engineer,BE,"mechanics, solidworks, thermodynamics",12.2
+Greg Huang,Tableau Developer,BTECH,"bi tools, tableau, dashboards",5.7
+Dr. Ann Thompson,Database,BE,"oracle, dbms, postgresql, mongodb, sql",10.5
+Melissa Mendoza,Java Developer,BE,"hibernate, spring, java",11.7
+Terry Ramirez,Web Designing,BSC,"html, bootstrap, javascript, figma",5.2
+Ashlee Ayala,ETL Developer,MTECH,"etl, data warehousing, sql, informatica",5.4
+Andrea Miles,Data Scientist,PHD,"python, data mining, deep learning",6.7
+Janet Williams,Hadoop,BE,"hive, mapreduce,  , pig, spark",10.7
+Mr. Adam Bell,Web Designing,BA,"contracts, legal research, drafting",5.5
+Cynthia Dyer,Business Analyst,BTECH,"asp.net, c#, mvc",14.0
+Matthew Everett,Business Analyst,BTECH,"sql, analytics, requirement gathering, power bi, excel",2.5
+Hailey Rollins,Sales,MBA,"cold calling, negotiation, lead generation, ",5.8
+Julie Vaughan,Blockchain,MTECH,"ethereum, , web3.js, solidity",15.0
+Laura Cummings,Automation Testing,BTECH,"pytest, selenium, python",12.4
+Kimberly Wilson,Database,BE,"sql, mongodb, postgresql, dbms, oracle",14.2
+Michelle Whitney,Python Developer,BE,"flask, python, fastapi, django, pandas",9.8
+Daniel English,Tableau Developer,MBA,"bi tools, data visualization, sql",13.3
+David Coffey,Data Scientist,MTECH,"data mining, deep learning, statistics",7.0
+Gary Mcgee DVM,Advocate,BA,"contracts, legal research, law, drafting",14.9
+Jeffrey Howard,Health and fitness,BSC,"nutrition, training, fitness coaching, anatomy, yoga",1.7
+James Harris,ETL Developer,MTECH,"data warehousing, sql, etl",10.9
+James Gillespie,Health and fitness,BSC,"training, nutrition, anatomy",12.9
+Brian Montgomery,Civil Engineer,BE,"autocad, estimation, construction, structural analysis",10.8
+Michael Graham,DevOps,BTECH,"docker, kubernetes, jenkins, ansible, ci/cd",5.9
+Danny Mills,Mechanical Engineer,BTECH,"mechanics, cam, solidworks",11.7
+Carol Lawson,DevOps,MTECH,"jenkins, docker, kubernetes",6.8
+Gabriel Morales,Hadoop,BE,"flask, pandas, python, fastapi, django",12.3
+Debbie Rodriguez,Blockchain,BTECH,"sql, analytics, power bi, excel",14.8
+Tina James,Mechanical Engineer,BTECH,"python, automation, selenium, pytest, junit",9.9
+Daniel Chandler,Python Developer,MTECH,"django, pandas, flask",14.2
+Patricia Mccarthy,Tableau Developer,MBA,"sql, tableau, dashboards, data visualization, bi tools",7.4
+Shannon Cox,Web Designing,BSC,"figma, html, bootstrap, css",11.2
+Linda Taylor,Arts,BA,"   , psychology, sociology, history",5.9
+Sean Lucas,Python Developer,BE,"django, flask, pandas, python, fastapi",7.6
+Garrett Jordan,Business Analyst,MBA,"requirement gathering, sql, analytics",2.4
+Peter Wiley,Operations Manager,MBA,"team management, operations, strategy, logistics",3.8
+Katherine Weber,Database,BE,"dbms, mongodb, postgresql",2.5
+Nicholas Cummings,Sales,BA,", negotiation, crm, cold calling",1.2
+Deborah Elliott,Operations Manager,MBA,"strategy, operations, logistics, team management",0.7
+Craig Hernandez,Civil Engineer,BTECH,"construction, structural analysis, estimation",12.5
+Linda Castillo,Sales,MBA,", lead generation, crm, negotiation",1.2
+Charles Duncan,DotNet Developer,BE,"asp.net, c#, .net, mvc",7.5
+Mrs. Jennifer Williamson,Automation Testing,BE,"sql, postgresql, oracle",5.5
+Shawn Barnes,SAP Developer,BTECH,"erp, sap hana, fiori, sap",12.7
+John Dunn,Arts,BA,"history, painting, drawing",3.5
+Adam Lewis,Advocate,PHD,"drafting, legal research, contracts",14.8
+Rodney Sanford,Network Security Engineer,BTECH,"security, firewall, cybersecurity, vpn",4.1
+Stephanie Quinn,Blockchain,BTECH,"web3.js, ethereum, , smart contracts, solidity",4.2
+Nathan Stevenson,Database,BE,"postgresql, mongodb, oracle",0.4
+Kelly Richardson,Tableau Developer,MBA,"sql, dashboards, tableau",14.6
+Charlotte King,Health and fitness,BA,"fitness coaching, training, anatomy",14.0
+Stefanie Ward,Automation Testing,BTECH,"automation, python, pytest, selenium",13.7
+Cynthia Curtis,Electrical Engineer,BE,"circuit design, vlsi, matlab",5.7
+Megan Villanueva,Tableau Developer,BE,"mongodb, sql, postgresql",9.2
+Robert Torres,ETL Developer,MTECH,"data warehousing, ssrs, informatica, sql",1.7
+Robert Coleman,Health and fitness,BSC,"anatomy, fitness coaching, nutrition, yoga",9.2
+Joseph Miller,ETL Developer,BTECH,"etl, informatica, ssrs",14.1
+Donald Snyder,Automation Testing,BE,"junit, selenium, automation, python",2.4
+John Banks,Data Scientist,PHD,"deep learning, data mining, statistics",13.9
+Robert King,Advocate,BA,"litigation, contracts, law, legal research, drafting",4.0
+Cody Cunningham,DevOps,BTECH,"docker, jenkins, kubernetes, ci/cd, ansible",11.1
+Tony Chang,Database,BE,"sql, postgresql, mongodb",5.7
+Nicholas Carr,Health and fitness,BSC,"fitness coaching, yoga, nutrition",1.8
+Jonathan Scott,SAP Developer,BTECH,"erp, sap, abap, sap hana",14.6
+Becky Alvarado,Database,MTECH,"dbms, oracle, postgresql",6.1
+Julie Rowe,Operations Manager,MBA,"team management, operations, supply chain, logistics, strategy",8.0
+Zachary Ware,Hadoop,BE,"hive, spark, pig",11.5
+Monica Hicks,Web Designing,BSC,"bootstrap, figma, html, css",5.4
+Steven Williams,Mechanical Engineer,BE,"mechanics, autocad, thermodynamics, solidworks",0.5
+Jessica Henderson,Mechanical Engineer,BE,"thermodynamics, cam, mechanics",14.3
+Michael Smith,PMO,MBA,"agile, ms project, jira, project management",10.7
+Adam Mckenzie,ETL Developer,BE,"sql, ssrs, etl",12.1
+Wesley Knight,Data Scientist,MTECH,"deep learning, python, statistics",8.8
+Willie Watson,Hadoop,BE,"spark, hive, mapreduce,  ",14.7
+Terri Frye,Civil Engineer,BTECH,"estimation, staad pro, structural analysis, construction",8.1
+Megan Moreno,Python Developer,BE,"django, flask, fastapi, pandas",5.7
+Louis Meyers,DevOps,BTECH,"docker, ansible, kubernetes, ci/cd, jenkins",13.0
+Stephanie Schmidt,PMO,BTECH,"scrum, jira, ms project",1.0
+Melissa Robertson,Automation Testing,BTECH,"python, automation, junit, pytest",11.1
+Albert Wallace,DotNet Developer,BTECH,"c#, mvc, asp.net",8.2
+Sandra Lee,Arts,BA,"psychology, history, sociology",4.4
+Steve Johnson,Civil Engineer,BE,"estimation, structural analysis, staad pro, construction",10.7
+Bryan Higgins,SAP Developer,MBA,"abap, fiori, sap hana, erp, sap",9.1
+Adam Roberts,Data Scientist,PHD,"statistics, ml, data mining",8.7
+Rebecca Thompson,Python Developer,MTECH,"fastapi, pandas, django, flask, python",0.5
+Raymond Garner,DotNet Developer,MTECH,"deep learning, statistics, python",10.9
+Linda Shannon,Business Analyst,BTECH,"analytics, power bi, excel",6.6
+Patricia Bradley,Civil Engineer,MTECH,"kubernetes, ansible, ci/cd, jenkins, docker",3.2
+Christy Decker,Automation Testing,BTECH,"pytest, selenium, automation, junit, python",11.4
+Barbara Livingston,SAP Developer,MBA,"sap hana, fiori, sap, erp",4.0
+Michele Johnson,Database,BTECH,"postgresql, sql, mongodb, oracle",9.5
+Daniel Espinoza,Operations Manager,MBA,"operations, supply chain, strategy, team management",3.4
+Mary Campbell,DotNet Developer,BTECH,"mvc, entity framework, c#",7.2
+Bailey Hebert,Advocate,BA,"legal research, contracts, litigation, law, drafting",2.8
+Katie Franklin,Sales,MBA,"cold calling, crm, ",13.7
+John Estrada,Java Developer,BTECH,"java, hibernate, microservices, spring, rest api",10.1
+Kevin Palmer,Advocate,PHD,"legal research, law, litigation, contracts",12.6
+Antonio Rice,PMO,MBA,"agile, scrum, jira, ms project, project management",9.6
+Kevin Miller,Sales,MBA,"lead generation, cold calling, crm, , negotiation",6.6
+Gina Thornton,Python Developer,BTECH,"pandas, flask, django",6.4
+Joseph Medina,ETL Developer,BTECH,"sql, data warehousing, informatica",13.9
+Ray Murphy,Operations Manager,MBA,"logistics, strategy, operations, supply chain, team management",2.8
+Chad Lopez,Sales,BA,"cold calling, crm, , lead generation",10.0
+Alexandra Brooks,Blockchain,MBA,"bi tools, dashboards, tableau, sql, data visualization",2.4
+Joseph Wright,Operations Manager,MBA,"supply chain, team management, strategy, logistics, operations",9.6
+Jeffrey Fernandez,Health and fitness,BSC,"fitness coaching, training, nutrition, yoga",4.1
+Morgan Richmond,Network Security Engineer,BTECH,"security, vpn, cybersecurity, networking, firewall",14.0
+Heather Martinez,Arts,BA,"psychology, sociology, sculpting",6.1
+Amanda Suarez,Automation Testing,BE,"automation, python, junit",12.8
+Tracy Jordan,Arts,BA,"painting, psychology, drawing, sculpting",4.8
+Paul Espinoza,Business Analyst,BE,"networking, firewall, cybersecurity, security",7.2
+Tiffany Shaw,Automation Testing,BTECH,"python, junit, automation, selenium, pytest",1.6
+Jill Miller,Hadoop,BE,"pig, mapreduce, spark,  , hive",8.0
+Michael Freeman,Arts,BA,"sculpting, drawing,    , sociology, painting",6.2
+Michael Hines,Hadoop,MTECH,"hive, spark, pig,  , mapreduce",13.2
+Mr. Kevin Jackson,Automation Testing,BE,"python, automation, junit, pytest, selenium",12.6
+Juan Davis,Civil Engineer,BTECH,"structural analysis, autocad, estimation",9.0
+Yvonne Smith,Automation Testing,BE,"automation, pytest, selenium, python",3.8
+Elizabeth Thompson,HR,BA,"recruitment, communication, interviewing",4.6
+Maurice Morgan,Tableau Developer,BTECH,"sql, dashboards, bi tools, data visualization",10.2
+Norman Bass,Blockchain,MTECH,"ethereum, web3.js, , solidity",1.4
+Christine Rodriguez,Health and fitness,BA,"nutrition, training, yoga, anatomy",5.3
+Michael Davis,Data Scientist,BTECH,"deep learning, ml, python, data mining, statistics",14.1
+Jorge Baker,Civil Engineer,BE,"construction, autocad, structural analysis, staad pro, estimation",13.4
+Jeffrey King,Health and fitness,BA,"fitness coaching, yoga, nutrition, anatomy",8.0
+Mrs. Julie Lopez,Health and fitness,BSC,"training, anatomy, fitness coaching, nutrition",7.2
+Robert Smith,Electrical Engineer,BE,"matlab, vlsi, circuit design, signal processing",5.2
+Matthew Stewart,Sales,MBA,", cold calling, crm, negotiation",5.8
+Erika Brown,HR,BA,"ms excel, communication, recruitment",7.1
+Amanda Stout,Advocate,PHD,"drafting, contracts, legal research, law",6.9
+Brooke Hawkins,Sales,BA,"crm, negotiation, lead generation, ",1.1
+Christina Ho,Automation Testing,BTECH,"automation, python, selenium, junit, pytest",11.8
+James Mendez,Sales,BA,", negotiation, cold calling",3.1
+Pamela Ellis,Network Security Engineer,MTECH,"ethereum, solidity, web3.js, , smart contracts",10.0
+Deborah Williams,Sales,MBA,", cold calling, crm, lead generation",14.9
+Angela Pope,PMO,MBA,"project management, scrum, agile, jira",3.5
+Matthew Jones,DotNet Developer,BE,".net, asp.net, entity framework, c#",5.5
+Alexandra Montes,Java Developer,MTECH,"spring, java, rest api, microservices",12.4
+Jared Stanton,Automation Testing,BTECH,"junit, pytest, python, automation, selenium",10.0
+Thomas Pace,Operations Manager,MBA,"strategy, team management, logistics",2.7
+Nicole Jacobs,DotNet Developer,BTECH,"mvc, asp.net, .net, c#",8.4
+Leah Valdez,Web Designing,BTECH,"javascript, html, figma",12.2
+Raymond Harris,SAP Developer,MBA,"sap, abap, erp, fiori, sap hana",10.9
+Danielle Russell,Arts,BA,"history, psychology,    , sociology",14.1
+Carl Conway,DotNet Developer,BTECH,"mvc, asp.net, c#, entity framework",3.7
+Sean Carter,Health and fitness,BTECH,"matlab, c++, embedded systems, control systems",7.9
+Andrew Thomas,Automation Testing,BTECH,"abap, sap hana, fiori, erp",5.3
+Barbara Burgess,Automation Testing,BTECH,"selenium, junit, pytest, automation, python",13.7
+Michael Blair,Data Scientist,BTECH,"statistics, ml, deep learning, data mining",7.7
+Brian Fisher,Tableau Developer,BTECH,"bi tools, dashboards, data visualization, tableau, sql",3.0
+James Mejia,SAP Developer,MBA,"erp, sap hana, fiori, abap, sap",10.6
+Mary Cooke,ETL Developer,BE,"ssrs, data warehousing, informatica, etl, sql",12.0
+Lee Sherman,Health and fitness,BA,"anatomy, training, fitness coaching, yoga, nutrition",2.5
+Jenna Spears,Sales,MBA,"negotiation, cold calling",6.8
+Teresa Cruz,DevOps,BE,"jenkins, docker, ci/cd, kubernetes",3.6
+Faith Taylor,Operations Manager,MBA,"logistics, strategy, supply chain, operations",2.3
+Dave Diaz,Arts,BA,"history, sociology, drawing",13.9
+Emily Hodges,DevOps,BTECH,"ansible, kubernetes, ci/cd, docker, jenkins",0.2
+Kimberly Hill,Civil Engineer,BTECH,"autocad, structural analysis, construction, staad pro",9.5
+Lisa Zamora,Python Developer,BTECH,"python, flask, pandas, django, fastapi",
+Margaret Sanders,Hadoop,BTECH,"hive, mapreduce, spark",12.6
+Eric Merritt,DotNet Developer,BTECH,"entity framework, asp.net, mvc, c#, .net",
+David Long,Data Scientist,MTECH,"deep learning, python, statistics, ml",9.0
+Ms. Lindsey Simpson DVM,Electrical Engineer,BE,"vlsi, electronics, matlab, circuit design",0.3
+Frank Sullivan,Data Scientist,BTECH,"ml, deep learning, python",10.7
+Brendan Ballard,Arts,BA,"history, sociology,    , painting",10.0
+Charles Washington,Sales,BA,"crm, lead generation, cold calling",13.8
+Scott Black,Mechanical Engineer,BE,"autocad, cam, mechanics, thermodynamics",
+William Fox,ETL Developer,BE,"postgresql, mongodb, oracle, dbms",10.0
+Sandy Gray,Tableau Developer,BTECH,"sql, data visualization, tableau",10.0
+Michael Robinson,Engineer,BE,"control systems, c++, matlab",4.4
+Ellen Chandler,Web Designing,BSC,"javascript, html, css, bootstrap, figma",1.0
+Christopher King,ETL Developer,BE,"ssrs, etl, sql, data warehousing",5.2
+Megan Mckinney DVM,DevOps,MTECH,"ci/cd, jenkins, docker, kubernetes, ansible",13.8
+Joseph Mcdonald,Advocate,BA,"litigation, law, contracts, legal research, drafting",11.5
+Richard Hammond,,BTECH,"ml, data mining, statistics, deep learning, python",4.5
+Sharon Wright,Engineer,BE,"c++, embedded systems, matlab",2.6
+Michael Jones,HR,BA,"interviewing, ms excel, communication",3.4
+Jaime Allen,Data Scientist,MTECH,"python, ml, data mining, deep learning",
+Brandon Morgan,ETL Developer,BTECH,"data warehousing, etl, sql, ssrs",10.3
+Randy Carpenter,Blockchain,BTECH,"web3.js, ethereum, solidity, smart contracts",7.0
+Ricardo Larsen,Civil Engineer,BTECH,"staad pro, construction, estimation, autocad",1.4
+Ariel Hunter,Network Security Engineer,BE,"vpn, security, firewall, cybersecurity, networking",10.2
+Jeff Torres,HR,MBA,"recruitment, ms excel, employee relations",11.2
+Teresa Ibarra,HR,BA,"ms excel, interviewing, recruitment",14.1
+Jack Wilson,HR,BA,"communication, interviewing, employee relations, ms excel, recruitment",8.3
+Julie Miller,DevOps,BE,"kubernetes, ansible, jenkins, docker",
+Nicholas Padilla,Java Developer,BTECH,"java, rest api, spring, hibernate",
+Traci Madden,Engineer,BE,"c++, c, embedded systems, control systems",4.3
+Mary Wright,DotNet Developer,BTECH,"mvc, asp.net, entity framework, .net, c#",
+Tyler Mitchell PhD,Advocate,BA,"litigation, contracts, law, legal research",1.4
+Mary Garcia,Data Scientist,PHD,"deep learning, ml, python, data mining",
+Brandi James,ETL Developer,MTECH,"etl, data warehousing, ssrs, sql, informatica",2.2
+Maria Anderson,Java Developer,BTECH,"hibernate, microservices, java, rest api",10.1
+Rachel Wolf,DevOps,BE,"ansible, kubernetes, jenkins",9.3
+Mr. Phillip Lowery,Mechanical Engineer,BE,"solidworks, cam, autocad, mechanics",4.6
+Kevin Barker,PMO,BTECH,"ms project, jira, scrum, project management, agile",13.1
+Melissa Anderson,Java Developer,BTECH,"java, spring, rest api, microservices, hibernate",0.0
+Gregory Williams,Python Developer,MTECH,"flask, pandas, django, fastapi, python",6.8
+Carla Cisneros,ETL Developer,MTECH,"etl, informatica, data warehousing",0.3
+Ann Conley,SAP Developer,BTECH,"abap, fiori, erp, sap, sap hana",5.5
+Joann Reed,Mechanical Engineer,BTECH,"solidworks, thermodynamics, mechanics",
+Andrew Lindsey,Mechanical Engineer,BTECH,"cam, solidworks, autocad, mechanics",5.0
+Rachel Pena,DevOps,BTECH,"control systems, embedded systems, c++, matlab, c",3.3
+Courtney Marshall,Business Analyst,MBA,"sql, power bi, excel, analytics",12.0
+Benjamin Leonard,Engineer,BE,"matlab, embedded systems, control systems, c++, c",
+Troy Robertson,Civil Engineer,BE,"staad pro, autocad, construction, estimation",0.9
+Mr. Mark Wade,Business Analyst,BTECH,"operations, logistics, strategy, team management, supply chain",
+Brandy Sutton,PMO,BTECH,"project management, scrum, agile, jira, ms project",
+Rachel Mathis,Civil Engineer,BTECH,"construction, estimation, staad pro",0.3
+Dawn Rivera,HR,BA,"recruitment, employee relations, ms excel, interviewing, communication",4.9
+Allison Dunn,Arts,BA,"sculpting, history, psychology",12.9
+Steven Williams,Civil Engineer,BE,"structural analysis, estimation, construction, autocad, staad pro",12.2
+Ryan Marshall,Blockchain,BTECH,"web3.js, ethereum, smart contracts, solidity",12.5
+Deborah Hanson,Hadoop,BE,"spark, mapreduce, pig, hive",1.8

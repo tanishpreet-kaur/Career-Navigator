@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Career Navigator</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+  <style>
+    :root {
+      --primary-color: #895129;
+      --secondary-color: #0056b3;
+      --accent-color: #28a745;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      background-image: url("/static/bg1.jpg");
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+    }
+
+    .navbar-brand {
+      color: #895129 !important;
+    }
+
+    .btn-primary {
+      background-color: var(--primary-color);
+      border: none;
+      padding: 12px 30px;
+      border-radius: 25px;
+    }
+
+    .btn-primary:hover {
+      background-color: var(--secondary-color);
+    }
+
+    .upload-section {
+      margin-top: 160px;
+      margin-bottom: 60px;
+    }
+
+    .upload-box {
+      max-width: 500px;
+      margin: auto;
+      padding: 40px;
+      background-color: #ffffff;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      text-align: center;
+    }
+
+    .upload-box h2 {
+      color: #2c3e50;
+      margin-bottom: 10px;
+    }
+
+    .upload-box p.description {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 25px;
+    }
+
+    .upload-box input[type="file"] {
+      margin: 15px 0;
+    }
+
+    .upload-box input[type="submit"] {
+      background-color: #895129;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .upload-box input[type="submit"]:hover {
+      background-color: #895129b3;
+    }
+
+    footer {
+      margin-top: 89px;
+      background-color: rgba(79, 41, 24, 0.85);
+      font-size: 0.9rem;
+      color: #fff;
+      padding: 5px 0;
+    }
+
+    @media (max-width: 576px) {
+      footer h5 {
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+        <a class="navbar-brand fw-bold text-primary d-flex align-items-center" href= "{{ url_for('home')}}" >
+            <img src="{{ url_for('static', filename='nav-logo.png') }}" alt="Logo" style="height: 50px; margin-right: 10px;">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="btn btn-primary ms-3" href="{{ url_for('upload') }}">Job Role</a>
+                </li>
+                <li class="nav-item">
+                    <a class="btn btn-primary ms-3" href="{{ url_for('salary') }}">Predict your Salary</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+  <!-- Upload Resume Section -->
+  <section class="upload-section">
+    <div class="upload-box">
+      <h2>Upload Your Resume</h2>
+      <p class="description">Submit your resume to get instant career insights and tailored recommendations.</p>
+      <form method="POST" action="/upload" enctype="multipart/form-data">
+        <input type="file" name="resume" accept=".pdf,.docx" required><br><br>
+        <input type="submit" value="Upload & Analyze">
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="text-white">
+    <div class="container py-2">
+      <div class="row text-center text-md-start">
+        <div class="col-md-6 mb-2">
+          <h5 class="fw-bold mb-1">Career Navigator</h5>
+          <p class="mb-0">Helping you land where you belong</p>
+        </div>
+        <div class="col-md-6 mb-2">
+          <h5 class="fw-bold mb-1">Contact Us</h5>
+          <p class="mb-0"><i class="fas fa-envelope me-2"></i>support@careernavigator.com</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

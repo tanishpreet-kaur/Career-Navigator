@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Career Navigator</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+  
+  <style>
+    :root {
+      --primary-color: #895129;
+      --secondary-color: #0056b3;
+      --accent-color: #28a745;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      background-image: url("/static/bg1.jpg");
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+    }
+
+    .feature-card {
+      border-radius: 15px;
+      transition: transform 0.3s ease;
+      border: none;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .feature-card:hover {
+      transform: translateY(-5px);
+    }
+
+    .person-icon {
+      color: var(--secondary-color);
+      font-size: 2.5rem;
+    }
+
+    .cash-icon {
+      color: var(--accent-color);
+      font-size: 2.5rem;
+    }
+
+    .btn-primary {
+      background-color: var(--primary-color);
+      border: none;
+      padding: 12px 30px;
+      border-radius: 25px;
+    }
+
+    .btn-primary:hover {
+      background-color: var(--secondary-color);
+    }
+
+    .hero-section {
+      margin-top: 200px;
+      margin-bottom: 100px;
+      padding: 120px 0 80px;
+      text-align: center;
+      color: white;
+      background: rgba(0, 0, 0, 0);
+    }
+
+    .hero-section h1, .hero-section p {
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    }
+
+    .hero-section p {
+      font-size: 1.5rem;
+    }
+
+    .navbar-brand {
+      color: #895129 !important;
+    }
+
+    footer {
+    background-color: rgba(79, 41, 24, 0.85);
+    font-size: 0.9rem;
+    color: #fff;
+    padding: 5px 0;
+}
+
+@media (max-width: 576px) {
+    footer h5 {
+        font-size: 1rem;
+    }
+}
+  </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+        <a class="navbar-brand fw-bold text-primary d-flex align-items-center" href= "{{ url_for('home')}}">
+            <img src="{{ url_for('static', filename='nav-logo.png') }}" alt="Logo" style="height: 50px; margin-right: 10px;">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="btn btn-primary ms-3" href="{{ url_for('upload') }}">Job Role</a>
+                </li>
+                <li class="nav-item">
+                    <a class="btn btn-primary ms-3" href="{{ url_for('salary') }}">Predict your Salary</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="container">
+      <h1 class="display-4 fw-bold mb-4">Welcome to CAREER NAVIGATOR</h1>
+      <p class="lead mb-4">Helping You Land Where You Belong</p>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section id="features" class="py-5">
+    <div class="container">
+      <h2 class="text-center mb-5 text-white display-5 fw-bold">Features</h2>
+      <div class="row">
+        <div class="col-md-6 mb-4">
+          <div class="card feature-card h-100">
+            <div class="card-body text-center p-5">
+              <i class="bi bi-person-plus-fill person-icon mb-4"></i>
+              <h3 class="card-title">Job Role</h3>
+              <p class="card-text">Upload your resume and find the job roles best suited for you.</p>
+              <a href="{{ url_for('upload') }}" class="btn btn-primary">Upload Resume</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 mb-4">
+          <div class="card feature-card h-100">
+            <div class="card-body text-center p-5">
+              <i class="bi bi-cash-coin cash-icon mb-4"></i>
+              <h3 class="card-title">Salary Prediction</h3>
+              <p class="card-text">Get an estimate of your salary based on your skills and experience.</p>
+              <a href="{{ url_for('salary') }}" class="btn btn-primary">Enter Details</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+<footer class="text-white">
+    <div class="container py-2">
+        <div class="row text-center text-md-start">
+            <div class="col-md-6 mb-2">
+                <h5 class="fw-bold mb-1">Career Navigator</h5>
+                <p class="mb-0">Helping you land where you belong</p>
+            </div>
+            <div class="col-md-6 mb-2">
+                <h5 class="fw-bold mb-1">Contact Us</h5>
+                <p class="mb-0"><i class="fas fa-envelope me-2"></i>support@careernavigator.com</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
