@@ -3,7 +3,6 @@ Gunicorn
 scikit-learn
 numpy
 pandas
-re
 spacy
 fitz  
 docx
