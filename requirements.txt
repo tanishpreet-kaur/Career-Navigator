@@ -6,8 +6,7 @@ pandas
 spacy
 PyMuPDF             
 python-docx        
-joblib
-python-dateutil    
+joblib    
 resume-parser       
 seaborn
 matplotlib
