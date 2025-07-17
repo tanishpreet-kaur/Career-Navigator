@@ -3,6 +3,8 @@ import spacy
 import fitz  
 import docx
 import joblib
+from dateutil import parser
+from datetime import datetime
 import numpy as np
 import string
 
@@ -47,19 +49,19 @@ def extract_name(text):
 
 # Extract education 
 EDUCATION_PATTERNS = {
-    r'\b(b[\.\s-]*tech)\b': "B.Tech",
-    r'\b(b[\.\s-]*e)\b': "B.E.",
-    r'\b(m[\.\s-]*tech)\b': "M.Tech",
-    r'\b(m[\.\s-]*e)\b': "M.E.",
-    r'\b(ph[\.\s-]*d)\b': "Ph.D",
-    r'\b(m[\.\s-]*sc)\b': "M.Sc",
-    r'\b(b[\.\s-]*sc)\b': "B.Sc",
-    r'\b(m[\.\s-]*ca)\b': "MCA",
-    r'\b(b[\.\s-]*ca)\b': "BCA",
-    r'\b(mba)\b': "MBA",
+    r'\b(b[\.\s-]*e|bachelor of engineering|bachelors of engineering)\b': "B.E.",
+    r'\b(b[\.\s-]*tech|bachelor of technology|bachelors of technology)\b': "B.Tech",
+    r'\b(m[\.\s-]*e|master of engineering)\b': "M.E.",
+    r'\b(m[\.\s-]*tech|master of technology)\b': "M.Tech",
+    r'\b(ph[\.\s-]*d|doctor of philosophy)\b': "Ph.D",
+    r'\b(m[\.\s-]*sc|master of science)\b': "M.Sc",
+    r'\b(b[\.\s-]*sc|bachelor of science)\b': "B.Sc",
+    r'\b(mca|master of computer applications)\b': "MCA",
+    r'\b(bca|bachelor of computer applications)\b': "BCA",
+    r'\b(mba|master of business administration)\b': "MBA",
     r'\b(diploma)\b': "Diploma",
-    r'\b(10th|secondary)\b': "Secondary",
-    r'\b(12th|senior secondary)\b': "Senior Secondary",
+    r'\b(10th|secondary|matriculation)\b': "Secondary",
+    r'\b(12th|senior secondary|intermediate|higher secondary)\b': "Senior Secondary",
 }
 
 def extract_education(text):
@@ -71,12 +73,25 @@ def extract_education(text):
     return sorted(list(found))
 
 
+
 # Extract skills
 SKILL_KEYWORDS = [
-    "python", "java", "c++", "sql", "html", "css", "javascript", "excel",
-    "flask", "django", "tensorflow", "pandas", "numpy", "machine learning",
-    "deep learning", "data analysis", "git", "react", "node", "cloud"
+    "python", "java", "c", "c++", "c#", "r", "javascript", "typescript", "go", "ruby", 
+    "kotlin", "scala", "bash", "perl", "php", "swift", "html", "css", "javascript", 
+    "react", "angular", "vue", "node", "express", "bootstrap", "tailwind", "jquery", "sass",
+    "pandas", "numpy", "scipy", "matplotlib", "seaborn", "sklearn", "scikit-learn", "tensorflow", 
+    "keras", "pytorch", "machine learning", "deep learning", "data analysis", "data visualization", 
+    "nlp", "computer vision", "aws", "azure", "gcp", "google cloud", "docker", 
+    "kubernetes", "jenkins", "ansible", "terraform", "linux", "cloud computing", "sql", "mysql", 
+    "postgresql", "mongodb", "sqlite", "oracle", "firebase", "redis", "snowflake", "redshift", "hive", 
+    "power bi", "tableau", "excel", "looker", "qlikview", "google data studio",
+    "git", "github", "bitbucket", "jira", "confluence", "vs code", "pycharm", "postman", 
+    "flask", "django", "spring", "fastapi", "rest api", "graphql", "soap",
+    "leadership", "communication", "teamwork", "problem solving", "critical thinking", 
+    "time management", "adaptability", "strategic thinking", "data engineering", "etl", "big data", 
+    "hadoop", "spark", "airflow", "agile", "scrum", "api testing", "unit testing"
 ]
+
 def extract_skills(text):
     text = text.lower()
     found_skills = []
