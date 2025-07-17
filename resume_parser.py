@@ -28,25 +28,31 @@ def read_pdf(file_stream):
 def extract_name(text):
     lines = text.split('\n')
     lines = [line.strip() for line in lines if line.strip()]
+
+    def looks_like_date_or_year(line):
+        return bool(re.search(r'\b(19|20)\d{2}\b', line)) or re.search(r'(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)', line.lower())
+
     for line in lines[:10]:
-        if line.isupper() and 2 <= len(line.split()) <= 4:
-            if all(word.isalpha() for word in line.split()) and "RESUME" not in line:
-                return line.title()
+        if 2 <= len(line.split()) <= 4 and not looks_like_date_or_year(line):
+            if all(word[0].isupper() for word in line.split()) and "RESUME" not in line.upper():
+                return line.strip()
 
     doc = nlp(text)
     for ent in doc.ents:
         if ent.label_ == "PERSON":
             name = ent.text.strip()
-            name = re.sub(r'\+?\d[\d\s\-()]{7,}', '', name)
-            name = re.sub(r'[^\x00-\x7F]+', '', name)
-            if name.lower() not in SKILL_KEYWORDS and len(name) > 1:
+            name = re.sub(r'\+?\d[\d\s\-()]{7,}', '', name)               
+            name = re.sub(r'[^\x00-\x7F]+', '', name)                    
+            if name.lower() not in SKILL_KEYWORDS and len(name.split()) <= 4:
                 return name.strip()
 
     email_match = re.search(r'([a-zA-Z0-9._%+-]+)@', text)
     if email_match:
         possible_name = email_match.group(1).replace('.', ' ').replace('_', ' ')
         return possible_name.title()
+
     return None
+
 
 
 # Extract education 
