@@ -3,8 +3,6 @@ import spacy
 import fitz  
 import docx
 import joblib
-from dateutil import parser
-from datetime import datetime
 import numpy as np
 import string
 
@@ -26,24 +24,52 @@ def read_pdf(file_stream):
 
 # Extract name 
 def extract_name(text):
+    lines = text.split('\n')
+    lines = [line.strip() for line in lines if line.strip()]
+
+    for line in lines[:10]:
+        if line.isupper() and 2 <= len(line.split()) <= 4:
+            if all(word.isalpha() for word in line.split()) and "RESUME" not in line:
+                return line.title()
+
     doc = nlp(text)
     for ent in doc.ents:
-        if ent.label_ == "PERSON":
-            return ent.text
+        if ent.label_ == "PERSON" and ent.text.lower() not in SKILL_KEYWORDS:
+            return ent.text.strip()
+
+    email_match = re.search(r'([a-zA-Z0-9._%+-]+)@', text)
+    if email_match:
+        possible_name = email_match.group(1).replace('.', ' ').replace('_', ' ')
+        return possible_name.title()
+
     return None
 
+
 # Extract education 
-EDUCATION_KEYWORDS = [
-    "bachelor", "master", "b.tech", "m.tech", "phd", "high school",
-    "mba", "msc", "bsc", "ba", "ma", "mca", "bca", "diploma"
-]
+EDUCATION_PATTERNS = {
+    r'\b(b[\.\s-]*tech)\b': "B.Tech",
+    r'\b(b[\.\s-]*e)\b': "B.E.",
+    r'\b(m[\.\s-]*tech)\b': "M.Tech",
+    r'\b(m[\.\s-]*e)\b': "M.E.",
+    r'\b(ph[\.\s-]*d)\b': "Ph.D",
+    r'\b(m[\.\s-]*sc)\b': "M.Sc",
+    r'\b(b[\.\s-]*sc)\b': "B.Sc",
+    r'\b(m[\.\s-]*ca)\b': "MCA",
+    r'\b(b[\.\s-]*ca)\b': "BCA",
+    r'\b(mba)\b': "MBA",
+    r'\b(diploma)\b': "Diploma",
+    r'\b(10th|secondary)\b': "Secondary",
+    r'\b(12th|senior secondary)\b': "Senior Secondary",
+}
+
 def extract_education(text):
     text = text.lower()
-    education = []
-    for keyword in EDUCATION_KEYWORDS:
-        if keyword in text:
-            education.append(keyword.title())
-    return list(set(education))
+    found = set()
+    for pattern, label in EDUCATION_PATTERNS.items():
+        if re.search(pattern, text):
+            found.add(label)
+    return sorted(list(found))
+
 
 # Extract skills
 SKILL_KEYWORDS = [
