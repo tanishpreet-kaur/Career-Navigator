@@ -28,7 +28,6 @@ def read_pdf(file_stream):
 def extract_name(text):
     lines = text.split('\n')
     lines = [line.strip() for line in lines if line.strip()]
-
     for line in lines[:10]:
         if line.isupper() and 2 <= len(line.split()) <= 4:
             if all(word.isalpha() for word in line.split()) and "RESUME" not in line:
@@ -36,14 +35,17 @@ def extract_name(text):
 
     doc = nlp(text)
     for ent in doc.ents:
-        if ent.label_ == "PERSON" and ent.text.lower() not in SKILL_KEYWORDS:
-            return ent.text.strip()
+        if ent.label_ == "PERSON":
+            name = ent.text.strip()
+            name = re.sub(r'\+?\d[\d\s\-()]{7,}', '', name)
+            name = re.sub(r'[^\x00-\x7F]+', '', name)
+            if name.lower() not in SKILL_KEYWORDS and len(name) > 1:
+                return name.strip()
 
     email_match = re.search(r'([a-zA-Z0-9._%+-]+)@', text)
     if email_match:
         possible_name = email_match.group(1).replace('.', ' ').replace('_', ' ')
         return possible_name.title()
-
     return None
 
 
